@@ -1,0 +1,942 @@
+  jfmnote = {Includes discussions about the 'Maasai , Wakwavi , and Wahumba'  Jacobs 1965:42 . Reprinted 1961 by Horizon Press in New York , with an introduction by Alan Moorehead; and 2001 by Narrative Press in Santa Barbara CA  ISBN-1589760646  
+  jfmnote = {Includes Ga proverbs  Hintze 1959:49 . Reprinted 1969 by Greenwood Press at Westport CT; and Negro Universities Press in New York  ISBN-0837113784  
+  jfmnote = {Includes linguistic material on Dinka and Shilluk  p. 6671 . Reprinted 2006 by Mazziana in Verona  ISBN-9788885073715  
+  jfmnote = {Includes linguistic notes on Kiteke B76 , Kibuma B82  p.457458  , Kiyanzi = Bobangi C32. There are several subsequent editions of this book. The second and third edition seem to have appeared the same year as the first. A fourth edition appeared 1895. The third edition was reprinted in the 1970s by the Negro History Press in Detroit  ISBN-0403003776  
+  jfmnote = {Includes material on Masalit , Aiki , Karanga , Baxat , Kashmere , and Mimi/Mututu. Reprinted 1989 by L'Harmattan in Paris  ISBN-2738402445; viii+535 p.  
+  jfmnote = {Includes much ethnographic information. There are many later printings of this , e.g. one in 1920 by Frederick Hall for H.M. Stationary Office in London , another in 1923 , and a few more. Not sure if these are revisions or reprints.  They all seem to be 440 pages.  The 1920 edition/printing was reprinted 1969 by the Negro Universities Press in New York  ISBN-0837120349 . The original German edition of 1911 had the title 'Militärisches Orientierungsheft für DeutschOstafrika' 
+  jfmnote  = {Includes phonetic summaries of Ewe  Ge dialect  , Yoruba , Fante , Bambara and Malinke , Ganda , Zulu , Nuer , Dinka and with notes on Kikuyu. Reprinted numerous times by Oxford Univ. Press , as well as 1990 by Kegan Paul International , with a new introduction by John Kelly and supplemented with the second edition of a practical orthography of African languages  ISBN-0710302959; xlii+227+24 p.  
+  jfmnote = {Includes sections on 'Egypt'  p. 232302  and 'The African provinces'  p. 303345 . Reprinted 1996 by Barnes & Noble  ISBN-0760701458  
+  jfmnote = {Includes several African word lists , all collected in Brasil , e.g. Masanja  Kikongo?  , 'spoken in the interior of Congo , and to the north of Benguela'  Latham 1847:191  , Tschoambo  Ecuwabo?  , 'spoken in the interior of Mozambique , near the Makuas'  idem:192  , Matibani  Copi?  , 'spoken ... in Inhambane'  idem . Rugendas was 'a Bavarian artist who had travelled through eastern Brasil in the early nineteenth century and had taken down descriptions of West Africa and scraps of speech from negro slaves ... Rugendas dealt with the languages of Añgôla and Moçambique'  Johnston 1919:3 . Reprinted 1986 by DacoVerlag in Stuttgart  ISBN-387135001X  
+  jfmnote = {Includes several vocabularies , e.g. the language of Bornou  Kanuri; p 122123  , 'words from a young woman from Sakkatoo'  Fula?; p 135138  , the language of Tembuctoo  Songhai?; p 146147  , Haousa  p. 149151  , Tibboo language  Daza?; p 232233  , and the language of Sockna/Ertana  Nubian?; p 314316 . Reprinted 1966 by Frank Cass & Co. in London; and 1985 by Darf Publ. in London  ISBN-1850770328  
+  jfmnote = {Includes some 800 proverbs. Hintze  1959:40+44  gives this item twice , with different dates  1916 and 1946  , but otherwise equal details. Reprinted 1969 by Clarendon Press in London; and 1979 by Oxford UP in New York  ISBN-0198231474  
+  jfmnote = {Includes some sort of account of the 'Hottentots' and the Dutch at the Cape of Good Hope. Reprinted 1983 by Maspero in Paris  ISBN-2707114065  
+  jfmnote = {Includes specimens of Ardrah  a Gbe dialect?  , plus a section titled 'The Yebu , Ako , Byo , Hio , Yoruba or Yarriba languages'. Reprinted 1971 by Frank Cass & Co. in London  Cass library of African studies , travels and narratives , #59; ISBN-0714618330  
+  jfmnote = {Includes the original Greek text. Reprinted 1987 by Chthonios in London  ISBN-0948366044  
+  jfmnote = {'In this work ... Kolbe allowed his imagination to run away with his judgment'  Doke 1945:103 . It contains 'comparisons between Indogermanic , Bantu  Herero  , and Hottentot language and rootformation'  Strohmeyer & Moritz 1975:211 . Reprinted 1971 by Books for Libraries Press in Freeport NY  Black heritage library collection; ISBN-0836987926 ; and 1972 by Zentralantiquariat der Deutschen Demokratischen Republik in Leipzig 
+  jfmnote  = {In two parts: EnglishZulu and ZuluEnglish. The second part consists of an abridgement of a ZuluEnglish dictionary originally published in 1953. The abridgement was also published separately in 1958. Reprinted several times by Witwatersrand Univ. Press  ISBN-0854940103  
+  jfmnote = {Is this the same thing as 'Lesebuch zur Heimatkunde von Deutsch Südwestafrika'? The paginations are suspiciously identical. Reprinted 1995 by Peter's Antiques in Swakopmund  ISBN-999167053X  
+  jfmnote = {Johnston collected and systematized more or less all contemporary sources on the Bantu languages into a massive twovolume catalogue of Bantu features , incl. comparative word lists  for individual languages as well as thematic ones  and several thematic chapters on phonology , morphology , etc. The material he used came from published sources as well as his own field data and unpublished notes compiled  sometimes specifically for him  by G.L. Bates , Beba Bell , W.J.B. Chapman , C. Christy , J.F. Cunningham , Rev. R.D. Darby , J.H. Driberg , W. Fisher , W. Forfeitt , Rev. J.J. Fuller , Rev. R. Glennie , Rev. G. Grenfell , Rev. J. Griffiths , R.N. Hall , A.C. Hollis , Rev. A. Jones , Father Keeling , L. Lanne , R. Laws , A.G. Marwick , Consul G.B. Michell , C.F. Molyneaux , G.A.S. Northcote , S. Ormsby , Abbé A. Raponda Walker , E.W. Smith , Rev. W.H. Stapleton , Rev. A.R.I. Steggall , Rev. A.R. Stonelake , E. Torday , J.H. Weeks , A. Werner , Rev. H. Withey , F.V. Worthington , Rev. H.W. Woodward , and others. Johnston's work was reprinted 1977 by the AMS Press in New York  ISBN-040412092X set  
+  jfmnote = {'Later editions persist to the present day'  Doke 1945:74 . Reprinted at least once by Gregg International  ISBN-0576116092  
+  jfmnote  = {Later reprinted by Gregg International  ISBN-0576116157  
+  jfmnote  = {Later reprinted by Gregg International  ISBN-0576116165  
+  jfmnote = {Later reprinted by Gregg International  ISBN-0576116173  
+  jfmnote  = {Later reprinted by Gregg International , with a new introduction by Paul E.H. Hair  ISBN-0576116114  
+  jfmnote = {New edition of 'An introduction to the history of West Africa'. Reprinted 1992 by Gregg Revivals in Aldershot UK  ISBN-0751201022  
+  jfmnote  = {No idea when the first edition appeared. Reprinted a few times by the original publishers  ISBN-0949981222  
+  jfmnote  = {Not sure about the pagination. Reprinted 1968 by Gregg Press at Farnborough  ISBN-0576116211  
+  jfmnote  = {Not sure about this one. It gives different ISBN-info , but seems to be identical to the 1981 edition 
+  jfmnote = {On Tallensi , and perhaps others as well. Reprinted many times , e.g. 1981 by Octagon in New york  ISBN-0374928207 ; and 1983 by Cambridge Univ. Press  Cambridge studies in social anthropology , #48; ISBN-9780521262088 , ISBN-0521262089  
+  jfmnote = {Part 1 = 'The history of the late conquest of the Kingdom of Whidaw by the King of Dahomè' , part 2 = 'The manner how the negroes become slaves' , part 3 = 'A relation of the author's being taken by pirates , and the many dangers he underwent'. Not entirely sure about the pagination. Reprinted 1971 by Frank Cass & Co. in London  Cass library of African studies , slavery series , #11; ISBN-0714618985  
+  jfmnote = {Photobook. Reprinted 1999 by List Verlag in München; and 2006 together with 'Die Nuba vom Kau'  1976  as 'Die Nuba' by Komet in Köln  ISBN-3933366410  
+  jfmnote = {Photobook. Reprinted 2006 together with 'Die Nuba'  1973  as 'Die Nuba' by Komet in Köln  ISBN-3933366410  
+  jfmnote = {Phrase book. Reprinted 1987 as 'Guide de conversation françaiswolof' by Harmattan in Paris  ISBN-2858028338  
+  jfmnote = {Previous edition appeared 1858/60. Reprints are plenty , e.g. 1964 by Dent & Sons in London; and 1996 by Wordsworth in London  ISBN-1853264660 ; and 1997 as 'The histories' by David Campbell in London , with a new introduction by Rosalind Thomas  ISBN-1857152344; xliii+772 p.  
+  jfmnote = {Printed with the same ISBN-as the first edition!
+  jfmnote = {Publication of the author's dissertation , London School of Economics , 1952. Reprinted 1970 by Oxford Univ. Press in Nairobi  ISBN-0195722418  
+  jfmnote  = {Publication of the author's dissertation , University of London , 1929. Contains 'a very full study of Tshwana phonetics , with a good introduction to the tonetics as well ... Most of the informants appear to have been BaRolong'  Lestrade , in Doke 1933:78 . Later reprinted by Gregg International  ISBN-0576116084; 180 p.  , with a new introduction and supplemented with the articles 'SothoNguni orthography'  1949  and 'Some little known dialects of Sepedi'  1932  
+  jfmnote = {Publication of the author's doctoral dissertation , Katholieke Univ. , Nijmegen. Not sure about the ISBN. Includes Amharic and Tigrinya glossaries 
+  jfmnote = {Publication of the author's thesis , Univ. of London , 1936. Reprinted 1994 by Lit Verlag in Hamburg; and 2004 by James Currey in London  ISBN-0852552947  
+  jfmnote = {Publication  revised  of the author's dissertation , School of Oriental and African Studies  SOAS  , 1975. Reprinted more than once , e.g. 1994 by the Univ. of Natal Press in Pietermaritzburg  ISBN-0869808923  
+  jfmnote = {Publication  revised?  of the author's dissertation , Univ. de Paris , 1951. Reprinted 1988 by Editions de l'Univ. de Bruxelles  ISBN-280040941X  
+  jfmnote = {RadcliffeBrown's introduction includes an analysis of the Masai kinship system  p. 1822  , 'based on Hollis' faulty 1910 data'  Jacobs 1965:56 . Reprinted 1975 by Oxford Univ. Press in London  ISBN-0197241476  
+  jfmnote = {Reissued 2004 by Mambo Press  ISBN-0869220888  
+  jfmnote  = {Reissued 2004 by Mambo Press  ISBN-1904855369  
+  jfmnote = {Reprinted 1004 by Routledge in London  ISBN-0415329892  
+  jfmnote  = {Reprinted 1960 by Ungar in New York; and 1978 by Dover Publ. in New York  ISBN-0486236153  
+  jfmnote  = {Reprinted 1962 by the English Universities Press in London; and 1989 by Random House in New York  ISBN-0679102256 ; and various times by Hodder & Stoughton in London  ISBN-0340276371  
+  jfmnote  = {Reprinted 1964 as a 48page booklet by Gregg Press at Ridgewood NJ  ISBN-057611443X  
+  jfmnote = {Reprinted 1964 by Gregg Press/International  ISBN-0576114510  
+  jfmnote = {Reprinted 1964 by Scientia Verlag in Aalen  ISBN-3511001218  
+  jfmnote = {Reprinted 1966 by Routledge & Kegan Paul in London , ed. by Gordon Waterfield  Travellers and explorers series ; and 1986 by Darf Publ. in London  ISBN-1850771278 , ISBN-1850771286  
+  jfmnote  = {Reprinted 1967 by Dawsons of Pall Mall for the International African Inst. in London  ISBN-0712902058  
+  jfmnote = {Reprinted 1967 by McGrath Publ. at College Park MD  ISBN-0843400447  
+  jfmnote = {Reprinted 1968 by Dawsons in London  Colonial history series; ISBN-0712902864  
+  jfmnote = {Reprinted 1968 by Dawsons in London  ISBN-0712902147  
+  jfmnote = {Reprinted 1968 by Dawsons of Pall Mall in London  ISBN-0712902198  
+  jfmnote = {Reprinted 1968 by Frank Cass & Co. in London  Cass library of African studies , general studies , #59 ; and 2000 by James Currey in London  ISBN-0852552831  
+  jfmnote = {Reprinted 1968 by Gregg International in Farnborough UK  ISBN-0576116246 ; and by Henry Frowde in London & New York 
+  jfmnote = {Reprinted 1969  and later?  by Clarendon Press , edited and introduced by G.W.B. Huntingford  ISBN-0198231326 ; and in 1971 by Negro Universities Press in New York 
+  jfmnote = {Reprinted 1969  as a 'second edition'  by Frank Cass & Co. in London  Cass library of African studies , missionary researches and travels , #9; ISBN-0714618713  
+  jfmnote = {Reprinted 1969 by Dawsons on London; and Oxford UP  probably more than once ; and 2005 by L'Harmattan in Paris  ISBN-2747572781; 326 p.  
+  jfmnote = {Reprinted 1969 by Frank Cass & Co. in London , with a new introduction by P.E.H. Hair; and 2000 by Routledge in London  ISBN-0415244544 ISBN-0415244536  
+  jfmnote = {Reprinted 1969 by Frank Cass & Co. in London , with a new introduction by P.E.H. Hair; and 2000 by Routledge in London  ISBN-0415244544 ISBN-0415244536  
+  jfmnote = {Reprinted 1969 by Greenwood Press in Westport CN  ISBN-0837126711  
+  jfmnote  = {Reprinted 1969 by Gregg International  ISBN-057611488X  
+  jfmnote = {Reprinted 1969 by Kraus Reprint in New York; and 1998 by Routledge in London  International library of sociology , #107; ISBN-0415176212  
+  jfmnote = {Reprinted 1969 by Negro Universities Press in New York  ISBN-083711389X  
+  jfmnote = {Reprinted 1969 by Negro Universities Press in New York  ISBN-0837114705  
+  jfmnote = {Reprinted 1969 by Negro Universities Press in New York  ISBN-0837116422  
+  jfmnote = {Reprinted 1969 by Negro Universities Press in New York  ISBN-0837116619 ; and 1973 by Cornelis Struik in Cape Town  Africana collectanea , #45 ; and 1982 on microfiche  CIH/ICMH microfiche series , #33995  
+  jfmnote = {Reprinted 1969 by Negro Universities Press in New York  ISBN-0837123666 ; and 1996 in microfiche format by ChadwyckHealey at Cambridge  The nineteenth century , general collection , #119878  
+  jfmnote = {Reprinted 1970 at Niederwalluf bei Wiesbaden  ISBN-3500224504  
+  jfmnote = {Reprinted 1970 by Books of Rhodesia in Bulawayo  Rhodesia reprint library , #10 ; and 1971 by Frank Cass & Co. in London , with a new introduction by Richard Brown  Cass library of African studies , missionary researches and travels , #23; ISBN-0714618802  
+  jfmnote = {Reprinted 1970 by Clarendon Press  ISBN-0198131550  
+  jfmnote = {Reprinted 1970 by Dawsons of Pall Mall  Colonial history series  in London  ISBN-0712904379 hb ISBN-0712904360 pb  
+  jfmnote = {Reprinted 1970 by Frank Cass & Co. in London  Cass library of African studies , general studies , #90; ISBN-0714617296  
+  jfmnote = {Reprinted 1970 by Frank Cass & Co. in London  Library of African law , #4; ISBN-0714624810  
+  jfmnote = {Reprinted 1970 by Frank Cass & Co. in London  Missionary researches and travels , #18; ISBN-0714618772  , with a new introduction by J.F. Ade Ajayi 
+  jfmnote = {Reprinted 1970 by Frankc Cass & Co. in London  ISBN-0714617547 ; and 2003 by Thoemmes in Bristol 
+  jfmnote = {Reprinted 1970 by McGrath Publ. in College Park MD  ISBN-0843401222  
+  jfmnote = {Reprinted 1970 by Negro Universities Press in New York  ISBN-0837128552  
+  jfmnote = {Reprinted 1970 by Negro Universities Press in New York  ISBN-0837128587  
+  jfmnote = {Reprinted 1970 by Negro Universities Press in Westport CN; and 1971 by Frank Cass & Co. in London  Cass library of African studies , library of African law , #7; ISBN-0714624764; different pagination  
+  jfmnote = {Reprinted 1970 by Negro Universities Press in Westport CN  ISBN-0837151562 ; and 1971 by Books for Libraries Press in Freeport NY  The Black library heritage collection; ISBN-0836988108  
+  jfmnote = {Reprinted 1970  though labelled as a second edition  by Frank Cass & Co. in London  Missionary researches and travels , #15; ISBN-0714618667  , with a new introduction by J.F. Ade Ajayi 
+  jfmnote = {Reprinted 1970 together with Daniel Jones's 'The tones of Sechuana nouns'  1929  by Gregg International  ISBN-0576114553; 114 p.  
+  jfmnote = {Reprinted 1971 as a 'second edition' by Frank Cass & Co. in London  ISBN-0714618861  
+  jfmnote = {Reprinted 1971  as a third edition  by Frank Cass & Co. in London  ISBN-0714618764  
+  jfmnote = {Reprinted 1971 by Cornelis Struik in Cape Town  Africana collectanea , #37; ISBN-0869770047  
+  jfmnote = {Reprinted 1971 by Cornelis Struik in Cape Town  Africana collectanea , #38; ISBN-0869770055  
+  jfmnote = {Reprinted 1971 by Frank Cass & Co. in London  Cass library of African studies , travels and narratives , #67; ISBN-0714618322  
+  jfmnote  = {Reprinted 1971 by Gregg International  ISBN-0576112062  
+  jfmnote = {Reprinted 1971 by Kennikat Press in Port Washington NY  ISBN-0804612072  
+  jfmnote  = {Reprinted 1971 by Osnabrücker Biblio Verlag  ISBN-3764806206  
+  jfmnote = {Reprinted 1971  with an extra 95 pages of adverts  by Books for Libraries Press in Freeport NY  Black heritage library collection; ISBN-0836988477  
+  jfmnote = {Reprinted 1972 by Cornelis Struik in Cape Town  Africana collectanea , #40; ISBN-0869770144  
+  jfmnote = {Reprinted 1972 by Gregg Press  ISBN-0576171107  
+  jfmnote  = {Reprinted 1972 by Philo Press in Amsterdam  ISBN-9060222563  
+  jfmnote = {Reprinted 1973 by Arno Press in New York  ISBN-0405053584  
+  jfmnote = {Reprinted 1973 by Dawsons of Pall Mall in London  ISBN-0712905626  
+  jfmnote = {Reprinted 1973 by Dover Publ. in New York  ISBN-0486229351  , with a new introduction by Jon M. White 
+  jfmnote  = {Reprinted 1974 by Cornelis Struik in Cape Town  Africana collectanea , #47; ISBN-0889770454  
+  jfmnote = {Reprinted 1974 by Curzon Press in London  ISBN-070070020X  
+  jfmnote = {Reprinted 1974 by Griggs in Durban  ISBN-0620012811  
+  jfmnote  = {Reprinted 1974 by Longmans , Green & Co. in Cape Town  ISBN-0582617006  
+  jfmnote = {Reprinted 1974 by Theatrum Orbis Terrarum in Amsterdam  ISBN-9022106403  
+  jfmnote  = {Reprinted 1974 by the Swiss Mission in South Africa at Johannesburg  ISBN-0949981339 ; and 1991 by Sasanova in Braamfontein  ISBN-0949981339  
+  jfmnote = {Reprinted 1974 in two volumes  ISBN-0175112827 ISBN-0175112835 . Not sure it was a complete edition , though 
+  jfmnote = {Reprinted 1974  though labelled as a fourth edition  in Cape Town  Africana collectanea , #47; ISBN-0869770446  
+  jfmnote = {Reprinted 1975/79 by Harvard Univ. Press at Cambridge MA  ISBN-0674991427  
+  jfmnote = {Reprinted 1975 by Heinemann Educational Books in London  ISBN-0435323814  
+  jfmnote = {Reprinted 1975 by Penguin Books at Harmondsworth  ISBN-014055100X  
+  jfmnote = {Reprinted 1975 in Osnabrück  ISBN-3535014131  
+  jfmnote = {Reprinted 1976 as 'Ghana talks' by Three Continents Press in Washington DC  ISBN-0914478354 ISBN-0914478362  
+  jfmnote = {Reprinted 1977 by Greenwood Press in Westport CN  ISBN-0837182875  
+  jfmnote = {Reprinted 1977 by Maisonneuve & Larose in Paris  ISBN-2706806370  
+  jfmnote  = {Reprinted 1977 by School of Oriental and African Studies  ISBN-0728600005  
+  jfmnote = {Reprinted 1978 by the AMS Press in New York  ISBN-0404120067  
+  jfmnote = {Reprinted 1979 by AMS Press in New York  ISBN-0404159524  
+  jfmnote = {Reprinted 1979 by ScientiaVerlag  ISBN-3511100631  
+  jfmnote = {Reprinted 1980 by Books for Libraries in New York  ISBN-0836992709  
+  jfmnote = {Reprinted 1980 by Gesellschaft für Wissenschaftliche Entwicklung und Museum in Swakopmund , Namibia  ISBN-0620046813  
+  jfmnote = {Reprinted 1980 by Slatkine in Geneva  Bibl. africaine , #2; ISBN-2051002398  
+  jfmnote = {Reprinted 1980 by the Unity Movement of South Africa in London  ISBN-0907201008  
+  jfmnote  = {Reprinted 1981 as 'A fallacy of contemporary linguistics' by Helmut Buske Verlag in Hamburg  ISBN-3871184217  
+  jfmnote = {Reprinted 1981 by APAPhilo Press in Amsterdam  ISBN-9060222512  
+  jfmnote  = {Reprinted 1981 by APAPhilo Press in Amsterdam  ISBN-9060222512  
+  jfmnote = {Reprinted 1981 by Gerstenberg in Hildesheim  ISBN-3806709076  
+  jfmnote  = {Reprinted 1981 by Slatkine in Geneva  ISBN-2051002541  
+  jfmnote = {Reprinted 1982 as 'Swahili dictionary' by Hodder & Stoughton in Sevenoaks  ISBN-0340270543  
+  jfmnote = {Reprinted 1982 by Tafelberg Uitgewers in Cape Town  ISBN-062400533X; xviii+1901 p.  
+  jfmnote = {Reprinted 1982 by Univ. Press Ltd in Ibadan  ISBN-0195753003  
+  jfmnote  = {Reprinted 1982 by Univ. Press Ltd in Ibadan  ISBN-0195753003  
+  jfmnote = {Reprinted 1983 by Waveland Press at Prospect Hills IL  ISBN-0881330604  
+  jfmnote  = {Reprinted 1984 by Cambridge Univ. Press  ISBN-0521261759  
+  jfmnote = {Reprinted 1984 in Bremen  Veröff. aus dem ÜberseeMuseum Bremen , Reihe F: Bremer AfrikaArchiv , #17; ISBN-3882990422  
+  jfmnote = {Reprinted 1984 in Bremen  Veröff. aus dem ÜberseeMuseum Bremen , Reihe F: Bremer AfrikaArchiv , #20; ISBN-388299049X  
+  jfmnote = {Reprinted 1985 by Darf Publ. in London  ISBN-1850770646  
+  jfmnote  = {Reprinted 1985 by Hodder & Stoughton in Sevenoaks  ISBN-0340390301  
+  jfmnote = {Reprinted 1986 by Darf Publ. in London  ISBN-1850771367  
+  jfmnote = {Reprinted 1986 by Darf published in London  ISBN-1850770867  
+  jfmnote  = {Reprinted 1986 by Eurolingua in Bloomington  Bibl. nostratica series , #7; ISBN-0931922259  
+  jfmnote = {Reprinted 1986 by Sändig Reprint Verlag  ISBN-3253029662  
+  jfmnote = {Reprinted 1986 by the Marianhill Mission Press  ISBN-0620088559  
+  jfmnote = {Reprinted 1986 by Zed Books in London  ISBN-0862324521  
+  jfmnote = {Reprinted 1987 by Darf Publ. in London  ISBN-1850771731  
+  jfmnote = {Reprinted 1987 by the Griffith Inst. in London  ISBN-090041648.3  
+  jfmnote = {Reprinted 1988 by Southern Book Publ. in Bergvlei , South Africa  ISBN-1868120864  
+  jfmnote = {Reprinted 1989 by AMS Press in New York  ISBN-0404161537  
+  jfmnote  = {Reprinted 1989 by Fountain Publ. in Kampala  ISBN-9970021427  
+  jfmnote  = {Reprinted 1989 in 'Beiträge zur Afrolusitanistik und Kreolistik'  ed. by Matthias Perl; Studienverlag Dr N. Brockmeyer; BochumEssener Beiträge zur Sprachwandelforschung , #6; ISBN-3883397466  , p. 113123 
+  jfmnote  = {Reprinted 1990 by Longman Zimbabwe in Harare  ISBN-058261435X  
+  jfmnote = {Reprinted 1990 by Routledge in London  ISBN-0415051029 pb  
+  jfmnote = {Reprinted 1991 by Dover in New York  ISBN-0486267245  
+  jfmnote  = {Reprinted 1991 by Otto Harrassowitz Verlag  ISBN-3447025921  
+  jfmnote = {Reprinted 1992 by Greenhill Books in London  ISBN-1853671169  
+  jfmnote  = {Reprinted 1992 by the Zambia Educational Publishing House  ISBN-9982010832  
+  jfmnote = {Reprinted 1992  with a new title?  by Transaction Publ. in New Brunswick NJ  ISBN-056000035X  
+  jfmnote = {Reprinted 1993 as a separate book by African Sun Publishing in Oakland CA  ISBN-1883701007; 93 p.  
+  jfmnote = {Reprinted 1993 by Academia Verlag at St. Augustin  ISBN-3727809124  
+  jfmnote = {Reprinted 1993 by Barnes & Noble Books in New York  ISBN-0880294574  
+  jfmnote = {Reprinted 1993 by Princeton Univ. Press  ISBN-0691000921  
+  jfmnote = {Reprinted 1993 by the Smithsonian Inst. in Washington DC  ISBN-1560982365  
+  jfmnote = {Reprinted 1994 by Beck in Munich  ISBN-3406028578  
+  jfmnote  = {Reprinted 1994 by Macmillan Kenya Publ. in London  ISBN-9966885617 . Macmillan's 1994reprint makes no mention of a second author 
+  jfmnote = {Reprinted 1994 by the Witwatersrand Univ. Press in Johannesburg  The African studies reprint series , #3; ISBN-1868142663  
+  jfmnote = {Reprinted 1995 by Asian Educational Services in New Delhi  ISBN-8120609891  
+  jfmnote = {Reprinted 1995 by Asian Educational Services in New Delhi  ISBN-8120610202  
+  jfmnote  = {Reprinted 1995 by Hippocrene Books in New York  ISBN-0781803942  
+  jfmnote = {Reprinted 1995 by Hippocrene Books in New York  ISBN-0781804043  
+  jfmnote = {Reprinted 1995 by Penguin Books  ISBN-0140175962  
+  jfmnote  = {Reprinted 1996 as 'ChiTumbuka , chiTonga , English & English , chiTumbuka , chiTonga dictionary' by Central Africana Ltd in Blantyre  Malawi cultural series 1; ISBN-9990814147  
+  jfmnote = {Reprinted 1996 by Athelia Henrietta Press in Brooklyn NY  ISBN-0963878786  
+  jfmnote = {Reprinted 1996 by LIT Verlag in Hamburg  ISBN-3894736909 , ISBN-389473874X  , with a new introduction by Sally Falk Moore 
+  jfmnote = {Reprinted 1996 with a new introduction as 'Namibia under German rule' by Lit Verlag in Hamburg  ISBN-3984732253  and the Namibia Scientific Soc. in Windhoek  ISBN-9991640045  
+  jfmnote = {Reprinted 1997 by White Lotus Press in Bangkok , ISBN-9748496783 
+  jfmnote = {Reprinted 1998 by Kegan Paul International  ISBN-0710305672  
+  jfmnote = {Reprinted 1998 by Manchester Univ. Press  ISBN-0719051142 pb ISBN-0719051134  
+  jfmnote = {Reprinted 1998 by Olms in Hildesheim  ISBN-3487272075  
+  jfmnote = {Reprinted 1998 by Olms in Hildesheim  ISBN-3487273535  
+  jfmnote = {Reprinted 1998 by Penguin Books in London  ISBN-0140266755; xii+802 p.  as well as Alfred A. Knopf in New York  ISBN-0679409793; xii+801 p.  
+  jfmnote = {Reprinted 1998 by Penguin Books  ISBN-0140244646  
+  jfmnote = {Reprinted 1999 by Penguin Books  ISBN-0140258205  
+  jfmnote = {Reprinted 2000 by Cassell Military Paperbacks in London  ISBN-0304353132  
+  jfmnote = {Reprinted 2000 by James Currey at Oxford  ISBN-0852555695  
+  jfmnote = {Reprinted 2001 by Paul Kainbacher in BadenbeiWien  ISBN-3950130209  
+  jfmnote = {Reprinted 2001 by Penguin Books  ISBN-0140280979  
+  jfmnote  = {Reprinted 2003 by Georgetown Univ. Press  ISBN-0878403876; xx+395 p. ; and 2006 as part of 'Georgetown classics in Arabic languages and linguistics'  ISBN-9781589010819 , ISBN-1589010817  , with MP3 files 
+  jfmnote = {Reprinted 2003 by Kegan Paul in London  ISBN-0710308418  
+  jfmnote = {Reprinted 2003 by P. Kainbacher in BadenbeiWien  Sammlung von alten AfrikaReisebeschreibungen österreichischer Forschungsreisenden , #4; ISBN-3950130241  
+  jfmnote  = {Reprinted 2004 as part of 'Georgetown classics in Arabic languages and linguistics'  ISBN-1589011031  
+  jfmnote  = {Reprinted 2004 by Harmattan in Paris  ISBN-2747572781  
+  jfmnote = {Reprinted 2004 by Routledge  ISBN-0415317258 ISBN-041533005X  , with a new preface by the author 
+  jfmnote = {Reprinted 2004 by the same publishers  ISBN-1589011031  
+  jfmnote  = {Reprinted 2004 in the series 'Georgetown classics in Arabic language and linguistics'  ISBN-1589010094  , with an accompanying audioCD and new introduction 
+  jfmnote = {Reprinted 2005 by L'Harmattan in Paris  ISBN-274758173X  
+  jfmnote  = {Reprinted 2006 by Jonathan Ball Publ. in Johanesburg  ISBN-9780868521831  
+  jfmnote = {Reprinted 2006 by Jonathan Ball Publ. in Johannesburg  ISBN-9780868521824  
+  jfmnote  = {Reprinted 2006 by Jonathan Ball Publ. in Johannesburg  ISBN-9780868521848  
+  jfmnote = {Reprinted 2007 by the original publishers  ISBN-9783980671408  
+  jfmnote = {Reprinted 2008 by East African Educational Publ.  ISBN-9789966255327  
+  jfmnote = {Reprinted 2009 by Georgetown Univ. Press  Georgetown classics in Arabic language and linguistics , ISBN-9781589012608  
+  jfmnote = {Reprinted a few times as 'Egyptian hieroglyphic grammar' , e.g. 1980 by Ares Publ.  ISBN-0890052034 ; and 2002 by Norton in New York  ISBN-0486425096  
+  jfmnote  = {Reprinted a few times by Gregg Press/International  ISBN-0576114472  
+  jfmnote = {Reprinted a few times by Gregg Press/International  ISBN-0576114693  
+  jfmnote = {Reprinted a few times by Gregg Press/International  ISBN-0576114707  
+  jfmnote = {Reprinted a few times by Sasanova in Braamfontein  ISBN-0949981699  
+  jfmnote = {Reprinted a few times by the originals publishers; and 2003 by Trübner & Co.  ISBN-1844530639  
+  jfmnote = {Reprinted  as a second edition  by Frank Cass & co. in London  ISBN-0714617997  , with a bibliographical introduction by John Ralph Willis 
+  jfmnote = {Reprinted at least once by Oxford Univ. Press  ISBN-0198265115  
+  jfmnote = {Reprinted at least once  ISBN-0674993853  
+  jfmnote = {Reprinted by Cambridge Univ. Press , more than once; and 1969 by Gregg International in Westmead UK  ISBN-0576114898  
+  jfmnote  = {Reprinted by Collins several times  ISBN-0004334159  
+  jfmnote = {Reprinted by Darf Publ. in London  ISBN-1850770352  
+  jfmnote = {Reprinted by Darf Publ. in London  ISBN-1850770794  
+  jfmnote = {Reprinted by Frank Cass & Co. in London  Cass library of African studies , travels and narratives , #49; ISBN-0714618047  
+  jfmnote  = {Reprinted by Gregg International as a supplement to the reprint of Tucker's 'The comparative phonetics of the SutoChuana group of Bantu languages'  ISBN-0576116084; 180 p.  
+  jfmnote  = {Reprinted by Gregg International as a supplement to the reprint of Tucker's 'The comparative phonetics of the SutoChuana group of Bantu languages'  ISBN-0576116084; 180 p.  
+  jfmnote = {Reprinted by Gregg International at Farnborough  ISBN-0576119423; 514+271 p.  
+  jfmnote = {Reprinted by Gregg International  ISBN-0576114480  
+  jfmnote  = {Reprinted by Gregg International  ISBN-0576114561  
+  jfmnote = {Reprinted by Gregg International  ISBN-0576116033  
+  jfmnote = {Reprinted by Gregg International  ISBN-057611622X  
+  jfmnote  = {Reprinted by Gregg International  ISBN-0576116238  
+  jfmnote = {Reprinted by Gregg International  ISBN-0576171239  
+  jfmnote  = {Reprinted by J.L. van Schaik in Pretoria  ISBN-0627002226  
+  jfmnote = {Reprinted by Mouton de Gruyter in Berlin  ISBN-3110091569  
+  jfmnote = {Reprinted in the 1970s by the original publishers  ISBN-3515008535  
+  jfmnote = {Reprinted in the 1980s by Gregg International  ISBN-0576114537 . A German translation titled 'Grundzüge des Kimbundu oder der AngolaSprache' appeared in 'Zeitschrift für afrikanische Sprachen' , v. 2  1888/89  & v. 3  1889/90  
+  jfmnote  = {Reprinted in the 1990s by Hippocrene Books in New York  ISBN-0781803926  
+  jfmnote = {Reprinted in the 1990s by Hippocrene Books in New York  ISBN-0781803934  
+  jfmnote  = {Reprinted in the 1990s by Otto Harrassowitz Verlag in Wiesbaden  ISBN-344700245X  
+  jfmnote  = {Reprinted in the 1990s by Otto Harrassowitz Verlag in Wiesbaden  ISBN-3447005769  
+  jfmnote  = {Reprinted in the 1990s by Otto Harrassowitz Verlag  ISBN-3447005319  
+  jfmnote  = {Reprinted in the 1990s by Otto Harrassowitz Verlag  ISBN-344700553X  
+  jfmnote  = {Reprinted in the 1990s by Otto Harrassowitz Verlag  ISBN-3447005548  
+  jfmnote  = {Reprinted in the 1990s by Otto Harrassowitz Verlag  ISBN-3447005556  
+  jfmnote  = {Reprinted many times by the original publishers  ISBN-0869850237  
+  jfmnote  = {Reprinted many times  ISBN-0192143190 ISBN-0192850407 ISBN-0710302452  
+  jfmnote = {Reprinted many times  ISBN-0198278470  
+  jfmnote = {Reprinted more than once by Frank Cass & Co. in London  ISBN-0714617318  
+  jfmnote = {Reprinted more than once by Gregg Press  ISBN-057611457X  
+  jfmnote  = {Reprinted more than once by J.L. van Schaik  ISBN-0627002188  
+  jfmnote  = {Reprinted more than once , e.g. 2006 by Jonathan Ball Publ. in Johannesburg  ISBN-9780868521619  
+  jfmnote = {Reprinted more than once  ISBN-0435900102  
+  jfmnote = {Reprinted multiple times by Mambo Press in Gweru  ISBN-9780869220016 , ISBN-0869220012  
+  jfmnote = {Reprinted numerous times by Basil Blackwell  ISBN-0631048502 hb ISBN-0631048405 pb  
+  jfmnote  = {Reprinted numerous times by Longman Penguin Southern Africa  ISBN-058261709X  
+  jfmnote  = {Reprinted numerous times by Longmans , Green & Co. and/or by Longman  ISBN-058262701X  
+  jfmnote  = {Reprinted numerous times by Maskew Miller Longman  ISBN-0636003205  
+  jfmnote  = {Reprinted numerous times by Witwatersrand Univ. Press in Johannesburg  ISBN-085494382X  
+  jfmnote  = {Reprinted  revised?  1994 by Norbert Brockmeyer in Bochum  BochumEssener Beiträge zur Sprachwandelforschung , #25; ISBN-3819602615; 243 p.  
+  jfmnote  = {Reprinted severakl times , e.g. 1978 and 1983 by NECZAM; and 1992 by Ndola Mission Press  ISBN-9982073362 ; and 1998 as 'BembaEnglish , EnglishBemba concise dictionary' by Cambridge Univ. Press for the Inyanga Research Fund  ISBN-0781806305  
+  jfmnote  = {Reprinted several tiems by Longman Rhodesia  ISBN-0582604192  
+  jfmnote = {Reprinted several times by Cambridge Univ. Press , e.g. 2009  ISBN-9780521116237  
+  jfmnote = {Reprinted several times by Heinemann Kenya  ISBN-9966463046  
+  jfmnote  = {Reprinted several times by Mambo Press in Gweru  ISBN-9780869221563  
+  jfmnote = {Reprinted several times by Oxford Univ. Press  ISBN-0192850385  
+  jfmnote  = {Reprinted several times by Sasanova in Braamfontein  ISBN-0949981338  
+  jfmnote = {Reprinted several times by Sasanova in Braamfontein  ISBN-0949981346
+  jfmnote = {Reprinted several times by the original publishers  ISBN-9004065520  
+  jfmnote  = {Reprinted several times by the original publishers  ISBN-9004065520  
+  jfmnote  = {Reprinted several times by University of South Africa in Pretoria  ISBN-0869812564  
+  jfmnote = {Reprinted several times , e.g. 1809 as 'The voyage of Nearchus , and the Periplus of the Erythraean sea' by Oxford Univ. Press; and 1998 as 'The commerce and navigation of the ancients in the Indian Ocean: the Periplus of the Erythrean sea' by Asian Educational Services in New Delhi  ISBN-812061092X  
+  jfmnote = {Reprinted several times , e.g. 1957 by Witwatersrand Univ. Press in Johannesburg; and 1978 by AMS Press in New York  ISBN-0404121063  
+  jfmnote = {Reprinted several times , e.g. 1961 and 1978 by Frederick Ungar Publishing Co. in New York  ISBN-0804403538  
+  jfmnote = {Reprinted several times , e.g. 1962 by Indiana Univ. Press in Bloomington; and 1974 by Greenwood Press in Westport CN  ISBN-0837164680  
+  jfmnote = {Reprinted several times , e.g. 1964 by United Book Guild in New York; 2001 by Fredonia Books; and 2006 by Kessinger Publ.  ISBN-9781428626539  
+  jfmnote = {Reprinted several times , e.g. 1968 by Dawsons in London  ISBN-0712902961 ; and 1973 by Balkema in Cape Town  ISBN-0869610295  
+  jfmnote = {Reprinted several times , e.g. 1970 by Longman  ISBN-058212638X ; and 1980 by Penguin Books  ISBN-0140222782 . Later editions retitled 'The African slave trade' 
+  jfmnote = {Reprinted several times , e.g. 1971 by Kennikat Press in Port Washington NY  ISBN-0804613680  
+  jfmnote = {Reprinted several times , e.g. 1975 by Oriental Press in Amsterdam  ISBN-9060232348  
+  jfmnote = {Reprinted several times , e.g. 1976 by Collins in London  ISBN-0002114984 ; 1986 by Collins Harvill in London; and 1995 by St. Martin's Press  ISBN-0312136420  
+  jfmnote = {Reprinted several times , e.g. 1983 by Darf Publ. in London  ISBN-1850770026  
+  jfmnote  = {Reprinted several times , e.g. 1983  ISBN-0804401721 hb ISBN-0804461767 pb ; and 1991 by ippocrene Books in New York  ISBN-0870529706  
+  jfmnote = {Reprinted several times , e.g. 1985 by Inst. d'Orient in Paris  ISBN-2905304006 ; and 1997 by Solin/Actes Sud in Paris  ISBN-2742715584  
+  jfmnote  = {Reprinted several times  e.g. 1990 , 2004  by Mambo Press  ISBN-0869220144  
+  jfmnote = {Reprinted several times , e.g. 1995 by South Asia Books in India  ISBN-8121506999  
+  jfmnote = {Reprinted several times , e.g. 1997 by St. Martin's Press  ISBN-0312169639  
+  jfmnote = {Reprinted several times  ISBN-0627009646  
+  jfmnote = {Reprinted the following year by Hale in London  ISBN-0709136234  
+  jfmnote = {Reprint of 1930 labelled as a third edition. Reprinted 1979 by Gerstenberg Verlag in Hildesheim  ISBN-3806708053  
+  jfmnote = {Republished 1980 by Gamsberg Publ. for the SWA  Namibia  Dept. of National Education in Windhoek  ISBN-0868481041  
+  jfmnote = {Revised publication of the author's dissertation , Univ. of Ibadan. Reprinted 1977 by Longman in London  ISBN-0582646383  
+  jfmnote = {Several contemporary reprints exist , e.g. 1890 , 1895. Modern reprints include one dated 2001 by Dover Publ. in Mineola NY  ISBN-0486419533  
+  jfmnote = {Simultaneously published as 'Vanishing Africa' by Harmony Books in the States  ISBN-051754914X  
+  jfmnote = {Simultaneously published by Appleton & Co. in New York. Reprinted 1981 by EastWest Publ. in London  ISBN-0856920622; xviii+334 p.  , edited and with a new introduction by G.S.P. FreemanGrenville; and 1989 as 'Memoirs of an Arabian Princess from Zanzibar' by Markus Wiener Publ. in New York  ISBN-1558760113 ISBN-1558760075; xxii+298 p.  , with a new introduction by Patricia W. Romero 
+  jfmnote = {Simultaneously published by Cambidge Univ. Press  African studies series , #33; ISBN-0521243939  
+  jfmnote = {Simultaneously published by I.B. Tauris in London as 'Southern Sudan: an annotated bibliography'  ISBN-1860649874  
+  jfmnote = {Simultaneously published by Toronto Univ. Press  ISBN-0802022618  
+  jfmnote = {Simultaneously published by Toronto Univ. Press  ISBN-0802068804 ISBN-0802059406  
+  jfmnote = {Simultaneously published in French as 'Les aspects economiques de la publication de materiel educatif en Afrique'  ISBN-1901830039  
+  jfmnote = {Strohmeyer & Moritz  1975:1  claim this to be a second edition. Reprinted more than once by Cornelis Struik in Cape Town  Africana collectanea , #24; ISBN-0869773410 ; and 1969 by Frank Cass & Co. in London. Various abridged editions have also been published , many dated 1856 , e.g. by Edward Dix in New York  433 p.  , Potter in Philadelphia  433 p.  , and Harper in New York  521 p.  
+  jfmnote = {Supports and develops a uniform Yoruba language to be used in Nigerian education. A second volume was edited by Awobuluyi  1990 . Reprinted  or revised?  1992 by Ibadan Univ. Press  ISBN-9782492434  
+  jfmnote = {The author claims that 'however difficult to be accounted for' , both the Hottentots and the Malagassy people are of a common Malay origin. Contains vocabularies for almost 250 languages , e.g. Avikum , Guang , Ewe , Dagbani , Gulmancema , Moore , Sisaala , Buli , Kulango , Lekpa , Nuni , Yoruba , Igbo , Ibibio , several Nupoid languages/dialects , as well as Mande , and Cushitic languages  cfr Doke 1945 , Hintze 1959 , Roncador & Miehe 1998:46 . Bantu languages are represented by Duala A24 , Isubu A23 , Fernandian A31 , Benga A34 , Mpongwe B11a , Kongo H16 , 'Angola' H21a , and more. Reprinted 1972 by Gregg International at Westmead UK , edited by Edwin & Shirley Ardener  76+104 p.; ISBN-0576112011  
+  jfmnote = {The British edition  also by Macmillan  was apparently titled 'African native notes and reminiscences'. 'Chapter 20 written about the Masarwa , the Bushmen of the interior of South Africa  p. 328348 . Critic of Prof. Keane's pitchblack pygmoid Kattea. Some comparison between the language of the Masarwa and Kora; author states , that SeSarwa and Korana are related'  Strohmeyer & Moritz 1975:21 . Reprinted various times , e.g. 1969 by Pioneer Head in Salisbury  Heritage series , #1 ; 1986 by Galago in Alberton  ISBN-0947020160 ; and 1993 by St Martin's Press in New York  Library of African adventure series; ISBN-0312092415  
+  jfmnote  = {The contents of this may be identical to Bleek's 'Report on anthropological research among the Bushmen in South West Africa Protectorate' , published 1922. Reprinted 1978 by AMS Press in New York  ISBN-0404159087  
+  jfmnote = {The dictionarypart includes some 11,500 Gãentries. Later reprinted by Gregg International , with a new introduction by J. Berry  ISBN-0576112038  
+  jfmnote = {The first two volumes appeared 1862 , the third in 1886. Reprinted several times , e.g. 1975 and 1983 , etc.  as 'Reisen im Sudan' by Erdmann in Tübingen  ISBN-3771102049 , ISBN-3522600703 , edited by Helmut Arndt; and 1981 by Droemer Knaur in München  ISBN-3426036541  
+  jfmnote  = {The ISBN-info printed on the back cover  ISBN-0869251597  is different from the one given inside the book  ISBN-0869251589  
+  jfmnote = {The manuscript for this is dated 1889. Reprinted several times , e.g. 2007 by Ghana Univ. Press , Ghana  ISBN-9789964303556  
+  jfmnote = {The manuscript in question was originally written sometime during the seventeenth century. Glas's English translation has been translated back to Spanish as 'Descripción de las Islas Canarias , 1764' , published 1982 by Inst. de Estudios Canarios  ISBN-8460006034  
+  jfmnote = {There are several 1787editions of this. One of them was reprinted 1969 as 'Thoughts and sentiments on the evil of slavery' by Dawsons of Pall Mall in London , with an introduction by Paul Edwards  ISBN-0712903313  
+  jfmnote = {There's apparently a second edition also dated 1788 and totalling some 72 pages. Reprinted several times , e.g. 1973 by K Book Editions in York UK  ISBN-0859630048 ; and 1973 by AMS Press in New York  ISBN-0404002552  
+  jfmnote = {The second volume contains an EnglishKacundah or Shabbee vocabulary  p. 421423 , 447  plus a Nufie or Nupaysee vocabulary comprising numerals 1200 and some 35 other words  p. 442443 . There's also something about Igbo  Hintze 1959:77+85  , Hausa  Latham 1847:186  , Fula  idem:189 . Reprinted 1971 by Frank Cass & Co. in London  Cass library of African studies , travels and narratives , #68; ISBN-0714618268  
+  jfmnote = {'The special feature of this dictionary was the inclusion of a great deal of ethnographic information upon words and customs recorded. Numerous idiomatic sentences and aphorisms illustrate the entries. Scott made a most valuable contribution in this cyclopaedic emphasis in his book , which is only marred by what have come to be called 'Scottisms'  ChiScott  in his choice and inclusion of derivatives'  Doke 1945:68 . Hullquist  1988:153  says that many 'words in the dictionary are now archaic and unrecognized by many Chichewa speakers.' Some bibliographies date this erroneously 1872. Later reprinted by Gregg International  ISBN-0576116203  
+  jfmnote  = {The third edition is the still the standard reference work of Middle Egyptian , while the fourth edition  1966  seems to have gone by without much notice. Reprinted numerous times , e.g. 1988 by the Griffith Inst.  ISBN-0900416351  
+  jfmnote = {'The tones are unreliable , but the grammatical matter is of the highest value'  Doke 1933:36 . It was later revised and enlarged by Rust  1969 . Reprinted a few times by Gregg International in Farnborough UK  Gregg reprint no 19; ISBN-057611491X  
+  jfmnote = {This and its 1895appendix were reprinted 1967 by Gregg Press in Hants UK; and in the 1980s by Gregg International  ISBN-0576119938  
+  jfmnote  = {This edition has been reprinted several times by Longman Penguin Southern Africa  ISBN-0582610141  
+  jfmnote = {This is about maneating lions attacking railway constructions in Uganda. The book has been issued many times since the early 1910s. Some later printings are clearly abridged editions. There may even be one or two revised editions. A facsimile reprint of the first edition appeared 1979 by Macmillan  ISBN-0333015061  
+  jfmnote = {This is probably not the earliest edition/printing. Reprinted 2001 by Nation Press in Namibia  Aus alten Tagen in Südwest , #16; ISBN-9991650671; 64 p.  
+  jfmnote = {This may just be a reprint; at least the ISBN-is the same as on the first edition 
+  jfmnote  = {This may just be a reprint; at least the ISBN-is the same as on the first edition 
+  jfmnote = {This particular version of the third edition has been reprinted many times by Pula Press  ISBN-0868810517 . The subsequent fourth edition , titled 'SetswanaEnglishSetswana dictionary'  1993  , is commonly credited to the editor Zacharia I. Matumo 
+  jfmnote = {This second edition seems to have been reprinted more than any other edition , e.g. 2005 by MelchiorVerlag in Wolfenbüttel  ISBN-3939102385  
+  jfmnote  = {This seems to be a third edition , not a second. Irrespective of that , the original plates for the dictionary were destroyed in an air raid during World War II. Most postWWII printings are therefore photomechanical reprints , no matter what they call themselves. Such reprints are numerous , e.g. 1950 and 1968 by Oxford Univ. Press in London; and 1980 and 1985 by the Univ. Press Ltd in Ibadan  ISBN-019575221X . A true revised  third  edition published anonymously appeared in 2001 by the Univ. Press Ltd in Ibadan  ISBN-9780307605  
+  jfmnote = {This was written already in 1897. Reprinted several times by CMS  Church Missionary Soc.  Bookshop in Lagos as well as Routledge in London  ISBN-978322929X ISBN-0710016158  
+  jfmnote = {Translation of 'Bambuti , die Zwerge vom Congo' , published 1932. Reprinted 1977 by AMS Press in New York  ISBN-0404121357  
+  jfmnote = {Translation of 'Die moderne Sprachforschung in Afrika' , published 1910. Reprinted 1973 by AMS Press in New York  ISBN-0404079555  
+  jfmnote = {Translation of Ibn Khaldûn's 'Muqaddima'. Reprinted  though labelled as a new edition?  in 1987 by Darwin Press at Princeton NJ  ISBN-0878500561  
+  jfmnote = {Translation of 'Sur le HautZambèzi'. Reprinted 1971 by Franck Cass & Co. in London  Cass library of African studies , missionary researchers and travels , #19; ISBN-0714618659  
+  jfmnote = {Translation of 'Vollblutneger und Halbzwerge' , published 1934. Reprinted 1978 by AMS Press in New York  ISBN-0404121365  
+  jfmnote = {Travelogue. Includes something on the ancient Guanche language. There are apparently more than one edition  imprint?  of this book. The original edition was reprinted 1994 by Univ. de Las Palmas de Gran Canaria  ISBN-8488412932  
+  jfmnote = {Various abridged reprintes have appeared , e.g. 1967 as 'Im Sattel durch Nord und Zentralafrika' , published by Brockhaus in Wiesbaden. Another abridged edition appeared 1977 as 'Die grosse Reise: Forschungen und Abenteuer in Nord und Zentralafrika , 18491855' , published by Erdmann in Tübingen  ISBN-3771102669; 453 p. . Not sure if they are all identical or contain different selections 
+  jfmnote  = {Various extracts have been reprinted for the 'troops in the Sudan'. Reprinted 2003 in full by Trubner in London  ISBN-1844530191  
+  jfmnote  = {Various independent indeces for this dictionary have been published , e.g. by David Shennum , JeanYves Barré. Reprinted numerous times  ISBN-0900416327  
+  jfmnote  = {Vedder's book 'is the standard history of German SouthWest Africa. It also contains summaries of relevant ethnographic information from nineteenth and early twentiethcentury sources'  Barnard 1992:64 . Reprinted 1981 the SWA/Namibia Scientific Soc. in Windhoek  ISBN-0949995339  
+  jfmnote = {Volume 1 was originally published in 1983. Reprinted  again?  2001 by Harmattan in Paris  ISBN-2747512460 v.1 , ISBN-2747512479 v.2  
+  jfmnote = {Volume 1 was originally published in 1983. Reprinted  again?  in 2001 by Harmattan in Paris  ISBN-2747512460 v.1 , ISBN-2747512479 v.2  
+  jfmnote = {Volumes 1 and 2 jointly reprinted 1970 as 'The Bantu of western Kenya , with special reference to the Vugusu and Logoli' by Oxford Univ. Press  ISBN-0197241816  
+  jfmnote = {When Napoleon tried to conquer Egypt in 1798/99 , he took with him 35,000 troops as well as 'a Commission of Arts and Science consisting of 175 French astronomers , geographers , cartographers , architects , engineers , chemists , naturalists , physicians , orientalists , artists , and historians'  Stiebing 1993:57 . These 21 volumes constitute their official report. Reprinted 1994 in full by Benedikt Taschen in Köln  ISBN-3822889644 ISBN-3822821683 hb  
+  jfmnote  = {Whiteley & Gutkind  1958  refer to an undated Caga grammar  manuscript?  by Raum , which could be an English translation. Reprinted by Gregg Press/International  ISBN-0576114502  
+  jfmnote = {Williamson  1989:42  dates it 1890. Reprinted by Gregg International  ISBN-0576114464  
+  jfmnote = {Williamson  1989:42  dates it 1890. Reprinted by Gregg International  ISBN-0576114464  
+ 100 ea.  ISBN-0726301337 ISBN-0726301345 ISBN-0726301353 ISBN-0726301361 ISBN-072630137X [EZE]. 2nd edn. 1977 as Samon ton towadili booka 15 , 32 , 36 , 36 , 32 , 40 pp.  250 ea.  ISBN-0726305383 ISBN-0726305391 ISBN-0726305405 ISBN-0726305413 ISBN-0726305421 [AID] SANIYOHIYEWE  SANIO 
+ 140 . Kanite auta'ma 45 rep. 1970 [with 8 pp. supplement in 4] ,  300 . Kanite auta'ma 5 rev. 1981 as Kanite avona 5 , 31 pp.  700  ISBN-0726307947 [LRF]. Rep. 1983  800 . Kanite auta'ma 34 rev. 1971 , 30 , 31 pp.  1,000 
+14 pp. 12 pp.  75 , 175 , 175  ISBN-9980021748 , ISBN-9980021756 , ISBN-9980021764 Eki , Saraki , and Dickson , 1992. Hwamegna [storybook] , 15 pp.  63  Mi 
+19 pp. 36 pp. 36 pp.  1000 , 1000 , 500 , 500  ISBN-0726308609 ISBN-0726308617 ISBN-0726308633 ISBN-0726308641 Misaqi , Gaius , 1987. A siiriram  Two sample stories  [storybook] , trial edn. , 5 pp.  30  Mi 
+ 200 . 2nd edn. 1973 as Afrika mopare'ma mäni'nea yägamofo näneke , 24 pp.  500  ISBN-0726300950 [EZE] Serave Kriru'o and Audrey PAYNE , trs. , 1972. Ruyähu' ruyahu'yampi vano nehuna näneke  How we travel in different ways , tr. from The story of transport , by Lorna Luff and Jean Goddard  [KamanoKafe and English diglot] , 48 pp.  400  ISBN-0726300373 [EZE] [Serave Mine'me] , tr. , 1986. Ese' agafa nanekee Yenesisi  Genesis colouring book  , ed. by [Pam SHEARER] 13 pp.  300 
+24 pp. 24 pp. 24 pp.  800 each  ISBNs ISBN-9980006455 , ISBN-9980009837 , ISBN-9980009829 , ISBN-9980009845   Jogi , Kulup , 1985. Ne'yamogi'e one'yamogi'e amakie  Names of foods and other things  , 6 pp.  40    Mativa , Mr. Nessy , 1983. Kalemo ke afeo  Learn all about cars  , 28 pp.  800  ISBN-0726308927 McCARTHY , Joy and Gwen GIBSON , 1993. Tisa avona 1&2 [teacher's guides 1&2] , 67 pp.  100 each  Various authors , 1985. Kai'ne'ne nehaya ke  Legend stories  , 16 pp.  40  Mi.   Verefu , Keve and Fred Igami , 1985. Hoyafi ya'ae kahaufaka yamo akia  The names of garden things and bush things  , 8 pp.  75  Mi.  
++ 2 maps  850  ISBN-0868931225 [WHBL] SALTYUI  SALT IUI 
+44 pp. 45 pp. 60 pp.  250 each   ISBN-9980002476 , ISBN-9980003111 , ISBN-9980003332 , ISBN-9980003324 Oksapmin prepschool teachers , 1992. Erer meng sang 1 [storybook] , 10 pp.  150  Mi 
+ 500 . 2nd edn. 1973 as Vagan bukuvinis buk 1  Muyuw primer  , 90 pp.  500  ISBN-0726300993 [EZE]. Rep. 1974  500 
+ 50 . 2nd edn. 1975 , 73 pp.  100  ISBN-0726303674  . 4th edn. 1983 , 74 pp.  100  [NFELT]
+ 700 . Rep. 1972  500  ISBN-0909456518. 3rd edn. 1974 , 40 pp.  750  ISBN-0726302562  . Rep. 1974  450 
+Aduna , Saror , 1993. Anane mua maneka kema suuwap nokarowa sira  A woman begs a judge to help her  [Bible story] , 7 pp.  100  ISBN-9980008911 [BSPNG] rep. 1994  100 
+[Alice River Trust Fund] Lakey , Marion and Yongkom Helpers , 1996. Yongkom buk 13 [primers 13] , 32 pp. 32 pp. 28 pp.  400 each  ISBN-9980017074 , ISBN-9980017066 , ISBN-9980017082 [NDOE] Onok , Ingkop , 2000. Kunum ye weng  A story about nuts  [storybook] , 15 pp.  20  [Alice River Trust Fund]
+Anul , Gottfried and Lawrence Alinaw , 1989. Wi Yuuda sira  How the Jews lived  [Bible culture book] , 89 pp.  150  ISBN-9980005289 JÄRVINEN , Liisa , 1992. Mauwake opora unufowa buk 2  Mauwake primer part 2  , 35 pp.  150  Mi 
+ approx. 100 ea. . Rev. 1969 , 21 , 25 , 24 , 29 , 26 , 43 , 29 pp.  250 . Rep. 1971  200 . Primer 1 rep. 1972  50 . 4th edn. 1973 with Roy GWYTHERJONES , Managalasi 14 , 67  Primer 14 , 67  , 26 , 30 , 29 , 33 , 47 , 46 pp.  150 ea.  ISBN-0726302112 ISBN-0726302120 ISBN-0726302130 ISBN-0726302147 ISBN-0726302155 ISBN-0726302163. Rep. 1976 , 17  200  [LRF]
+ASEDA 0056 and Darwin: SILAAIB. ISBN-0868923230 xxv+425pp 
+[BSPNG] Kennedy , Peter and Pius Kania , 1991. A tamat ke sir tar sipsip geke heil , ed. by John GLENNON , 7 pp.  20  Mi. Ladi , Peter and Geraldine Raita , trans. , 1998. Elementary yia 1 bubukulik tem 3&4  Student's copy of big storybooks terms 3 &4  , ed. by John GLENNON & Ariana GLENNON , 30 pp. &29 pp.  200 each  ISBN-9980021535 & ISBN-9980021691 [LAF] Pigol , Theresa , trans. , 1991. Kaleuator tar rid doh tar bol  Preprimer for learning to read and write  , 2nd edn. , 40 pp.  60  Mi. rep. 1993  100  [Wycliffe Associates , USA] Tomusai , Thomas , trans. , 1992. A koto uaia a niein uaia a niuangoul uaia  Nehan garden book  , ed. by John GLENNON , 32 pp.  100  Mi 
+each  100  ISBN-9980016191 , ISBN-9980016183 , ISBN-9980016175. rep. 1998.  300 each 
+each  500 each  ISBNs ISBN-9980011955 , ISBN-9980011947 Various authors , 1988. Nempoukamp marasin  Native medicine  , 23 pp.  30  Mi 
+ISBN-0647008335 [BSPNG] [Kenneth Mwemwelo , Henry Lekesi , Kevin Paisoni , Pius John , Russel Anderson , Aisea Pika , Madiu Baloilo , Joshua Kainamale , Robert Duigu , Benjamin Tauwaole , and David LITHGOW] , trs. , 1985. Loina Tabu auwauna  New Testament  [retranslated] , 1054 pp.  5050  ISBN-9980630736 [BSPNG]. Rep. 1988  2000 
+ISBN-0726300020. 2nd edn. 1973  200  [EZE]
+ISBN-0726300837 [EZE] Kondo SiÔgema , 1978. Wekawat  Ancestral stories  [transition primer and reader] , ed. by Edmund
+ISBN-0726301078 Toumas , Elisa , Matias Pilip , and Yating M. , 1987. A'mane mpoefoho  Ampeeli fables  , trial edn. , 5 pp.  50  Mi.  
+ISBN-0726301795 [EZE]. 2nd edn. 1981  300  ISBN-0726307890 [LRF] Balo Magino , 1978. Yákêfá kánina  Bush animals' habits  , 27 pp.  200  ISBN-0726305189 [AID]. 2nd edn. 1982 as Yakefa kanina , ed. by Dowa Yuwa and Denise POTTS , 26 pp.  200  ISBN-0726308196 [NFELT] Dowa Julian Yuwa , tr. , 1975. Námo kúlíné kéma nê? Nétámátá mónánina nê  Tr. from Wanem nem bilong mi? , by Akera Tua  [riddles , Siane/Pidgin diglot] , ed. by Dorothy
+ISBN-0726302007 [EZE] [McELHANON , Kenneth A. , and Noreen McELHANON] , trs. , 1966. Dola sen  Tr. from Dollars and cents , by Currency Conversion Commission  , 14 pp.  50 
+ISBN-0726302309  500  [NCC]
+ISBN-0726302813   Gari John Naama , Yaa Kunaul , Gordon BUNN , and Ruth BUNN , trs. , 1975. Gariba gul dungwa main , Te ibal Kobe ere milungwa main bilemia  A social studies book , tr. from Introductory geography , by Graham and Margaret Scott , and Peoples of Papua and New Guinea , by David and Daphne Lithgow  , 83 pp.  500  ISBN-0726303283   GUHU SAMANE  MIDWARIA  Miriam Mumure , Karakara Pure , and Doris BJORKMAN , 1988. Quba maina paina ma sama teena  Same and different things: Preprimer 1  , ed. by Ernest RICHERT , 32 pp.  30   
+ISBN-0726303291  1000   
+ISBN-072630428X   Kasening Milimab , Jean SMITH , and Pasim Eptem , 1986. Kimino daabenamin bukobe 1  Mian prereader book 1  , 18 pp.  75   
+ISBN-0726304387 [LRF] Simon Savaiko , Beverley EVANS , Bert UBELS , Ineke UBELS , and Mada Iyamama , 1985. Health book for preschools , 18 pp.  15 
+ISBN-072630462X [NCC]. Rep. 1982  500 
+ISBN-0726304689 [LRF]. Rep. 1977  400  [AID]
+ISBN-0726305618 Bobby Michael Popolo , 1975. Eme ge rovi la kilekesila me la gigila taume  Primer 1  , ed. by Ray
+ISBN-0726306681 [AID]. Rep. 1982  500  [NFELT]
+ISBN-0726307750 [LAT]. 2nd edn. 1981 as I'kalisi kie havio , 46 pp.  1,000 
+ISBN-0726307874. 2nd edn. 1988  91 
+ISBN-0726308307 [NFELT]. 2nd edn. 1983  1000 . 3rd edn. 1985  1200 
+ISBN-0726309036 [NFELT]. 2nd edn. 1986 , 47 pp.  300  ISBN-9980003561   MOUNTAIN KOIALI  MOUNTAIN KOIARI 
+ISBN-0868930180 [SU & NYBSI] [Mukuchuwa Yobuhokwa and Martha KOOYERS] , trs. , 1969. Akama siituwa nedii maji  Old and New Testament portions  , 58 pp.  50 
+ISBN-0868930237 [SU & NYBSI]. Rep. 1977  400  [WGD]
+ISBN-0868930326 [WHBL]. Rep. 1977 , WBT Aust. ,  300  [LRF]
+ISBN-086893125X [WHBL] KAMANOKAFE  KAMANO  [Bamler , Henry , Dorothy DREW , Serave Tine'me , Ko'ave , and others] , trs. , 1967. Mataio , Yohane ävo kre yämi'nea näneke  Gospel of Matthew , 1 John  , 155 + 22 pp.  2,000  [WGD]
+ISBN-0868931381 [WHBL]. Rep. 1985  250  [WHBL]
+ISBN-0868931675 [WHBL] [Putup Mokirip , Enpaip Esumaip , Kerema Dekis , Nathani Janoup , and Patricia LILLIE] , trs. , 1983. Rut  Ruth  , 14 pp.  30  Mi 
+ISBN-0868931802 [WHBL]. Rep. 1987  900  [WHBL & ANZ WHBL]
+ISBN-0868931926 [WHBL & ANZ WHBL] ANGOR  ANGGOR , SENAGI , WATAPOR , BIBRIARI  [LITTERAL , Robert , and Shirley LITTERAL] , n.d. Sampela stori bilong Jisas  Parables 
+ISBN-0868932130 [WHBL] [Moap Tuarurung and Don HUTCHISSON] , eds. , 1985. Buk án sak uri lotu  Hymn book  , 84 pp.  300  Mi 
+ISBN-0868932752 [WHBL] [____] , tr. , 1988. Luk 1:2638 , 2:120  Christmas story selections from the Gospel of Luke  , ed. by [Patricia WILSON] , 9 pp.  20  Mi 
+ISBN-0909456178 [____] , tr. , 1972. Leliq Papuaq Niugini kamani [political education leaflet] , Port Moresby: The Political Education Committee , Department of the Administrator , 4 pp.  2,000 
+ISBN-0909456798 [MacDONALD , George , Masera Nobolo , and others] , trs. , 1971. Yuda dagbigo podobadu soe: Pasin bilong ol Juda  How the Jews lived  [Dadibi and Melanesian Pidgin diglot] , 86 pp.  200  Masera Nobolo , 1973. Ba dabi , hasa dabi , gula dabi  Birds , animals , snakes  , ed. by George MacDONALD and Georgetta MacDONALD , 76 pp.  200  ISBN-0726300667 [EZE]. Rev. 1989 as Ba dabe hasa dabe gula dabe , 76 pp.  500 
+ISBN-0909569045 [WLC] MANGAPMBULA  BTA administered since 1983  [Silas Ariko and Giemsa Apei] , trs. , 1988. KoroÔ ta boozomen un: Jenesis  Genesis  , 171 pp.  150  ISBN-0727221906 [Evangelical Free Church of Finland]. 2nd edn. 1989  100 
+ISBN-0909569177 [Mr. Werner Jung , W. Germany]. Rep. 1973  75 
+ISBN-0909569436 [Eltham and Kangaroo Ground Presbyterian Churches , Victoria , Australia] [VAN KLEEF , Sjaak , Parmau LiÔa , and others] , trs. , 1985. Noa tuku wam kube  Genesis 69  , 12 pp.  50 
+ISBN-0909569479 Mi.. Rev. 1975 as Genesis: Anutu k<yang mugên , 137 pp.  50 
+ISBN-2007034442
+ISBN-3484304782
+ISBN-3484304782
+ISBN-3484304782
+ISBN-3484304782
+ISBN-3484304782
+ISBN-3484304782
+ISBN-3484304782
+ISBN-3484304782
+ISBN-3484304782
+ISBN-3484304782
+ISBN-3484304782
+ISBN-3484304782
+ISBN-3900051070
+ISBN-9027252440
+ISBN-9976911297
+ISBN-9980000228 Various authors , 1989. Kinoku ka kaman dumie  Stories in Kinoku talk  [storybook] , 25 pp.  50  Mi 
+ISBN-9980000287 [LRF] rep. , 1984 KALA±I / KONA±I ÅRSJÖ , Sören and Britten ÅRSJÖ , eds. , 1996. Afu ta
+ISBN-9980000406. Rev. 1984  300  [NFELT]
+ISBN-9980000546. 2nd edn. 1987  350 
+ISBN-9980000554. 2nd edn. 1987  350 
+ISBN-9980000562. 2nd edn. 1987  300 
+ISBN-99800010010 [LAF and Hash House Harriers Running Club of Tabubil , Western Province] Faindimai , Alkom , trans. , 1994. Abatembiw kinim iwan kanabisa sung  Abatembip killed the small man  [storybook] , 5 pp.  60  Mi. Faiwol Translation Team , trans. , 1995. Yesus sinik mafak fotabesa sung uta ko  Jesus casts out an evil spirit from a man  [Bible story] , 8 pp.  50  ISBN-9980013974 Ibinok , Fromas , Finamsep Kunamnak and Joe Sangletal , 1985. Ufakufak umi win buk  Names of things  , 10 pp.  40  Mi.   Kukbieng , Makok , Manfred Ninitieg , Jacob Fengim and Mila Ensep , 1986. Faiwol sug  Faiwol stories  , 3 pp.  35  Mi.   Kunamnak , Finamsep , trans. , 1994. Waksaw fasel sung ko  The story of the old foreign man  [storybook] , 6 pp.  60  Mi 
+ISBN-9980001003. 2nd edn. 1987  350 
+ISBN-9980001437. 2nd edn. 1987  150 
+ISBN-9980001445. 2nd edn. 1987  250 
+ISBN-9980001461. 2nd edn. 1987  150 
+ISBN-9980001488. 2nd edn. 1987  350 
+ISBN-998000152X. 2nd edn. 1987  300 
+ISBN-9980001607 [LRF] [Gabriel Nagirio , Lucas Ugiyan , Zechariah Naii , Tom Mowikam , and Shirley KILLOSKY , trs.] , 1984. Siiya subga  Stone soup  [Sepik Iwam/Tok Pisin/English triglot] , 40 pp.  400  ISBN-9980001372 [LRF] Ini Inaur and Danny Sauperi , 1985. Habni niiwigin  The story of the cassowary bird,tr. into Tok Pisin by Grace Bobino and Anton Nakranki , and into English by Anton Nakranki and Shirley KILLOSKY  [triglot] , 51 pp.  200  ISBN-9980001593 [LRF] Joel Yapawi , Pol Kwarin , and Marilyn LASZLO , eds. , 1975. Yokwo niwi whirkin  Stories  [trial] , 126 pp.  60 
+ISBN-9980003219   Luk Devi , 1990. No bara tewero  Play ball  , ed. by [Jerry ROBINSON] , 5 pp.  50  Mi.  
+ISBN-9980003421  Sauba , Bill , ed. , 1989. Nanari buk  Storybook  , 61 pp.  250  ISBN-9980005076 [SIL] rep. 1992 56 pp.  300 
+ISBN-9980003871   Edi Nugavali , 1988. Manuga ifuifufudi  Bird stories  , 106 pp.  500  ISBN-9980004576 [German Development Service] Manoah Tomakina , Bryan EZARD , and Janet EZARD , trs. , 1971. Diu yadisauluva  How the Jews lived  , 86 pp.  200 . Rev. 1988  500  ISBN-9980004924 [German Development Service] Miainafa Abraham , tr. , 1984. Vonu ifuifufuna  The story of 'Weie the turtle  , ed. by John
+ISBN-998000538 . 2nd edn. 1987  300 
+ISBN-9980005653 [LAF] Kauyet , Franklyn , 1991. Raiy [storybook] , 8 pp.  40  Mi 
+ISBN-9980007117   Komumu , Widanu Kamuna , 1991. Rawa mera kumbe teweroyi , nguro mandeni  How to make a claypot  , 51 pp.  500  ISBN-9980006811   Layinu , Yano,1993. Gobe oowari yoweroyi , nguro muri  How the spider catches food  [easy reader] , ed. by Norma TOLAND , 5 pp.  100 
+ISBN-9980007133   Dagaruna , Niuro , 1991. Yonro oomboorododo putengga , nguro mata  John and the spirit bean  [children's story] , 20 pp.  500  ISBN-998000679X   Dowi , Naniyo , 1991. Gawawi tooburiudookeyingo eragaro mandeyari  Two men and the cassowaries  [storybook] , 15 pp.  500  ISBN-9980007028   Gango , Inggosi , 1989. De gura gura nguro kooni  Ways to use trees  , 9 pp.  50  Mi 
+ISBN-9980007532   Paruru , Flavia , ed. , 1995. Maga  The village  [storybook] , 8 pp.  150  [NDF]
+ISBN-9980007877   Tiangadap , Gabbie , 1991. A ksie to kla mgae  The sweetest coconut  [storybook term 3] , 7 pp.  100  Mi.   Tomu , Lukas , 1991. A kel to ngam kaem  The sugarcane  [storybook term 3] , 7 pp.  100  Mi.  
+ISBN-9980008474 Seke , Marie , trans. , 1992. Woba skul je mor  At school  [early reader] , ed. by Paul Yananda and Mack GRAHAM , 32 pp.  100  ISBN-9980008431 Yananda , Paul , trans. , 1991. Ana kangill ta warye goi [Bible story] , 8 pp.  50 
+ISBN-9980008520 Pipints , Paius , trans. , 1991. Una ta je mogoi merke kano nodomal [Bible story] , 8 pp.  50 
+ISBN-998000858X [National Department of Education] Various authors , 1987. O'moso'mo do lungu' izelidine'kisi ido' leli' ogomolo monune'kisi  Our testimonies and personal experiences  [storybook] , 29 pp.  30  rep. 1988  50  Wanguwe , John , ed. , 1990. Vene' kolosu' huko ongotilizani' gamazi li'mi monovo  How to cut and sew a Meri Blouse  [instruction book] , trial edn. , 16 pp.  100  Mi 
+ISBN-9980008830 Ofurat , Jesril , 2000. Sank mpumpuor Warm Puakil  Legend about Warm Puakil  [storybook] , 4 pp.  20  Various authors , 2000. Sank'umpor antilel yakioel  Our village legends  , rep. 11 pp.  25  Waiyeser , Lukas , trans. , 1997. Jisas ka nuar lo ntimprenkel ko yipm nikerpm lael  Jesus is the bridge  [Bible story] , 9 pp.  50 
+ISBN-9980008954 [BSPNG] rep. 1994  100 
+ISBN-9980008962 [BSPNG] rep. 1994  100 
+ISBN-9980008970. rep. 1998  200  Jekmba , Bernard , trans. , 1991. Iwa soka nubne takpillmal [Bible story] , 8 pp.  50 
+ISBN-9980009055 Rogioý , Jiligioý , Lombi Tukawa and Konjiý Naröm , 1987. Keu kelökýambuk  Stories with feeling  [storybook] , trial edn. , 7 pp.  65  Mi.  
+ISBN-9980009071 [___] , trans. , 1998. Sakius Jisaslama talkeinakija  Zaccheus wants to see Jesus  [Bible story] , 14 pp.  100   Mi 
+ISBN-998000908X [P'n'G Enterprises] ___ and Valentine Petali , 1993. Na Yesus a vil faroxoi a ralouna pana tana tapale  Jesus heals the lepers  [Bible story] , ed. by P. SCHLIE , 8 pp.  100  Cp. [P'n'G Enterprises] Matiai , P. , 1993. A faat aava malit  The missing coin  [Bible story] , ed. by P 
+ISBN-9980009101 [BSPNG] rep. 1994  100 
+ISBN-9980009128 [BSPNG] rep. 1994  100 
+ISBN-9980009195 [BSPNG] rep. 1994  100 
+ISBN-9980009330 Sariva , Aþeva , trans. , 1996. E þozone boro reifone  If I were a big fish  [prep reader] , 15 pp.  50  ISBN-9980014741 Sariva , Gunina , trans. , 1996. a e nanuhehe?  Are you my mother?  [storybook] , 23 pp.  50  ISBN-9980009977 Various authors , 1996. Hari bukaþa 1 [storybook] , 51 pp.  50 
+ISBN-9980009977   Wasmande , Patrik , trans. , 1993. Jisas fa heyek ormu eserara  Jesus walks on the water  [Bible story] , 7 pp.  25  Mi. Wasmande , Sebby , trans. , 1991. Jisas ma wasilakak kavamisiri ma orton or urik , jivik or nari [Bible story] , 7 pp.  30  Mi 
+ISBN-9980010134 2nd edn. 1998  20 
+ISBN-9980010134 [BSPNG]. 1st edn 1997  30 . 2nd edn. 1998  20 
+ISBN-9980010134 [BSPNG] rev. edn. 1995  30 . 3rd rev. edn. 1997  100 . rep. 1998  200  MENDE: Apingua 250 VERNACULAR WORKS [___ , ___ , ___ and ___] , trans. , 1998. Jisas sipsipin armek washilindari ma ria Jesus is the good shepherd  [Bible story] , ed. by Tarja IKÄHEIMONEN ,  40 
+ISBN-9980010258   ___ and ___ , trans. , 1993. Owe kanda las  The little caterpillar  [storybook] , 12 pp.  50    Tambala , Mrs. Bernadette , 1993. Sendapnombo mashi [health book] , 15 pp.  50  ISBN-9980008741   Taumana , James , trans. , 1997. Devit Goliathin or mandingormendari mashi  Davidand Goliath  [Bible story] , ed. by Tarja IKÄHEIMONEN , 23 pp.  100  ISBN-9980018542 Various authors , 1997. Ta! Mashi nihi ni heye ni kaye laka laka  Come and read and write our language!  [transfer primer] , ed. by Hanna Marie HOEL , 46 pp.  200  Mi 
+ISBN-998001086x [BSPNG]. 2nd edn. 1997  100  rep. 1998  200 
+ISBN-9980011033. rev. 1996 56 pp.  400 
+ISBN-9980011734 Waima Writers , 1995. Aiara ena Hoahoa  Village culture  [cultural story] , 16 pp.  45  Mi 
+ISBN-9980011939 Yapi , Yalambling , 1993. Kisim save long ritim tokples Ampeeli  Learn to read Ampeeli  [Tok Pisin and Ampeeli diglot] , 23 pp.  100  ISBN-9980011424 Yapuwongo Yupa , Toupias , trans. , 1973. Pita kako yahu ipofo mpe imentisofoho [Translated from Pita buys a tin of meat , by Roy GWYTHERJONES] , 22 pp.  100  ISBN-0726301019 ANGAATÍHA Jacob , Andrew , 1993. Utçpçhantç kapçhç Awçtçtaatçwçhante [primer 1] , 34 pp.  50 
+ISBN-99800120814 [NLAS] [___] , 1998. Mot pein tamol da irawai a  The snake deceived woman and man  [primer 2] , 43 pp.  50  ISBN-9980020857 [NLAS] [___] , 1998. Noa  Noah  [primer 4] ,  50  [NLAS]
+ISBN-9980012641 Kedena , Basil and Davidson Abuop , 1993. Daga wak  songs  7 pp.  120  Mi 
+ISBN-9980012781 Mondu , Michael , 1986. Nyombui wo r<ng buk  The puppy book  [children's story] , 7 pp.  20  Mi 
+ISBN-9980013044 Manboy , Miliy , 1992. Tubud miniid barnunang 1  Our ancestors stories 1  [storybook] , ed. by Kunumang Baran , 17 pp.  50  ISBN-9980010096 [Macedonian Call Nominees Group , Melbourne , Victoria , Australia] Nus , K. , trans. , 1994. Far yin awey wangeey  The big mouth frog  [storybook] , 16 pp.  50 
+ISBN-9980013388. rep. 1999  150 
+ISBN-9980014326 People of Yibab and Wandomi Villages , 1988. Wapi n<ng wand  Bird stories  [storybook] , 20 pp.  50  Mi 
+ISBN-9980014350 Singi , Joseph and Leo Amu , trans. , 1995. Tughe bot groq nindiq wuso?  Who sank the boat?  [storybook , Segi and Ghini dialects diglot] , ed. by Joy
+ISBN-9980014792 Various Saniyo Writers , 1994. Peri tamo nomo reseteye [storybook] , 21 pp.  35  Mi 
+ISBN-9980017457 Duke of York Translation Team , 1991. A tena baboura sipsip ibaatpaa malet a raara na sipsip  The lost sheep  [Bible story] , 7 pp.  40 
+ISBN-9980018526. rep. 1998  100 
+ISBN-9980019352 Thomas , Dokas , 1998. Afun ga kobengip [storybook] , 15 pp.  60  Mi 
+ISBN-9980019646 Singem , Gisla , trans. , 1994. Sakius ning wand  The story of Zaccheus  [Bible story] , ed. by Ignas Amu and Joy SANDERS , 7 pp.  100  Mi 
+ISBN-9980020741 Massigil , Abu , 1991. Yesu tasung gueron me  Jesus' teaching about prayer  [reader] , ed. by James Nagazing and Alan BROWN , 10 pp.  100  Mi 
+ISBN-9980020989 Kaekae , Natale , 1991. Amai [primer] , 8 pp.  40 
+ISBN-9980021136 Amu , Leo , trans. , 1994. Ase wo  Baby mosquito  [storybook] , ed. by Joy
+ISBN-9980021233 Sibeisi , Jonah , 1993. Basubirihara'ita ta ekaupa  A fisherman drowns  [preschool story book] , 9 pp.  50  Mi 
+ISBN-9980021241 [WBT US Division Literacy Funds] Rapoisi Writers Team , 1992. Aru Karabaa oirau Toosi  I shone the torch  , 25 pp.  100 
+ISBN-9980022051 Sibairo , Pius , 1993. Bo kaakapa oro bo kaupa  Catching shrimp  [preschool story book] , 9 pp.  50  Mi 
+ISBN-9980022205 Various authors , 2000. UmbuUngu kambu siliemili bukus 2,5 &6  Let's read Tok Ples , books 2,5 &6  [elementary readers] , 48 pp. 44 pp. 48 pp.  200 each  ISBNs ISBN-9980023775 , ISBN-9980023783 , ISBN-9980023791 UMBUUNGU  KALA DIALECT 
+ISBN-9980022523 Various authors , 1998. Wipi y<tkak peba  Wipi language story book  , 50 pp.  55  Wirem , Jena , trans. , 1999. B'og<l o neg<r  Right or wrong  [elementary reader] , trial edn. , 17 pp.  100 
+ISBN-9980022639 Amu , Leo , Gertrude Amu , Gisla Singem and Joseph Singi , trans. , 1995. Wapiqu Wo/Wapiwu Wo  The chicken's child  [storybook , Segi and Ghini dialects diglot  , ed. by Joy SANDERS , 32 pp.  100 
+ISBN-998002285X Various authors , 1997. Soý idoý Kosoroý Sundu [storybook] , 8 pp.  40  Mi. BOUNG  MARAGOMU DIALECT 
+ISBN-9980023201 Various authors , 1998. Sedalu bugu age  Storybook one  , 24 pp.  24  Mi 
+ISBN-998002366X [SIL] rep. 2000  60 
+ISBN-9980024399 Topidik , Gamaliel , 1983. Lenbi [reader] , 58 pp.  5,000  [NFELT] Various authors , 1993. A kum aakaakur taanga Butex  Stories of Butex  , 14 pp.  30  Mi 
+ISBN-9980586729
+ISBN-9980612258 [___] , trans. , 1995. Boyo ton susuman  If I were a mother pig  [reader] , 15 pp.  40  Mi. [___] , trans. , 1995. Diyo ton susuman  If I were a big fish  [reader] , 15 pp.  40  Mi. [___] , trans. , 1995. Fulusi ton susuman  If I were a mother cat  [reader] , 15 pp.  40  Mi. [___] , trans. , 1995. Ouabo ton susuman  If I were a butterfly  [reader] , 19 pp.  40  Mi. [___] , trans. , 1995. Sigo ton susuman  If I were a bird  [reader] , 15 pp.  40  Mi. [___] , trans. , 1995. Sofoo ton susuman  If I were a big dog  [reader] , 15 pp.  40  Mi. ___ , 1996. Samon ton towadili booka 1 [primer 1] , 3rd trial edn. of the original primer by Dan and Karen SHAW , 29 pp. Simugu , Asere , Waduwo Vonogobo and others , 1994. Samon ton booka  Samo story book  6 pp.  40  Mi. SANIYOHIYEWE
+ISBN-9980633220 [BSPNG] [Anton Kambu , Andrew Kerry , and Nix Yuanigi] , trs. , 1988. Luk 1:2638 , 2:120  Christmas story selections from the Gospel of Luke  , ed. by [Patricia WILSON] , 9 pp.  20  Mi 
+ISBN-9980830174 MALEUKILENGE Nagaring , Isaac and Irene HAYWOOD , 1991. Jisas ikimkimre namelamela [Bible story] , 7 pp.  20  Mi 
+ISBN-99980013486 Aihi , Toto and DuckShin KIM , trans. , 1997. Baki mai Kiko  Baki and Kiko  [storybook] , 31 pp.  60    Beata , Ikupu and DuckShin KIM , trans. , 1997. Tirama hanopaka ebabaina!  God made the world  [storybook] , 29 pp.  50 
+ISSN: 15393755 ,  ISBN-15393755
+map ISBN-08588322667
++ maps  700  ISBN-0868932051 [WHBL] YESSANMAYO  MAYO   Sepik dialect 
+maps ISBN-0858832097
+Mokirip , P. and Pat LILLIE , 1990. Ämäm 3orip ninär  Read 3 languages  [triglot in Girawa , Melanesian Pidgin and English] , 68 pp.  200  ISBN-9980005874   Putpnak , Kurukaip , Uririm Uitapau and others , 1986. Iken onok kesek  Our way of life is like that  [storybook] , 12 pp.  40    Tua , Akera , Pasas Ursip and Enpaip Esumaup , 1993. Isan enim inok?  Animal riddles  , 32 pp.  200  ISBN-9980000473 Wakwaknak , Raisip , Ipakir Jarup and others , 1986. Ik asanokotpak iken onok karar  Our ancestors way of life is the same as ours  [storybook] , 23 pp.  40   
+Qaqet Baining Literacy Committee , 1992. Ure sunas [alphabet and number book] , rev. edn. , 43 pp.  500  ISBN-9980010266   Various authors , 1984. A siit na ura lengi barak ama ruis i re sunas per ama luqup [storybook] , 15 pp.  30  Mi 
+Rep. 1984 as Jona , 22 pp.  200  ISBN-9980001992 [Rauma Parish , Finland]. Rep. 1985  101 
+rep. 1995 as Oatonga ga bodenga3  Reading and writing 3   50  ISBN-9980023686 [SIL] rep. 2000  55 
+Rev. 1985 , Arawa , NSP: Dept. of North Solomons Province , Division of Education , 41 pp.  500  ISBN-9980000619  . 3rd edn. 1985 , 43 pp.  400 
+Rev. 1985 , Arawa , NSP: Dept. of North Solomons Province , Division of Education , 45 pp.  500  ISBN-9980001801  . 3rd edn. 1985 , 26 pp.  400 
+Rev. 1986 , 175 pp.  250  ISBN-9980002700 [Mr. and Mrs. Al Leto , Granada Hills , CA , USA] MacDONALD , George , and Georgetta MacDONALD , 1965. Dadabi  Mikaru trial primer number 1  , 30 pp.  35 
+  notes  = {"A full study of the intonation of Tshwana nouns , including division into intonationclasses , positional intonationchange , etc."  Lestrade , in Doke 1933:78 . Reprinted 1970 together with Daniel Jones & Sol Plaatje's 'A Sechuana reader in international phonetic orthography'  1916  by Gregg International  ISBN-0576114553; 114 pp  
+  notes  = {All 3 vols reprinted 1970 by the Negro Universities Press in New York  ISBN-0837138620  
+  notes  = {Also published as 'Discovering Egyptian hieroglyphs' by Thames & Hudson in London  ISBN-0500276943  
+  notes  = {Botatwe is a cover term for Lenje  M61  , Ila  M63  and Tonga  M64 . Reprinted 1967 by Gregg Press in Farnborough UK  ISBN-0576114715  
+  notes = {'During 1847 a party of four Bushmen was brought to England by R.G. Bishop; merchant of Liverpool'  Strohmeyer 1982:196 . Reprinted 1974 as a pamphlet by the State Library in Pretoria  Reprint series 70; ISBN-0798900296  
+  notes = {Early German translation of Càda Mosto's journals. The travels as such took place during the mid15th century. This German translation was reprinted 1980 by Kümmerle in Göppingen  Litterae , #77; ISBN-3874524957; 68+xv p.  
+  notes = {Includes a handful Shona words  Doke 1960:30 . Reprinted several times , e.g. 1891 by Escriptorio da Empreza in Lisbon; and 1998 by Asian Educational Services in New Delhi  ISBN-8120613260 ; and 1999 by Comissão Nacional para as Comemorações dos Descobrimentos Portugueses in Lisbon  ISBN-9728325762  
+  notes  = {Includes Bd 1: NigerKordofanisch  p 17128  , Bd 2: AfroAsiatisch  p 129262  , Bd 3: Nilosaharanisch  p 263328  , Bd 4: Khoisan  p 329374  , Bd 5: Sprachvergleicherung  p 375478  , and Bd 6: Sprache im Kontext  p 479630 . There's also a special "Studienausgabe" comrising a set of six unbound paperback volumes without any index  ISBN-3871184969  
+  notes  = {Includes detailed descriptive sections of Pedi  Northern Sotho  , Zulu , Swahili , Konde  Nyakyusa  and Kongo. Reprinted numerous times by Dietrich Reimer Verlag in Berlin  ISBN-3496007559 . The German original of 1899 bore the title 'Grundriss einer Lautlehre der Bantusprachen' 
+  notes  = {Includes phonetic summaries of Ewe  Ge dialect  , Yoruba , Fante , Bambara and Malinke , Ganda , Zulu , Nuer , Dinka and with notes on Kikuyu. Reprinted numerous times by Oxford University Press , as well as 1990 by Kegan Paul International , with a new introduction by John Kelly and supplemented with the second edition of a practical orthography of African languages  ISBN-0710302959; xlii+227+24 pp  
+  notes  = {In two parts: EnglishZulu and ZuluEnglish. The second part consists of an abridgement of a ZuluEnglish dictionary originally published in 1953. The abridgement was also published separately in 1958. Reprinted several times by Witwatersrand University Press  ISBN-0854940103  
+  notes  = {Is this an edited work? Reprinted ?  1994 by Universitätsverlag Dr Norbert Brockmeyer in Bochum  BochumEssener Beiträge zur Sprachwandelforschung , Bd 25; ISBN-3819602615; 243 pp  
+  notes  = {Later reprinted by Gregg International  ISBN-0576116157  
+  notes  = {Later reprinted by Gregg International  ISBN-0576116165  
+  notes   = {Later reprinted by Gregg International  ISBN-0576116173  
+  notes  = {Not sure about this one. It gives different ISBN-info , but seems to be identical to the 1981 edition 
+  notes  = {Printed with the same ISBN-as the first edition!
+  notes  = {Properly published 2004 by Mambo Press in Gweru  ISBN-1904855377  
+  notes  = {Publication of the author's dissertation , University of London , 1929. Contains "a very full study of Tshwana phonetics , with a good introduction to the tonetics as well ... Most of the informants appear to have been BaRolong"  Lestrade , in Doke 1933:78 . Later reprinted by Gregg International , with a new introduction and supplemented with "SothoNguni orthography"  1949  and "Some little known dialects of Sepedi"  1932  by Tucker  ISBN-0576116084; 180 pp  
+  notes  = {Reissued 2004 by Mambo Press  ISBN-1904855369  
+  notes  = {Reprinted 1960 by Ungar in New York; and 1978 by Dover Publications in New York  ISBN-0486236153  
+  notes  = {Reprinted 1962 by the English Universities Press in London; and 1989 by Random House in New York  ISBN-0679102256 ; and various times by Hodder & Stoughton in London  ISBN-0340276371  
+  notes  = {Reprinted 1964 as a 48page booklet by Gregg Press  ISBN-057611443X  
+  notes  = {Reprinted 1968 by Gregg Press at Farnborough  ISBN-0576116211  
+  notes   = {Reprinted 1969 by Dawsons on London; and Oxford UP  probably more than once ; and 2005 by L'Harmattan in Paris  ISBN-2747572781; 326 pp  
+  notes  = {Reprinted 1969 by Gregg International  ISBN-057611488X  
+  notes  = {Reprinted 1971 by Gregg International  ISBN-0576112062  
+  notes  = {Reprinted 1974 by Longmans , Green & Co. in Cape Town  ISBN-0582617006  
+  notes  = {Reprinted 1974 by the Swiss Mission in South Africa at Johannesburg  ISBN-0949981339 ; and 1991 by Sasanova Publishers & Booksellers  = Swiss Mission  in Braamfontein  ISBN-0949981339  
+  notes  = {Reprinted 1974 in two vols  ISBN-0175112827/0175112835 ; not sure this was a complete edition , though 
+  notes = {Reprinted 1977 by SAIRR  ISBN-0869821431  
+  notes  = {Reprinted 1977 by School of Oriental and African Studies  ISBN-0728600005  
+  notes  = {Reprinted 1978 by NECZAM in Lusaka; and 1992 by the Mission Press in Ndola; and 1998 as 'BembaEnglish , EnglishBemba concise dictionary' by Cambridge University Press for the Inyanga Research Fund  ISBN-0781806305  
+  notes  = {Reprinted 1978  ISBN-0804403538  
+  notes  = {Reprinted 1981 as 'A fallacy of contemporary linguistics' by Helmut Buske Verlag in Hamburg  ISBN-3871184217  
+  notes  = {Reprinted 1981 by APAPhilo Press in Amsterdam  ISBN-9060222512  
+  notes  = {Reprinted 1981 by Slatkine in Geneva  ISBN-2051002541  
+  notes  = {Reprinted 1981  ISBN-0949980897  
+  notes  = {Reprinted 1982 by Hodder & Stoughton in Sevenoaks  ISBN-0340270543  
+  notes  = {Reprinted 1982 by University Press Ltd in Ibadan  ISBN-0195753003  
+  notes  = {Reprinted 1982  ISBN-0949980929  
+  notes  = {Reprinted 1985 by Hodder & Stoughton in Sevenoaks  ISBN-0340390301  
+  notes  = {Reprinted 1986 by Eurolingua in Bloomington  Bibliotheca nostratica series , v 7; ISBN-0931922259  
+  notes  = {Reprinted 1989 by Fountain Publishers in Kampala  ISBN-9970021427  
+  notes  = {Reprinted 1989 in 'Beiträge zur Afrolusitanistik und Kreolistik'  ed. by Matthias Perl; Studienverlag Dr N Brockmeyer; BochumEssener Beiträge zur Sprachwandelforschung , Bd 6; ISBN-3883397466  , p 113123 
+  notes  = {Reprinted 1990 by Longman Zimbabwe in Harare  ISBN-058261435X  
+  notes  = {Reprinted 1991 by Otto Harrassowitz Verlag  ISBN-3447025921  
+  notes  = {Reprinted 1994 by Macmillan Kenya Publishers in London  ISBN-9966885617 . Macmillan's 1994reprint makes no mention of a second author 
+  notes  = {Reprinted 1995 by Hippocrene Books in New York  ISBN-0781803942  
+  notes   = {Reprinted 1995 by Hippocrene Books in New York  ISBN-0781804043  
+  notes  = {Reprinted 1996 as 'ChiTumbuka , chiTonga/English & English/chiTumbuka , chiTonga dictionary' by Central Africana Ltd in Blantyre  Malawi cultural series , n 1; ISBN-99990814147  
+  notes  = {Reprinted 2004 in the series 'Georgetown classics in Arabic language and linguistics'  ISBN-1589010094  , with an accompanying audioCD and new introduction 
+  notes  = {Reprinted 2005 by L'Harmattan in Paris  ISBN-274758173X  
+  notes  = {Reprinted 2006 as part of 'Georgetown classics in Arabic languages and linguistics'  ISBN-1589010817  , with MP3 files 
+  notes   = {Reprinted a few times by Gregg International  ISBN-057611457X  
+  notes  = {Reprinted a few times by Gregg Press/International  ISBN-0576114472  
+  notes  = {Reprinted a few times by Sasanova Publishers & Booksellers in Braamfontein  ISBN-0949981699  
+  notes  = {Reprinted a few times by Sasanova Publishers & Booksellers  ISBN-0949981222  
+  notes  = {Reprinted by Collins several times  ISBN-0004334159  
+  notes  = {Reprinted by Gregg International  ISBN-0576116238  
+  notes  = {Reprinted by Hippocrene Books in New York  ISBN-0781803926  
+  notes  = {Reprinted by J L van Schaik in Pretoria  ISBN-0627002226  
+  notes   = {Reprinted by Mouton de Gruyter in Berlin  ISBN-3110091569  
+  notes   = {Reprinted in the 1990s by Hippocrene Books in New York  ISBN-0781803934  
+  notes  = {Reprinted in the 1990s by Otto Harrassowitz Verlag in Wiesbaden  ISBN-344700245X  
+  notes  = {Reprinted in the 1990s by Otto Harrassowitz Verlag in Wiesbaden  ISBN-3447005769  
+  notes  = {Reprinted in the 1990s by Otto Harrassowitz Verlag  ISBN-3447005319  
+  notes  = {Reprinted in the 1990s by Otto Harrassowitz Verlag  ISBN-344700553X  
+  notes  = {Reprinted in the 1990s by Otto Harrassowitz Verlag  ISBN-3447005548  
+  notes  = {Reprinted in the 1990s by Otto Harrassowitz Verlag  ISBN-3447005556  
+  notes  = {Reprinted more than once by J L van Schaik  ISBN-0627002188  
+  notes  = {Reprinted numerous times by Longmans , Green & Co. and/or by Longman  ISBN-058262701X  
+  notes  = {Reprinted numerous times by Maskew Miller Longman for the University of the Witwatersrand  ISBN-0636003205  
+  notes  = {Reprinted numerous times by Witwatersrand University Press in Johannesburg  ISBN-085494382X  
+  notes  = {Reprinted several tiems by Longman Rhodesia  ISBN-0582604192  
+  notes  = {Reprinted several times by Lawrence Hill Books in New York  ISBN-1556520751  
+  notes  = {Reprinted several times by Sasanova Publishers & Booksellers in Braamfontein  ISBN-0949981338  
+  notes  = {Reprinted several times by University of South Africa in Pretoria  ISBN-0869812564  
+  notes  = {Reprinted several times , e.g. 1983  ISBN-0804401721 hb ISBN-0804461767 pb ; and 1991 by ippocrene Books in New York  ISBN-0870529706  
+  notes  = {Reprinted several times  e.g. 1986 , 2004  by Mambo Press  ISBN-0869220012  
+  notes  = {Reprinted several times  e.g. 1990 , 2004  by Mambo Press in association with the Literature Bureau  ISBN-0869220144  
+  notes   = {Reprinted several times  ISBN-0627009646  
+  notes  = {Republished 1980 by Gamsberg Publishers for the SWA  Namibia  Department of National Education in Windhoek  ISBN-0868481041  
+  notes  = {Supports and develops a uniform Yoruba language to be used in Nigerian education. A second volume was edited by Awobuluyi  1990 . Reprinted  or revised?  1992 by Ibadan University Press  ISBN-9782492434  
+  notes  = {The ISBN-info printed on the back cover  ISBN-0869251597  is different from the one given inside the book  ISBN-0869251589  
+  notes = {The 'Kitâb alfihrist' claims to be an index of all known books by Arabs or about the Arabian world. It includes something on East Africa and the Zanj. There are two known contemporary versions , one longer , one abridged  cfr 'Encyclopaedia of Islam' , new ed. . The full Arabic text has been published/reprinted several times , e.g. 1991 by Al'Arabi in Cairo  ISBN-9775040000  
+  notes  = {The original plates were destroyed in an air raid during World War II. Most subsequent printings are photomechanical reprints , no matter what they call themselves. Reprints are numerous , e.g. 1950 and 1968 by Oxford University Press in London; and 1980 and 1985 by the University Press Ltd in Ibadan  ISBN-019575221X . A revised  third  edition published anonymously appeared in 2001 by the University Press Ltd in Ibadan  ISBN-9780307605  
+  notes  = {The third edition is the still the standard reference work of Middle Egyptian , while the fourth edition  1966  seems to have gone by without much notice. Reprinted numerous times , eg. 1988 by the Griffith Institute  ISBN-0900416351  
+  notes  = {This edition has been reprinted several times by Longman Penguin Southern Africa  ISBN-0582610141  
+  notes = {Were these journals ever published? They did appear 1991 as 'Un voyage au Congo 18271828' , published by La Table Ronde in Paris  ISBN-2710304635; 382 p. . Perhaps it's fiction 
+Tekare , Jerio and Kaija OLKKONEN , 2000. Ýeýezu. Bakaya 2  Primer part 2  , 39 pp.  600  [LAF] Tumaka , Dan and Frieka Mona , trans. , 1999. Kiý Jisasnoý kolooro  Christmas story  , 16 pp.  300  ISBN-9980022701 rep. 2000  400  Tumaka , Depa and Kaija OLKKONEN , 1997. Kosoroý tere kania  Kosorong alphabet book  , 28 pp.  300  Mi 
+Tietze , R. , tr. , 1980. Dabal kimanin kukubobe  Soil improvement , tr. from Tok Pisin by Kasening Milimab  [technology book] , ed. by Daning Mutumab and Pam WESTON , 24 pp.  50  ISBN-0726307277 [LAT]
+[____] , tr. , 1986. Stori Krismas kin  Luke 12  , 29 pp.  50  Mi. [____] , tr. , 1990. Josua  Joshua  , ed. by [Arden SANDERS] , 83 pp.  100  ISBN-086893268X [WHBL & ANZ WHBL] [Joseph Wokni] , tr. , 1986. Esta  Esther  , 77 pp.  50  Mi 
+[___] , trans. , 1995. Banaga na vabekuma  The fall of man  [Bible story] , 23 pp.  100  [BSPNG] [___] , trans. , 1995. Bawa dona wai rewapaninama  Strong pig Pugi  [storybook] ,  100  [___] , trans. , 1995. Daþasi be madi  The dog and the cuscus  [storybook] , 17 pp.  100  [___] , trans. , 1995. Daþasi wai badabadanama  Bossy dog  [storybook] , 21 pp.  100  [___] , trans. , 1995. Deþoda taugu bebeu  If I were a butterfly  [storybook] , 16 pp.  100  [___] , trans. , 1995. Deþoda taugu daþasi dosigu  If I were a big dog  [storybook] , 16 pp.  100  [___] , trans. , 1995. Deþoda taugu iyana dosigu  If I were a big fish  [storybook] , 17 pp.  100  [___] , trans. , 1995. Kamkam tauþominama be nakwaya  The rooster and the wallaby  [storybook] ,  100  [___] , trans. , 1995. Kodam èi yana  I shone the torch  [storybook] , 25 pp.  100  [___] , trans. , 1995. Mamaitua na tarawatuma dosi vavasaþinama  God's greatest law  [storybook] , 7 pp.  100  [BSPNG] [___] , trans. , 1995. Motamota þaubonama  Little caterpillar  [storybook] ,  100  [___] , trans. , 1995. Pakane na gututuma  The creation story  [storybook] , 31 pp.  100  [BSPNG] [___] , trans. , 1995. Siki be Saku  Siki and Saku  [storybook] , 9 pp.  100  [___] , trans. , 1995. Sirin taitai kuruvinama na wainasima  Parable of the lost coin  [storybook] , 8 pp.  100  [___] , trans. , 1995. Tai'tigiri  Let's play  [storybook] ,  100  [___] , trans. , 1995. Tam agunai taugu turaguma  You must be my friend  [storybook] , 19 pp.  100  [___] , trans. , 1995. Tam taugu tinagu bo?  Are you my mother?  [storybook] ,  100  [___] , trans. , 1995. Tam upa þaronama  You belong in the water  [storybook] , 19 pp.  100  [___] , trans. , 1995. Tatakau gaya dosinama  Big mouth frog  [storybook] ,  100  [___] , trans. , 1995. Tatakau taonie e naþona  Froggie goes to town  [storybook] , 17 pp.  100  [___] , trans. , 1995. Taugu deþoda sibo kamkam tauþominama  If I were a rooster  [storybook] ,  100  [___] , trans. , 1995. Taugu deþoda sibo kiu  If I were a bird  [storybook] ,  100  [___] , trans. , 1995. Taugu iwayo  Crocodile daydreams  [storybook] ,  100  [___] , trans. , 1995. Taugu sibo bawa tinaroaroanama  If I were a mother pig  [storybook] ,  100  [___] , trans. , 1995. Taugu sibo pusi tinana  If I were a mother cat  [storybook] ,  100  [___] , trans. , 1995. Tauna aitau turana?  Whose friend is he?  [storybook] ,  100  [___] , trans. , 1995. Yesu banaga 4,000 yai kanidina  Jesus feeds 4000 people  [storybook] ,  100  [___] , trans. , 1995. Yesu banaga tuera paþopaþonama yai yawasanina  Jesus heals a leper  [storybook] , 7 pp.  100  [___] , trans. , 1995. Yesu kaibitibiti yariu tuaþaiena  Jesus calms the storm  [storybook] , 25 pp.  100  [___] , trans. , 1995. Yesu tauna ani davu  Jesus is the bridge  [storybook] , 9 pp.  100  The People of Boya Boya , Didia , Gadovisu and Wanama Villages , 1997. Gututu poredima  Old stories  [storybook] , ed. by Beate KNAUBER , 166 pp.  200  ISBN-9980017937 Various authors , 1999. Siava tauwai karedima adi bukama [primer] , 30 pp.  40 
+[VAN BODEGRAVEN , Nico] , 1994. Po'ep Mu:rrag  Story pages for term 1  [preschool stories] , 8 pp.  70  Mi. [___] , 1994. Po'ep Mu:rrag  Story pages for term 2  [preschool stories] , 8 pp.  70  Mi. [___] , 1996. Po'ep mu:rrag  Story pages term 4  [prepschool stories] , 8 pp.  70  [___] , trans. , 1996. Yesun anto'mo'l po'ep  The Christmas story  [Bible story] , 17 pp.  50  [___] , trans. , 1998. Yesun bu:du:l ako' arsu:mu:l bo'ktan peba  Easter story  [Bible story] , 47 pp.  50  ISBN-998001086X GUHUSAMANE Mumure , Miriam and Karakara Pure , 1988. Nooho ehequ maina paina ma sama teena. Bukhu bisana 2  Same and different letters. preprimer 2  , 32 pp.  30  Mi.  
+Wangka Western Desert Base Dictionary. ISBN-073161738X , 1988. Part  1  Wangka , 42 pages. Part  2  Grammar. Part  3  English , 30 pages 
+Yakour , Markus and Joseph Singi , trans. , 1998. Mir yuwon ye pe  Nutrition  [health book] , ed. by Joy SANDERS , 19 pp.  150  ISBN-9980021195 Yaumo , Ademe , Bruno Herygu and Saiwa Meuri , 1985. Yibar urpui mandi ye buk  Talk about when the Kiap came  [history book in Ghini , Hagi and Segi dialects] , 13 pp.  50  Mi 
+  publisher  = { 1,000  ISBN-0726306827 [LRF] [____] , ed
+  publisher  = { 1000  ISBN-072668870 Jeva , James , trans
+  publisher  = { 100  ISBN-072630171X
+  publisher  = { 100  ISBN-0726303658 [NCC] Tomas Wan Peluwa and C
+  publisher  = { 100  ISBN-0726308331
+  publisher  = { 100  ISBN-99800007982   Nanmat , Edward , 1990
+  publisher  = { 100  ISBN-9980022140 Mei , Andru and John Luwaipe , 1997
+  publisher  = { 1200  ISBN-0726309109 [NFELT] Rev
+  publisher  = { 120  ISBN-9980019964 Various authors , 1998
+  publisher  = { 150  ISBN-07263034307 [NCC] Kaku Pine , 1974
+  publisher  = { 200  ISBN-0726300268 Nelson Putagu , Darius T
+  publisher  = { 200  ISBN-0909456194
+  publisher  = { 200  ISBN-0909569673 [LRF]
+  publisher  = { 200  ISBN-9980003863   Nessy Mativa'ae , Gwen GIBSON , and Joy McCARTHY , 1985
+  publisher  = { 200  ISBN-9980003987   Mikel , John , Robert Livlar and others , 1986
+  publisher  = { 200  ISBN-9980005998
+  publisher  = { 300  ISBN-0726307505 [LRF] S<rany<waa' Esa , 1978
+  publisher  = { 300  ISBN-9980004088 [CIDA & AFANE] 2nd edn
+  publisher  = { 300  ISBN-9980011351 [SIL] Tenaen , A
+  publisher  = { 500  ISBN-0726305855 [LRF] Pika Aisea , Pilip Leumo , Ledani , and Tokamu Luaina , 1975
+  publisher  = { 500  ISBN-0909569746 [LRF]
+  publisher  = { 50  ISBN-9980005920 Nunga , Gingeme , 1999
+  publisher  = { 600  ISBN-0726301663 [EZE]
+  publisher  = { 60   300  ISBN-0726304018  
+  publisher = {Center for the Study of Language and Information , Stanford University , Stanford , CA 94305  cloth: ISBN1575861453; paperback: ISBN1575861445  
+  publisher = {China ISBN-Center
+  publisher  = {each  80 each  ISBNs ISBN-9980005791 , ISBN-9980005791 [CEA] Galah , Godua , 1990
+  publisher  = {ISBN-0726300853
+  publisher  = {ISBN-0726302740 [PNGRF] Rep
+  publisher  = {ISBN-088312212X
+  publisher = {ISK , ISBN-8247160471
+  publisher = {ISK , ISBN-8247160498
+  stampeann  = {#Zide , A. 1982; #N109; Summer Institute of Linguistics catalog 1981; ISBN-0883120461; |*
+  stampeann  = {#Zide , A. 1982; Summer Institute of Linguistics catalog 1981; ISBN-0883120488; |*
+  title  = {1 , 2 Tesalonaika  1 , 2 Thessalonians  [trial] , ed. by [John Alungum] , 31 pp.  200  ISBN-0868931128 [WHBL] [____] , tr. , 1985. Jon  John 
+  title = {3 baas kwasanyaanugam kaalvakina lapa nyig aa  Workbook 3 for learning to read  , 2nd edn. , 22 pp.  130  Mi. MANGAP MBULA Apei , Giemsa , Robert BUGENHAGEN and Salme BUGENHAGEN , 1991. Tomtom tizooro mi sanaana ipet [reading book 2] , 63 pp.  400  ISBN-9980007923 Atio , Anne , Rachel Darius , Misek Mark and Lukas Aibul , n.d. Tapaata la kalýanda [transfer primer] , 50 pp.  150  Mi. rep. 1988 48 pp.  100  Mi. Awa , Dick , David Aibike , Naleng Gideon , Lukas Aibul , Robert D. BUGENHAGEN and Salme E. BUGENHAGEN , trans. , 1998. Tomtom ta ikam pai molo be ila kar saamba: Miuýana ki Jon Banyan  The person who made a long journey in order to go to heaven: John Bunyan's dream 
+  title = {Adaa agaa buku 13  Primer 13  , 32 pp. ea.  100 . Rep. 1972  300  ISBN-090945681X ISBN-0909456828 ISBN-0909456836. 3rd edn. 1976 with Yapua Kirepeasi , 40 , 32 , 32 pp.  400  ISBN-0726305871 ISBN-072630588X
+  title = {Ado föı̈ [alphabet book] , 22 pp.  300  ISBN-998061188X rev. 2000 as Edolo ado föi beba
+  title  = {A. EganSjölander and J. GunnarssonPayne  eds.   2011 . Tracking Discourses: Politics , Identity and Social Change. Lund: Nordic Academic Press.  ISBN-9789185509393  hb  , pp. 342 , EUR 40 
+  title = {A guide for conducting sociolinguistic surveys in Papua New Guinea. , 56 pp. ISBN-0726308013
+  title = {A hor to atgiang orom kam patter o ngnes  Reading readiness books 5&6  [primer one series] , 13 pp. each  150 each  ISBNs ISBN-998000780X , ISBN-9980007818 ,  . SULKA: THARP 318 VERNACULAR WORKS ___ , 1991. A hor to atgiang orom kam patter o ngnes  Reading readiness books 810  [primer one series] , 13 pp. each  150 each  ISBN-9980007834 , ISBN-9980007842
+  title  = {A lagasai talatul sina Aposel Yon e a lagasai talatul sina Aposel Paulus saxa xe si Taitus e taragua xe si Timoti  Epistles of John , Titus , 1 , 2 Timothy  , 42 pp.  300  ISBN-0868932574 [WHBL] KARKARYURI [Waruwa Márákapeno , Maramia Nkonifa , and Dorothy PRICE] , trs. , 1989. Jisas nomwanté ékomp kar  Christmas story from Gospels of Matthew and Luke 
+  title = {Amele , London: Croom Helm , 393 pp. ISBN-0709942540/6 [PhD Dissertation
+  title  = {Anamba meina?  What is it? , adapted from Wanem nem bilong mi? , by Akera Tua , ed. by Larry Cates  [riddle book , Balif and Ilahita dialects] , ed. by Joshua Lukas and Bob CONRAD , 29 pp.  420  ISBN-072630560X [AID]. Rep. 1984. Rev. 1987 by Christlieb Alawangi and Jon Alungum , trs. , ed
+  title  = {Anëmau ngunin pepewerë wia puru  Animals of the Bible  [English and Weri diglot] , 20 pp.  350  ISBN-0726303208  . Rev
+  title  = {Anëmaüru Aprëka yangerak wiaüru  Animals of Africa  [English and Weri diglot] , 24 pp.  350  ISBN-0726303194  . Rev. 1975 as Animaurö Aprika yangerak wëaurö  350  ISBN-0726303801 Garia Maip , 1976. Int pepewer  Bird book  , ed. by Maurice BOXWELL
+  title = {Angasik ua: asoung 2 [Bible story and activity book] , trial edn. , 37 pp.  500  ISBN-9980018445 [WBT , US Division] [___] , trans. , 1997. Iesu kata pasal kuli laman  Jesus walks on the water  [Bible story] , 7 pp.  30  [BSPNG] [___] , trans. , 1997. Mengen atoktokngai i kapkap kata mun  The lost coin  [Bible story] , 7 pp.  45  ISBN-9980009101 [BSPNG] [___] , trans. , 1997. Nei a mang limaleat ang e voi?  Where are the other nine?  [Bible story] , 7 pp.  60  ISBN-9980009098 [BSPNG] [___] , trans. , 1997. Tauia kapo buk using ani lesu  The rich young man  [Bible story] , 7 pp.  50  [BSPNG] [___] , trans. , 1997. Uruk e metekuku  Joy in heaven  [Bible story]
+  title = {Angasik ua. Keve akuskus i Iesu  2  6 [Bible story book] , 44 pp.  500  ISBN-9980022574 [Mennonite Christian Followship , Atmore , AL
+  title = {Angasik ua: Tutapongai  1  [first books in sunday school series Genesis storybook & puzzle book] , 47 pp. & 22 pp.  300 each  ISBN-998001718X ISBN-9980017201. 2nd edn. 1997 48 pp
+  title = {A preliminary vocabulary of Tifal with grammar notes , LDMAP 5 , Huntington Beach , California , USA: SIL , v + 117 pp. ISBN-0883123053 HEMMILÄ , Ritva , 1987. Urimin tematiikkaa  On Urim thematics  [MA Thesis , University of Helsinki
+  title  = {A review of The Open Handbook of Linguistic Data Management. 2021. Edited by Andrea L. BeresKroeker , Bradley McDonnell , Eve Coller , and Lauren B. Collister. Cambridge: MIT Press. ISBN-97802262045261.i–xiv. 671pp
+  title  = {Atofo wolano  Let's read  [primer] , 160 pp.  250  ISBN-0726303798  . Rep
+  title = {Au book 14  Primer 14  , 24 , 27 , 36 , 36 pp.  20 ea.  Yinen Yamene , Wankiyai Hanpan , and Jacqueline SCORZA , 1975. Tuwei kiutip 13  Primer 13  , 81 , 74 , 60 pp.  100  ISBN-0726304115 ISBN-0726304166 ISBN-0726304212  . Rev. 1979 with Wipai Weiko , Raphael Wino , and David SCORZA , as Tiwei kiutip 13 , 81 , 77 , 58 pp.  100  , ISBN-0726306959 ISBN-0726307033 ISBN-0726307009 , [NFELT]. Rep
+  title = {Autaahaatíhomí piwíhá imêhuráaháare  Genesis abridgement  , 193 pp.  50  ISBN-0868930512 [WHBL] [James Namaranso and Roberta HUISMAN] , trs. , 1981. Autaahaatíhomí p<wíhá nuh<mapíháare  Bible story book , tr. from The Bible in pictures for little eyes
+  title  = {A vanvaninara upi ra niluluk: a ilima [reading readiness book 5] , 20 pp.  2000  ISBN-9980007028   Kilalang , Ernest , 1991. A vanvaninara upi ra niluluk: a ivat [reading readiness book 4] , rev. by Elyce COBB
+  title  = {A vanvaninara upi ra niluluk [preprimer] , 32 pp.  2000  ISBN-9980010231   Marum , Julius , 1991. A vanvaninara upi ra niluluk: a lavurua [reading readiness book 7]
+  title = {Avo kao [prereading and writing workbook] , 47 pp.  1,000  ISBN-0726307734 [LRF] Rep. Rep. 1983. Rep. 1984 , 48 pp.  1,000  ISBN-09980000082. Rep. 1988  500  ISBN-9980004770  . 5th edn. 1989
+  title = {Ävona hampriho  Read writing  [primer] , 128 pp.  1,000  ISBN-0726300705 [EZE]. Rev. 1981 with Serave Tine'me and Hägompa Masa
+  title  = {A±wókuc wéná±po  The loving father  [Bible story reader] , 16 pp.  100  ISBN-9980003936   [___,___ and___,1987. Dompiduk±m sipisipi [Bible story reader] , 14 pp.  100  ISBN-9980003952   [___,___ and___,1987.  Elijah and the great drought  [Bible story reader] , 15 pp.   [___,___ and___,1987. Kam macî  The two houses  [Bible story reader] , 16 pp. ISBN-9980003901   [___,___ and___,1987.  Nehemiah builds a city  [Bible story reader] , 15 pp.   [___,___ and___,1987. Awókuc w' a±ínt'g'ic ndái  The good Samaritan  [Bible story reader]
+  title  = {A yamtunu nae  I shone a torch  [prepschool story book] , 15 pp.  89  ISBN-9980007400 [BFDW] Dickson , Bona , 1991. Hinam meka?  Where is your mother?  [prep school story book]
+  title  = {Baba ana talisi ana buki [dictionary] , 54 pp.  500  ISBN-0726308978. 2nd edn. 1987 , 56 pp.  500  ISBN-09980004405 ____and ____ , 1984. Eyowa ana tuwalali  Garden work  [extension reader] , 9 pp.  80 . 2nd edn. 1989
+  title = {Baba ana talisi ana buki: Misima Dictionary , 54 pp.  500  ISBN-0726308978. 2nd edn. 1987
+  title = {Bahinemo tekefu noweifa  For looking at first  [primer] , 86 pp.  100  ISBN-0726300438 [LRF]. Rev. 1985 asTekofu noweifa
+  title = {Baibo booka fenyanfon ke oye ayobe ton debe  MiniNew Testament  , WBT Aust. , 385 pp. + 2 maps  150  ISBN-0276306908 [Businessmen in Tucson , AZ , USA
+  title  = {Baibo buka hanbou  Animals of the Bible  , 20 pp.  100  ISBN-0726301310 [EZE]. 2nd edn
+  title = {Barai pre reading teachers guide [Barai and English diglot] , 168 pp.  20  ISBN-9980005955 Gabrielle No. 2. , n.d. Made Dudone Fuone Abere  Made loses his axe  [storybook] , 20 pp. Mi. Java , Florence , 1984. E Devidido Vua  The story about David  [storybook] , 11 pp. Mi. Juvaeja , Wilford , 1984
+  title = {Barai sentence structure and embedding , LDAPS 3 , viii + 141 pp. ISBN-0883122030. Also LDMAP 3
+  title = {Being indigenous as well as Christian: A case of Maiwala Christians in Papua New Guinea Missiology: An international review vol. 27 3 :393402 Nenegemo , Tau , and Larry Lee LOVELL , comps. , 1995. Miniveha field notes , DictPNG , vol. 14 , 216 pp.  75  ISBN-9980014245 Newman , John , and Robert G. PETTERSON , 1990. The tones of Kairi
+  title  = {Bem denÔe [legends] , 82 pp.  1000  ISBN-072630896X [NFELT] McELHANON , Noreen , 1983. Kulem kiÔe ekmketetne  Prereader 1  , 68 pp.  2000  ISBN-0726308897 [NFELT] [____] , 1984. Topne katma salikune  Prereader 2 
+  title = {Benabena ka Pisini ka Igilisi ka  BenaBena , Melanesian Pidgin and English triglot phrase book  , 29 pp.  500 . Rev. 1972  500  ISBN-0909456844 Simo'e Pepelo and Robert YOUNG , trs. , 1972. Gamani hapa'a yabe  The basis of government , tr. from Government and independence , by Roy GwytherJones  , Port Moresby: Department of Information and Extension Services
+  title = {Boku togemele mada majeli boku 13  Copying book 13 on how to write  , 28 , 28 , 36pp.  240  ISBN-0726306517 ISBN-0726306568
+  title  = {Bolan nyapwe Bukiyúp , Tok Pisin , Inglis  Phrases in Mountain Arapesh , Melanesian Pidgin and English , adapted from the Biangai triglot phrase book  , 22 pp.  200  ISBN-0726302279 [LRF]. 2nd edn. 1977 as Bolan nyapwe Bukiyip , Tok Pisin , Inglis
+  title = {Bo ohopa'oo bo oraro 13  Readers 13  [collection of preschool stories reprinted from 1993 books] , 66 pp. each  150 each  ISBNs ISBN-998001959X , ISBN-9980019602
+  title  = {Braak mengaa 2  Primer 2  [trial] , 80 pp.  30 . Rev. 1980 , 43 pp.  100  ISBN-0726307254 [LAT]. 2nd edn. 1986 as Brak meng 2
+  title  = {Braak mengaa 3  Primer 3  , 45 pp.  100  ISBN-0726307416. 2nd edn
+  title  = {Braak mengaa 4  Primer 4  , 60 pp.  100  ISBN-0726307815 [LRF]. 2nd edn
+  title = {Brakmitin menga  Writing instruction book  , 56 pp.  25  Madang Filana , Maptis Guhyem , and Marshall LAWRENCE , trs. , 1983. Mong ma timbis hitipra ohe meng oh  Tr. from Graun bilong yu bai kamap sot by Nicky Cape  [crop management , Oksapmin and Papua New Guinea Pidgin diglot] , 47 pp.  500  ISBN-0726308544 [NFELT] ÖMIE  ÄOMIE , UPPER MANAGALASI  Randolph Upia and John AUSTING , 1984. Ömie jo suri gemoho  Primer 
+  title = {Buang primer 15 [trial] , 13 , 20 , 25 , 29 , 29 pp. Rev. and combined 1971 as Buang ayej  Buang primer  , 141 pp ,  500 . 2nd rev. 1972  400 . Rep. 1979  400  ISBN-0726306592
+  title = {Buki bwabwalena ana liwaliwan: Topankite wali buki 13  Teacher's books 13  [Bible stories] , rep. 48 pp. 48 pp. 56 pp.  200 , 300 , 300  ISBNs ISBN-9980007192 , ISBN-9980007206 , ISBN-9980007214
+  title = {Buki bwabwalena ana liwaliwan , topankite wali buki 4 [Bible stories , teacher's book 4] , 68 pp.  250  ISBN-9980005122
+  title  = {Buki lu'iawawa 'ana veluga  Prereader 2  , 99 pp.  500  ISBN-0726309184 [NFELT]. Rep
+  title  = {Buki lu'iawawa 'ana vetonu [primer] , 111 pp.  300  ISBN-09980000023. Rep
+  title  = {Buki lu'iawawa nagami  Prereader 1  , 106 pp.  500  ISBN-072630915X [NFELT]. Rep
+  title = {Buku i , God ol wai ol na tongwo maing bol engwi  Gospels , Acts of the Apostles , Romans  , WBT Aust. , 462 pp.  200  ISBN-0909569487 [St
+  title = { Calendar for year 2000  , 6 pp.  160  Kubai , Yann , trans. , 1994. Panoung tamoul dawaw panahay  The betelnut thief  [storybook] , 8 pp.  50  ISBN-998001304 Lupaik , Bidamor , 1992. Buor nalaluw tolyoum  The three little pigs  [storybook] , ed. by Douglas BENNETT , Kunumang Baran and Madi Seg
+  title  = {Čornejová , Michaela – Rychnovská , Lucie – Zemanová , Jana  eds. : Dějiny českého pravopisu  do r. 1902 . Brno: Host – Masarykova univerzita 2010. 480 s. ISBN-9788021055476
+  title = {Dari Gaziliholor modariz ñetiñinañ tepat 12  A book of stories , book 12  , 86 , 103 pp.  300  ISBN-0726305057
+  title  = {David Bellos: Is That a Fish in Your Ear? The Amazing Adventure of Translation. London: Penguin 2012. Ursprünglich Allen Lane 2011. ISBN-9780241954300 
+  title = {Deacon Andrew Uware ta oje kahari ke  Deacon Andrew's final sermon  , ed. by Bud LARSEN , 46 pp.  200  ISBN-0909569789 [LRF] David Ivahupa , 1979. Youth group programmes , ed. by Bud LARSEN , 28 pp.  200  ISBN-0726306542 [LRF] Joel Oreta , 1976. Joel ta hihi book  Legends  , ed. by Bud LARSEN , Lenard Murray Gagari , and Lot Vernon Sareki , 64 pp.  300  ISBN-0726306193 Redmond K. Paki , Paulinus J. Toari , Mark N. Taune , Simeon S. Ehuru , and Thomas Anitapa , 1977. Pure neite neite [appropriate technology book] , ed. by Bud LARSEN
+  title  = {Deerukoo nauantakoong pa'noko'keta nane' taanane'  Primer 6  , Arawa , NSP: Dept. of North Solomons Province , Division of Education , 23 pp. Mi. 2nd edn. 1987 , by Phyllis HURD and Conrad HURD , 48 pp.  400  ISBN-9980004452   [Meshach Tarurava , Gregory Osikore' , and Conrad HURD] , trs. , 1973. Ju'nupong urikumpong biikanaa aarumo ee'noka otooto'  How the Jews lived , vol. 1  , 83 pp.  400  ISBN-0726301884 [EZE] Michael Oingona and Conrad HURD , trs. , 1973. Nantoong buuku meekaakooning aarumo biikanaa ninka  How the Jews lived , vol. 2  , 92 pp.  400  ISBN-0726301922 [EZE] Paul Tanumpui , 1976. Aung minkunaananka paroro nkoaamana' ee'noko pava kaniaamana'  The way they prepare a feast , and The way they build houses  [Nasioi and English diglot] , ed. by Dawn GAMMON
+  title  = {Deerukoo nauantakoong pa'noko'keta nane'taanane'  Primer 6  , Arawa , NSP: Dept. of North Solomons Province , Division of Education , 48 pp.  400  ISBN-9980004452  . 2nd edn
+  title = {Deerukoo nauantakoong pa'noko'nane'  Primer 5  , Arawa , NSP: Dept. of North Solomons Province , Division of Education , 29 pp.  451  ISBN-9980003243  . 2nd edn. 1987
+  title = {Deerukoo nauantakoong pa'noko'nane' [primer 5] , rep. 31 pp.  2000  ISBN-9980023376 Various authors , 1986. Minkunaa po'nane'  The storybook  , trial edn 
+  title  = {Deutsches SprichwörterLexikon. [Ein Hausschatz für das deutsche Volk.] Hrsg. v. Karl Friedrich Wilhelm Wander. Leipzig: 1867–1880. Digitale Bibliothek , Bd. 62. CDROM. Berlin: Directmedia Publishing GmbH o.J. ISBN-3898531627. 99,90 Euro 
+  title  = {Dolník  , Juraj: SILA JAZYKA. Bratislava: Kalligram 2012. 368 s. ISBN9788081016578
+  title  = {E Fafua Nu Giniko: People of Papua New Guinea  Tr. from People of Papua and New Guinea , by David and Daphne Lithgow  [Barai and English diglot] , 84 pp.  100  ISBN-0726304107   William Suremo and Jackson Tinauri , trs. , 1976. Finokio  Tr. from Pinokio , by J. Parlier  [Barai and English diglot] , ed. by Mike OLSON
+  title  = {Encyclopedic Dictionary of Semiotics. Second Ed. revised and updated with a New Preface. General Editor: Thomas A. Sebeok. Editorial Board: Paul Bouissac , Umberto Eco , Jerzy Pelc , Roland Posner , Alain Rey , Ann Shukman. Berlin , New York: Mouton de Gruyter 1994  Approaches to Semiotics , 73 . Bd. 1: A–M; Bd. 2: N–Z; Bd. 3: Bibliography. 1179 + 19  Supplement Dictionary  + 448 + 47  Supplement Bibliography  pp.  ISBN-3110142295. 198 Euro 
+  title = {E nini reifone  If I were a bird  [prep reader] , 15 pp.  50  ISBN-9980014733 Mamana , Kone , 1995. Aþi ebu ire roga [elementary reader]
+  title = {Epinan 8  Reading readiness , book 8  , 36 pp.  250  ISBN-9980002816 [____] , n.d
+  title  = {Erich Mater: Rückläufiges Wörterbuch der deutschen Gegenwartssprache. Straelener Manuskripte. Vom Autor aktualisierte und wesentlich erweiterte Ausgabe auf CDROM. Straelen: Straelener ManuskriptVerlag 2001. ISBN-3891070470. 24,90 Euro 
+  title = {Fain tubuw miniy barnuw  The story of the old turtle  [storybook] , ed. by Douglas BENNETT and Yann Kubai , 18 pp.  50  ISBN-9880009373 [LAF] Belgam , Langis and Panmaal Kubai , 1992. Tubud miniid barnunang 2  Our ancestors stories 2  [storybook] , ed. by Yann Kubai
+  title  = {Fairclough , Isabela and Norman Fairclough  2012 . Political Discourse Analysis: A Methods for Advanced Students. London: Routledge.  ISBN-978–0415499231  pb  , pp. 266 , £ 22.99
+  title  = {Faiwol fut mit tabin buk [prereader] , 73 pp.  200  ISBN-0726306525 [AID]. Rep. 1980  200  [NFELT]. 2nd edn
+  title = {Faiwol kimin buk [primer] , 169 pp.  250  ISBN-0726307270 [LAT] 2nd edn. 1986 , rev. by Mila Ensep
+  title  = {Fas godin kukuw uta ko  How to write a letter , tr. from Pasin bilong salim pas , by Roy GwytherJones  , Port Moresby: The Department of Posts and Telegraphs , and SIL , 18 pp.  200  Mila Ensep and Frank MECKLENBURG , 1988. Tiksa Faiwol kimin buk 3 kukuyamin buk  Primer teacher's book 3  , 21 pp.  200  ISBN-9980854723 [AFANE] Sakiba Sanameng , tr. , 1975. Goleng kung ket mosa umi sung uta ko  Goleng buys a tin of meat  , ed. by Frank MECKLENBURG , 21 pp.  100  ISBN-0726304360. 2nd edn. 1987 rev. by T. Mila Ensep ,  300  ISBN-9980004363 [CIDA & AFANE] Suni Wakikiyok and Sakiba Sanameng , rev. by Mila Ensep , rep. 1987. Suni nalam kanamamsi sung  Autobiography of Suni Wakikiyok  , ed. by Frank MECKLENBURG , 45 pp.  500  ISBN-9980004339 [CIDA & AFANE] Woiyak Futudok , Fiomnak Itowolok , and Frank MECKLENBURG , 1973. Faiwol bakan awon umi mit uta ko  Birds in the Faiwol area  , 44 pp.  200  ISBN-0726301744 [EZE]. 2nd edn. 1987 rev. by Mila Ensep
+  title  = {Fifirifembo buki [primer] , 111 pp.  200  ISBN-0726302899  . 2nd edn. 1978  300  ISBN-0726305510 [AID]. Rev. 1984 , 1985 , 72 pp. Sani Amafin , tr. , 1977. Ngori nindi yafe hifi sihefi hifi kimi  Neighbouring countries , tr. from Sampela kantri klostu long yumi  [Anggor and Melanesian Pidgin diglot] , ed. by Waf Sihayao and Shirley LITTERAL
+  title  = {Findra , Ján: Jazyková komunikácia a kultúra vyjadrovania. Martin: Vydavateľstvo Osveta 2013. 240 s. ISBN-9788080633851
+  title = {Fut win asik atam godin [alphabet book] , 10 pp.  50  Mi.   Sanameg , Sakiba , trans. , 1975. Kina so toea so [Kina and Toea , trans from Kina na toea , Liklik buk bilong ol pipel bilong Papua New Guinea , by The Currency Working Group] , 8 pp.  150  ISBN-0726303410 Sangletal , Joe , 1986. Faiwol minig sug buk [storybook] , 5 pp.  25  Mi.   Timothy , Ernest , trans. , 1992. Got weng babid umi sung uta ko  The great commandment  [Bible story
+  title = {Gaalyabwine Gaasa'  The bridge of life  [Bible story] , 9 pp.  50  ISBN-9980008067 rep
+  title  = {Gahuku primer 1 , 16 pp. Rev. 1963 , 28 pp.  40 . Rep. 1963  300 . 2nd edn. 1970 , 30 pp.  300 . Rep. 1971  400 . Rep. 1972  500  ISBN-0909456410. 3rd edn. 1974. 4th edn
+  title = {Gahuku primer 2 , 20 pp. Rev. 1963 , 22 pp.  40 . Rep. 1963  300 . 2nd edn. 1971 , 26 pp.  400 . Rep. 1972  500  ISBN-0909456437. 3rd edn. 1974 as Gahukuq gakoq gelakakaq puku 2 , 32 pp.  825  ISBN-0726303054  . 4th edn
+  title  = {Gahuku primer 3 , 26 pp.  40 . Rep. 1963  300 . Rev. 1971 , 23 pp.  640 . Rep. 1972  500  ISBN-0909456445. 3rd edn. 1974 as Gahukuq gakoq gelekakaq puku 3
+  title = {Gahuku reader , 36 pp. Rev. 1963 as Gahuku reader 1 , 36 pp.  400 . 2nd edn. 1971  500  , 1972  500  ISBN-090945650X. Rep. 1972. 3rd edn. 1974 as Gahanamamuq gitene gakoq  Stories about animals  , 40 pp.  475  ISBN-0726303038  . 4th edn. 1974  300  ISBN-0726302546  . 4th edn
+  title  = {Gahuku writing book 1 , 33 pp.  305 . Rev. 1971  500 . Rep. 1972  500  ISBN-0909456461. 3rd edn
+  title = {Ga na ola ge Yeisu na toulil?  I want to follow Christ  [followup booklet] , 28 pp.  200 . Rep. 1989 , 32 pp.  1000  ISBN-9980025297 [Kenasi Napoleon and Pasin Absalom] , trs. , 1989. Mataiyo  Gospel of Matthew  , 132 pp.  1560  ISBN-9980631694 [BSPNG] MOUNTAIN KOIALI  MOUNTAIN KOIARI  [Ebe Bokoi] , ed. , 1979. Nogoli buka  Song book  , WBT Aust. , 102 pp  454  ISBN-0727222228 [LRF]. Rep
+  title  = {Genesis 110 , 20 pp.  50  [____] , tr. , 1974. Jenesis  Genesis abridgement  , 147 pp.  150  ISBN-0868930091 [SU & NYBSI] [____] , tr. , 1976. U Mak , u Jemis , na u hopis u Jon  Gospel of Mark , Epistles of James and John  , WBT Aust 
+  title  = {Genesisi  Genesis abridgement  , 110 pp.  200  [Mr. and Mrs. C. W. Clemens , Landsdale , PA , USA]. Rep. 1978  100  ISBN-0727222155 [LRF]. 3rd edn. 1987
+  title  = {Geramin!  Let's read  [primer] , 96 pp.  150 . 2nd edn. 1975  100 . Rep. 1975  300  ISBN-0726302481  . Rep
+  title  = {Gerhard Augst: Dialektwörterbuch der Verbandsgemeinde Altenkirchen. Wölmersen: Hrsg. vom Arbeitskreis für Heimatgeschichte und Brauchtumspflege e.V. 2003. XXV , 367 Seiten. ISBN-3923483376 
+  title  = {Gerzymisch , Heidrun  Hg.   2013 : Translation als Sinngebung. MitSprache: Translatorische Forschungsbeiträge. Münster: LIT Verlag , 232 S. , ISBN-9783643118646 , 29,90 Euro 
+  title  = {Gitene gakoq 2  Gahuku reader 2  , 22 pp.  300 . Rev. 1971  460 . Rep. 1972  500  ISBN-0909456496. 3rd edn. by Ellis DEIBLER and Katherine DEIBLER , 1974
+  title = {Godida kiki gitida  Genesis abridgement  , WBT Aust. , 80 pp.  150  ISBN-090956938X [Mrs. E
+  title  = {Golu kung miis paim erim  Golu buys a tin of meat  [diglot Ek Nii and English] , 22 pp.  200  ISBN-0726303275   Meiwu , Kondii , 1981. Ek po* esimb  Short stories  , 36 pp.  200  ISBN-0726307742 [LRF] Pok and Pamwu , 1981. Ek po* ok nge  Stories from before  [storybook]
+  title  = {Gona molokakaq puku  Arithmetic book , parts based on a Kanite arithmetic book , by Stephen and Joy Harris  , 66 pp.  700 . Rep. 1972  500  ISBN-0909456429. 2nd edn. 1974  500  ISBN-0909456429. 3rd edn. 1974  480  ISBN-0726303097  . 4th edn. 1979
+  title = {Gos kañjikíye wó bé Nu Testamen  New Testament  , WBT Aust. , xiv + 1,407 pp. + map  550  ISBN-0727222384 [Christian Enterprises Ltd. , Mr. and Mrs. S. Grauman , Perth Christian Centre , Revival Movement Association , Mr. R. Shadbolt , Mr. and Mrs. A. Smeds , & Rev
+  title = {Gotna nyégaba kwaakwa kudi kupuk  3 Scripture selections  , WBT Aust. , 106 pp.  100  ISBN-0909569568 [Highfield Road Baptist Church
+  title = {Grammar of YessanMayo , LDAPS 4 , iv + 302 pp. ISBN-0883122049. Also LDMAP 5
+  title  = {Grammatischkritisches Wörterbuch der Hochdeutschen Mundart , mit beständiger Vergleichung der übrigen Mundarten , besonders aber der Oberdeutschen , von Johann Christoph Adelung , Churfürst. Sächs. Hofrathe und OberBibliothekar. Zweyte verm. u. verb. Ausg. Leipzig: Johann Gottlob Immanuel Breitkopf 1793[–1801]. Digitale Bibliothek , Bd. 40. CDROM. Berlin: Directmedia Publishing GmbH 2001. ISBN-3898531406. 129,90 Euro 
+  title  = {Haag , Elke: Fachwörterbuch Buchhandel , Druck und Verlag. FranzösischDeutsch. HelmutBuskeVerlag , Hamburg 2010. 223 S. ISBN-9783875485455 
+  title = {Hn sisihoratnenýe tatp  Countries surrounding Papua New Guinea  , 36 pp.  1000  ISBN-0726308803 TOK PISIN Abare , Greg , Bansis Morris and Mary STRINGER , 1991. Kirapim save long rit  Beginning reading  [primer 3] , 19 pp.  60  Apipi , Jenny , 1991. Yumi go pilai  Let's play  [storybook] , 13 pp. Bunag , Alburt , trans , 1991. Strongpela pik
+  title = {Iduna buki abakivemahala inubana 14 [prereaders] , 24 pp. 24 pp. 24 pp. 48 pp.  400 each  ISBN-9980004819 , ISBN-9980004827 , ISBN-9980004835
+  title = {Iesu Keriso Engari Iji De  The Christmas Story  , 11 pp.  100  ISBN-9980010134 [BSPNG] Bogino , Augustine , 1994. Binandere ajigari da [storybook] , 16 pp.  120  Bogino , Clifford , 1998. Otara ae Babara de [storybook] , 12 pp. Guba , Stewart , Charles Omborabae , Clarkson Akoro , Morgan Ega and Maxwell Matabae , trans. , 1993. Mamai babaingae Iesu da iai guputera  Little children came to Jesus  [Bible story] , 7 pp.  100  Jiwaibae , Wilberforce and Clifford Bogino , trans. , 1993. Ma ain mi pasiri kununu besisini?  Who sank the boat?  [storybook]
+  title = {Iesusiva mwata mwaini nrohura  Gospel selections from the life of Christ  , WBT Aust. , 139 pp.  300  ISBN-0727222414 [Revival Movement Association of N
+  title = {Iken aman ninär 13  Read our language  [primers] , 29 , 32 , 33 pp.  200 ea.  ISBN-9980000481 , ISBN-9980000694
+  title = {Iken üamän ninär 13  Read our language  [primers 13] , rev. edn. , 32 pp. each  200 each  ISBNs ISBN-998000048 , ISBN-9980000694
+  title  = {Iko jinume ije  Genesis abridgement  , 207 pp.  100  ISBN-0909569223 [SU] [Simon Savaiko , Nixon Kajae , Crispine Burava , and Peter EVANS] , trs. , 1988. Iburu Garesiani 1 Timoti 2 Timoti  Hebrews , Galatians , 1,2 Timothy 
+  title = {Imet aora bo se bagiwik bo nunga dugu duap  The old lady and the spider  [storybook. Diglot in Waskia and English] , 36 pp.  200  ISBN-9980000783 Dangen , Kuwak , Giragir Uron and Saleng Singel , 1982. Dugu duap saki 3  Some stories book 3  [storybook] , 60 pp.  200  ISBN-0726308323 Tiromiri , Tangar and Saleng Singel , 1980. Dugu duap saki  Some stories  [storybook] , 60 pp.  200  ISBN-0726307440 Waskia Contributors , 1982. Dugu duap saki 4  Some stories 4  [storybook]
+  title  = {Inite' ato atoliti gulive'ine  Cultural names  , ed. by Gladys STRANGE , 20 pp.  600  ISBN-0726308846 [NFELT] Humi Ohio , 1983. Avotemote lili' ani' initeliti monovo [culture book] , ed. by David STRANGE and Gladys STRANGE
+  title = {Inoke avona 1&2 [primers 1&2] , 5th edn. , 36 pp. & 28 pp.  1000 each  ISBN-998001167X , ISBN-9980011726 Inoke Literacy Committee , nd. Ala afumo ke  The big pig  [storybook] , 16 pp. ISBN-9980011327 Inoke Prepschool Leaders , 1991. Yo'kalo ke 1  Storybook 1  , 28 pp.  600  ISBN-9980008091   ___ , 1991. Yo'kalo ke 2  Storybooks 2&3  , 23 pp. each  600 each  ISBNs ISBN-9980008164
+  title = {InokeYate avona 4  Primer 4  , 32 pp.  800  ISBN-0726308528 [NFELT]. 2nd edn. 1984  1500  ISBN-9980000368 [NFELT]. 3rd edn
+  title = {Iunöý öýöbin. Buk mutukýi SombaSiawari keu [primer part 1] , 55 pp.  500  ISBN-9980022817 Temba , Aron , trans. , 1994. Lama aka lama galömýi  Sheep and shepherd  [cultural study] , 18 pp.  50  Mi. Various authors , 1988
+  title = {Jairsusna reg [Bible story] , 22 pp.  50  Mi. Nafwey , Jacob , Jeffry Maiyan and Stanly Wasamiau , 1994. Wahig mo [storybook] , 19 pp.  100  Pomro , Bob , Dicksen , Eki Saiwe , James Wano , Samoni Nimai and Seth Kwaiki , 1994. Autunaimo 2 [storybook] , 14 pp.  150  ISBN-998001198X [NDOE] Saiwe , Eki , Haiwi Ifian , Helrick Lap , Jacob Nafwey and Jeffry Maiyan , 1994. Nufuna mo [storybook]
+  title = {Jekamba jikisihi kasir  The childrens' books  [primers 1&2] , 51 pp. each  250 each  ISBNs ISBN-9980022930 , ISBN-9980023252 IKÄHEIMONEN , Tarja , Hanna Marie HOEL and Michiyo NOZAWA , eds. , 1993
+  title  = {Jenesiis: Waarii 13: Garne nyaagiir kwiidiiya akwi mwiigu yetakediin  Genesis abridgement 13  , 11 pp.  50  [Gabriel Sisikila] , tr. , 1976. Maak kaavin kudi  Gospel of Mark  , ed. by [Phil STAALSEN] , WBT Aust. , 89 pp.  50  [NTF] [____] , tr. , 1978. Jenesis  Genesis abridgement  , ed. by [Phil STAALSEN] , WBT Aust. , 126 pp.  200  ISBN-0727222090 [NTF] [____] , tr. , 1978. Mak na Aposel  Gospel of Mark and Acts of the Apostles  , ed. by [Phil STAALSEN] , WBT Aust 
+  title = {Jer aparnam ninär [prereader] , 15 pp.  200  ISBN-9980004193   [____] , n.d. Iken aman ninär S.1  Supplementary reader 1  , 8 pp. Mi. Pasas Ursip and Enpaip Esumaip , 1985. Isan enim inok  Animal riddles  , 32 pp.  200  ISBN-9980000473 Putup Mokirip , 1984. Ai atap atap  Different types of birds  , ed
+  title  = {Jisaso téreré yárakimp kar  NRS 2  , ed. by Maramia Nkonifa , 32 pp.  250  ISBN-9980632887 [BSPNG] Waruwa Márákapeno and Ouwinu Maramia , 1986. Ant k<k<r kar  Bird folk tales: 6th reader  , ed. by Maramia Nkonifa , Mankas Ouwinu , and Dorothy PRICE , 28 pp.  260  ISBN-9980002840  . Rev
+  title  = {Jona  Jonah  , 18 pp.  400  ISBN-0868932434 [WHBL] [Nixon Kajae and Peter EVANS] , trs. , 1984. 1 Fita  1 Peter 
+  title  = {Jura wamp nga pek mormin mel  How the Jews lived  , 92 pp.  400  ISBN-998005130 [LRF] John Ruby and Dellene STUCKY , 1988. Ik timan kel  Short stories  , 47 pp.  300  ISBN-9980004754 Marjorie Merritts and Dellene STUCKY with Peter Poti , comps. , 1987. Mon kmp ring rorum buk 1  Number book  , 40 pp. [Western Highlands Province NonFormal Education] [Melpa Translation Association , Al STUCKY , and Dellene STUCKY] , trs. , 1988. Nim nga ik kai mbuk 1  NRS 1 
+  title  = {Jürgen Stähle  2009 : Vom Übersetzen zum Simultandolmetschen. Handwerk und Kunst des zweitältesten Gewerbes der Welt. Stuttgart: Franz Steiner Verlag. 413 S. , ISBN-9783515093606
+  title  = {Ju uwara emanu ueta  How the Jews Lived  , 81 pp. 2nd edn. 1973 , vol. 1 , 85 pp.  100  ISBN-0726301175; vol. 2
+  title = {Juw dayadiy sukw  How the Jews lived  [Manambu and English diglot] , 80 pp.  234 . Rep. 1982  100  ISBN-0726308382 [LRF] Ken Nayau , 1988
+  title = {Ka hapa'a 14  The root of speech  [primers] , 16 , 16 , 24 , 25 pp.  400 . Rep. 19712  1,400 . 4th edn. 1974 Ka hapa'a 13  Phonics 13  19 , 19 , 27 pp.  300  ISBN-0726302597 ISBN-0726302600
+  title  = {Kakanun ana buki 1  Prereader book 1  , 37 pp.  300  ISBN-072630879X [NFELT]. 2nd edn
+  title = {Kakanun ana buki 25 [prereaders 25] , rep. 44 pp. 48 pp. 48 pp. 46 pp.  250 each  ISBNs ISBN-9980008148 , ISBN-9980008156 , ISBN-9980007451
+  title  = {Kakanun ana buki 2  Prereader book 2  , 44 pp.  300  ISBN-0726309044 [NFELT]. 2nd edn
+  title = {Kakanun ana buki 4  Prereader  , 48 pp.  300  ISBN-072630901X [NFELT]. 2nd edn
+  title = {Kakanun ana buki 5  Prereader  , 46 pp.  300  ISBN-0726309001 [NFELT]. 2nd edn
+  title = {Kakanun ana buki 6  Prereader  , 52 pp.  300  ISBN-0726309028 [NFELT]. 2nd edn. 1986  300  52 pp
+  title = {Kaleiwag kweivaw  New Testament  , 655 pp.  600  ISBN-0647034603 [BSPNG]. Rev. 1984 , with [David Kuwabu and Madiu Tomim] , trs. ,  600 . Rep
+  title = {Kalikali awadi lalafana kahihidi  Bigmouthed frog  [prepschool storybook] , 14 pp.  400  ISBN-9980009764 Diweni , Raphael , 1993. Kaliva yana wowomumu  The embarassed man  [storyboook]
+  title = {KamanoKafe' Hampriho  Transfer Book: triglot KamanoKafe' , Tok Pisin and English  , 71 pp.  1000  ISBN-9980003103 , 2nd edn. [CIDA; Truthseekers Sunday School Class , First Baptist Church
+  title = {Kamukamu be oloto kahihidi  The chicken and the snake  [storybook] , comp. by Ramona LUCHT and Tessa WEST , 15 pp.  400  ISBN-9980009756 Sioni , Wilma , 1991. Vagita be kamukamu yadi naudadana  The wallaby and the chicken  [storybook] , comp. by Ramona LUCHT and Tessa WEST , 20 pp.  500  ISBN-9980008032 Yadi'udo , Emoni , 1991. Kaliva manukiki givegavegaledi  The man's struggle with a bat  [storybook] , comp. by Ramona LUCHT and Tessa WEST
+  title = {Kantri tosatni nengö kosutnine  Some countries near us , SombaSiawari dialect  [geography book] , 48 pp.  100  ISBN-9980004150   Kiling , Yaungbiang , Sikiang Bungawa , Kiu Kiling and Nemandong Kiling , 1989. Somba azi kösohotnini  The real story of the Somba people  [storybook] , 22 pp.  110  Mi.   Marögep , Simoll , trans. , 1990. Somba siawa yeinggo keu sundut  Stories with feeling  [storybook] , trial edn. , 28 pp.  50  Mi.3 [CID] Okýawioý , Batoý Koti and Hesawe Lolobioý , 1996. Siawari diwelopmengö mamýi Okýawioý Tiweyoý Romoke  Father of Mindik development  [biography] , Lae , PNG: Siawari Tokples Bod
+  title = {Kapiya Biyangai ngagoyeiktage wamenarik 12  Biangai language book 12  [primer] , 42 , 43 pp.  120   150  ISBN-0726304336
+  title = {Karaasa yeena rau kioo kuaivovee  New Testament  , WBT Aust. , 835 pp.  400  ISBN-0909569460 [KOCH]
+  title  = {Kelih , Emmerich  2012 : Die Silbe in den slawischen Sprachen. Von der Optimalitätstheorie zu einer funktionalen Interpretation. München , Berlin , Washington: Sagner  Specimina philologiae Slavicae , 168  ISBN-9783866882553 , 186 pp 
+  title = {Kille sue 1 and 2  Writing/workbook 12  48 , 40 pp.  300  ISBN-0726304484 ISBN-0726304506  . 2nd edn. 1978  200  ISBN-0726305499 ISBN-0726305502 [AID]. Rev. 1979 with Gay BROWN  Sirikei  , 56 , 52 pp.  200  ISBN-0726306371
+  title  = {Kimomo  Let us read  [primer] , 160 pp.  200  ISBN-0726306355 [AID] Rep
+  title = {Kinda tapanna ýana maro kawa ýgua  We learn about God's talk  [Bible storybooks grades 12 , 35 , 68] , 80 pp. each  210 each  ISBN-9980016264 , ISBN-9980016280
+  title = {Kisim save long ritim kwom tumaa  Tok Pisin and YessanMayo , adapted from Kisim save long tok Buang , by Joyce and Bruce Hooley , and Pisini me sukuru sawi popasane oyapo , by Eunice Loeweke and Jean May  [transfer primer] , ed. by Marten Saun , 190 pp.  350  ISBN-0726306657 [AID] Henry Aplas , Jerry Kupolom , Paul Basinge , Thomas Kelpet , and Jack Meki , 1989. Kwom tumaa laate sigelow [trial transfer primer] , ed
+  title  = {Kisim save long tok Muhiang  Transfer primer , adapted from Kisim save long tok Ngepma Kwundi , by Phil and Lori Staalsen  [Muhiang and Melanesian Pidgin diglot] , 72 pp.  200  ISBN-0726305286 [AID]. Rev. 1987  150  ISBN-9980004118   Joshua Lukas , tr. , 1986. Waf esis Judai  How the Jews lived 
+  title  = {Kisim save long tok Ngepma Kwundi  Adapted from Kisim save long tok Buang , by Joyce and Bruce Hooley  [transition primer , Ngepma Kwundi  Iatmul  and Melanesian Pidgin diglot] , 40 pp.  400  ISBN-0726303909  . Rep
+  title  = {Köhler , Reinhard  2012 : Quantitative Syntax Analysis. Berlin , New York: De Gruyter Mouton  Quantitative Linguistics , 65  ISBN-9783110272192 , X+224 pp 
+  title = {Komogu 15 [trial primers] , 18 , 26 , 30 , 33 , 38 pp.  145 . Rev. 1973 with Tela Noibano Loba as Lúfúwá kenúmó búku 14 , 35 , 39 , 39 , 31 pp.  200  ISBN-0726301655 ISBN-0726301787 ISBN-0726301841 ISBN-072630185X [EZE]. 2nd edn. 1975 with Denise Potts , 160 pp.  500  ISBN-0726303836  . 4th edn. 1979 , 160 pp. ISBN-0726306916
+  title = {Kóséna  Primers 15 rev. and combined  , 136 pp.  200  ISBN-0909456879. 3rd edn. 1974 as Enááivinkenaaimba kwáyái  Primer 1 & 2  103 , 90 pp.  200  ISBN-0726302082
+  title = {Krasima tro'ma nehia näneke  The story of glass  , 47 pp.  300  ISBN-0726300969 Tine'me , Serave , trans. , 1972. Karemofo nänekea hamprita äntähiho  Learn all about cars  , 24 pp.  300 . 2nd edn. , 1973  500  ISBN-0726301124 Varora , Hama'na , 1975. Hama'na'na kre'noa nänekee  Autobiography of Hama'na  , 43 pp.  400  ISBN-0726303585 Yabuoh , Khaiyu Wendto , Menden Serave and Zureo Y. Mavino , trans. , 1986. Kamofo Käva hu'yane  Road code  [motor traffic handbook]
+  title = {Kristen familigo kolesaga po [family life] 74 pp.  220  ISBN-998000374X [Grace Baptist Church
+  title  = {Krysztofiak , Maria  2013 : Einführung in die Übersetzungskultur. Frankfurt a. M.: Peter Lang , 208 S. , 47 , 95 Euro ,  ISBN-9783631638231
+  title = {Kua Kaanaa [primers 2 , 3 , 4] , 3rd ed. , 36 pp. each  200 each  ISBN-9980010649 , ISBN-9980010657
+  title = {Kuirang bo kon mugari aguwam  A little boy planted corn seed  , 27 pp.  200  ISBN-0726308226 Belong , Mulas , 1982. Bea ilagala suwan nunga dugu duap  The three bears  [storybook. Diglot in Waskia and English]
+  title = {Kukada'ni 3  Reading readiness book 3  , 3rd edn. , 64 pp.  500  ISBN-9980001534 Various authors , 1985. Yándá
+  title  = {Kumwi kánanke ounounkoup mwanomp  Prereader  , 23 pp.  260  ISBN-89980002867  . Rep
+  title = {Kumwi nkea farák'ap mwanomp. Buk kánanke namba 1 &2 [primer readers 1&2] , 16 pp. 19 pp.  251 , 200  ISBNs ISBN-9980002808 , ISBN-9980002780 [___] , 1988. Kumwi nkea farák'ap mwanomp. Buk kánanke namba 3 [primer reader 3]
+  title = {Kumwi nkea mér mwanomp buk 14  Primers 14  , 43 , 31 , 27 , 25 pp.  200   200   260   260  ISBN-9980002905 , ISBN-9980002883 , ISBN-9980002891 , ISBN-9980002913  . Rev. 1988  300 ea.  ISBN-9980004584 , ISBN-9980004657 , ISBN-9980004649
+  title  = {Labe prep school workbook: term 4 , 24 pp.  200  ISBN-9980006587 [BFDW] Neiyamani , Christopher , 1991. Inapa a latagei naka... When I grow up...  [prepschool story book] , 9 pp.  89  ISBN-9980007664 [BFDW] Wallace , Doreka , 1991. Hinau a luhogaleya  I love my mother  [prepschool story book]
+  title = {La Bilalaha: La igogolu tegiteu la bilalaha te Iesus Kraist  Acts of the Apostles  , WBT Aust. , 151 pp.  500  ISBN-0727222406 [Mrs. Phyllis Sparks of Sydney , Aust
+  title = {Langinka 1  Primer 1  , ed. by [Steve SIMPSON] , 58 pp.  500  ISBN-9980005432 [National Department of Education and Division of Education , Department of East New Britain] Joseph Taupki , Joel Karekses , and Benson Ganingka , trs. , 1978. Ama Judakana ara tekmerirang  How the Jews Lived , tr. from Pasin bilong ol Juda , tr. by John Sievert and Ray Brown  [Qaqet and Pidgin diglot] , ed. by J. PARKER , 85 pp. + 2 maps  120  ISBN-0726305219 Sevarin Tiqa , Al Kaltaumen , and D. PARKER , 1983. Langinka 12  Primer 12  , 41 , 31 pp.  100 ea.  ISBN-0726308684
+  title  = {Larisa Cercel  2013 : Übersetzungshermeneutik. Historische und systematische Grundlegung. Hermeneutik und Kreativität 1. St. Ingbert: Röhrig. 405 Seiten , ISBN-9783861105169 , 56.00 Euro
+  title = {Lau e pala nga kalaunge goeme ta kelang  Preparation for reading , books 38  [reading readiness books] , rev. edns. , 20 pp. each  500 each  ISBN-9980010207 , ISBN-9980010150 , ISBN-9980010169 , ISBN-9980010177 , ISBN-9980010193
+  title = {Leka sobo 12  You count/read  [trial supplementary reading book] , 8 pp. ea.  30 . Rev. 1967 as Leka sobo 14  Reader 14  17 , 17 , 17 , 31 pp.  400 . Rep. 1971 , 1972  1,400 . 4th edn. 1974 as Leka Sobo 13  Reader 13  19 pp. ea.  300  ISBN-0726302465 ISBN-0726302570 ISBN-0726302589  . Rep. 1976 as Leka sobo 12  You count/read  19 pp.  500  ISBN-0726305901
+  title  = {Lexicography and Natural Language Processing. A Festschrift in Honour of B. T. S. Atkins. Edited by MarieHélène Corréard. Euralex  http://www.euralex.org/  , August 2002.  24 × 17 cm , viii + 248 pp. , ISBN-2951858302 , € 30 
+  title  = {Lexikon der antiken Gestalten in den deutschen Texten des Mittelalters. Hrsg. v. Manfred Kern u. Alfred Ebenbauer unter Mitwirkung v. Silvia KrämerSeifert. Berlin , New York: Walter de Gruyter 2003. XCI + 722 Seiten. ISBN-3110162571. 158 Euro 
+  title  = {Lexikon der Sprachwissenschaft. Hrsg. v. Hadumod Bußmann. Dritte , aktualisierte und erweiterte Aufl. Stuttgart: Alfred Kröner Verlag 2002. 783 Seiten.  ISBN-3520452030. 29 Euro 
+  title  = {Lexikon Literatur des Mittelalters. Stuttgart , Weimar: Verlag J. B. Metzler 2002. Bd. 1: Themen und Gattungen; Bd. 2: Autoren und Werke. 530 + 467 Seiten.  ISBN-3476019152. 64,90 Euro 
+  title  = {Lilivaai hi galigali  They laughed till their sides ached  [prep school storybook] , comp. by Yasuko NAGAI , 8 pp.  134  ISBN-9980006641 [Division of Education , Milne Bay Province] Belito , Fred , 1991. Magisubu oinana waaewaae  Eagle and crow  [prep school storybook] , comp. by Yasuko NAGAI
+  title  = {Liqmusiqmini Gakoq  Gahuku reader 4 , adapted from This world of ours , A Little Golden Book , by Jane Werner Watson , NY: Simon & Schuster  [Gahuku and English diglot] , 26 pp.  300 . Rep. 1971  560 . Rep. 1972  500  ISBN-090945647X. 2nd edn
+  title = {Lira mesor yor mey , buk 2 [Workbook 2 for prepschool term 2] , 43 pp.  200  ISBN-998000570X [The Kandelaar congregation in Rotterdam , The Netherlands , & FEFC] 3rd edn. 1993. 40 pp
+  title  = {[Literacy series 15 , comprising reading and writing leaflets , word and syllable cards] ,  100  [MM]. 2nd edn. with Margaret Koesana and Maurice Koesana , 1975 as Halia primer 14 , 71 , 73 , 71 , 70 pp.  500  ISBN-0726304069 ISBN-0726304077 ISBN-0726304085 ISBN-0726304093  . Book 1 rev. 1982 by John Girana , Thomas Lahis , and Jan ALLEN ,  1000 . Books 23 rev. 1983 by John Girana and Jan ALLEN ,  1000 ea. . Book 4 3rd edn. 1986 by Margaret Koesana , Maurice Koesana , Jan ALLEN , Jerry ALLEN , Anna Harepa , and Zita Matou
+  title = {Liwan ana buki 1&2  Story books 1&2  , reps. , 56 pp. 64 pp.  300 each  ISBN-9980007427
+  title  = {LLuku: Temane peagamo Lukuni topa boku torumubokumu  Gospel of Luke  , 259 pp.  300  ISBN-0727222325 [WBT Aust.]. 2nd edn. 1986
+  title = {Ludi Liwanina  The story of Ruth  [storybook] , 24 pp. ,  1000  ISBN-9980016027 Misima Language Committee , 1992
+  title = {Lúfúwá katenúmó búku 1 [supplementary reading book] , ed. by Tela Noibano Loba , 32 pp.  300  ISBN-0726306894 [AID]
+  title  = {Lúfúwá kenúmó kómu búku  Prereader  , 43 pp.  200  ISBN-0726301833 [EZE]. 2nd edn. 1975
+  title = {Luk agai asiani buku si  Gospel of Luke and Acts  , 352 pp.  100  ISBN-0727222457 [Mr. and Mrs. Edward Duff
+  title = {Maiwala prep school workbook: term 14 , 24 pp. each  200 each  ISBNs ISBN-9980006005 , ISBN-9980006161 , ISBN-9980006579 , ISBN-9980006595 [BFDW] Neiyamani , Christopher , 1991. Hinapa a laataghei yana... When I grow up...  [prep school storybook] , comp. by Yasuko NAGAI , 9 pp.  89  ISBN-9980007575 [BFDW] Wallace , Doreka , 1991. Ampainapole  Pineapple  [prep school storybook] , comp. by Yasuko NAGAI , 9 pp.  134  ISBN-998000665X [Division of Education , Milne Bay Province] ___ , 1991. Hinau a luhoghalei  I love my mother  [prep school storybook] , comp. by Yasuko NAGAI
+  title = {Mak  Gospel of Mark  , 102 pp.  1,200  ISBN-0868930601 [WHBL] [Joshua Lukas and James Akue] , trs. , 1981. 1 , 2 Timoti  1 , 2 Timothy  [trial] , ed. by [John Alungum]
+  title  = {Maki  Gospel of Mark  , 83 pp. ,  2,000  ISBN-0647008319 [BSPNG]. 2nd edn. 1984 , with [Noel Baloiloi , Bernard Yareki , Henry Lekesi , and Russel Anderson] , trs 
+  title  = {Mak: Make Yesus Klaiste dowan weengo dolanebio be  Gospel of Mark  , WBT Aust. , 85 pp.  50  ISBN-0909569363 [____  , ____  , ____ , and Awaseb] , trs. , 1974. Genesis  Genesis abridgement 
+  title = {Malika  Gospel of Mark  , WBT Aust. , 126 pp.  250  ISBN-090956969X [The Members of St. John's Church , Mt
+  title  = {Mana ti pahakmaruare poku  This is talk that teaches  [primer] , 68 pp.  100  ISBN-072630218X [EZE]. 2nd edn. 1974 , 88 pp.  200  ISBN-0726302759  . 4th edn. 1978 with Gay Brown  Sirikei 
+  title  = {Mana ti suek poku [preprimer] , 30 pp.  100  ISBN-0726302074 [EZE]. Rep. 1974  100 . 2nd edn. 1975 , 35 pp.  200  ISBN-0726302996   John Yama , 1975. Wullere hwafu [cultural reader] , ed. by Allen FREUDENBURG  Wankiwen  , 55 pp.  300  ISBN-0726303623 [NCC]. 2nd edn. 1978 Johnny Katimo and Allen FREUDENBURG  Wankiwen  , 1974. Rik nunkullik  Phrases and vocabulary in Boiken  Yangoru dialect  , Melanesian Pidgin and English , adapted from Biangairaga meiyalogo Pisintaga meiyalogo Englishra mei , by Y. Mandani Koni , Ray and Marjorie Dubert  , 44 pp.  300  ISBN-0726302767  . 2nd edn. 1975  200  ISBN-0726303178  . 3rd edn. 1978  200  ISBN-0726305480   Simon Wurasause and Luke Wafihuampu , trs. , 1979. Pinokio  Tr. from Pinokio , by J. Parlier  , ed. by Allen FREUDENBURG , 29 pp.  200  ISBN-0726306320 Vanau Yesimpa and David Waine , trs. , 1978. Wunere si yehehe na?  Adapted from Wanem nem bilong mi? , by Akera Tua , ed. by Larry Cates  [riddles] , ed. by Allen FREUDENBURG  Wankiwen  and Gay BROWN  Sirikei 
+  title  = {Marko: La valolo ale taritigi ale Marko kekesia  Gospel of Mark  , 134 pp. WBT Aust. ,  250  ISBN-090956941X. 2nd edn
+  title  = {Martin Müller: Goethes merkwürdige Wörter. Ein Lexikon. Darmstadt: Wissenschaftliche Buchgesellschaft , 1999. VII , 216 Seiten. ISBN-3534142462 
+  title  = {Matakeke luwaga Yesu i widewadewahi  Two blind men  [Bible story] , 8 pp.  75  Harry , Vineka , 1991. Awai e dewadewaya?  What is she doing?  [prepschool story book] , 6 pp.  89  ISBN-9980007680 [BFDW] Ige , Sheena , 1991. Iyo! U walo!  You are caught!  [prepschool story book] , 11 pp.  134  ISBN-9980006684 [Division of Education , Milne Bay Province] John , Julie , 1991. Golumouya ma wadala  Egret and turtle  [prepschool story book]
+  title = {Matiaq gamani hozamuq gakoq limoq  Tr. from Matias talks about government , by Rosemary Hoffmann  , Port Moresby: The Political Education Committee , Department of the Administrator , 24 pp.  2,000  ISBN-0909456232 [____] , n.d. Gihila ale utoq okakaq puku  Correspondence course answer book  , 33 pp. [____] , n.d
+  title = {Matiasi kamani näneke hu'nea  Tr. from Matias talks about government , by Rosemary Hoffmann  , 22 pp.  400  ISBN-0726300217
+  title  = {Matyu: Yopinyi balan Matyu nenyemo úli  Gospel of Matthew  , 316 pp.  200  ISBN-0868931012 [WHBL] [Junny Juagu] , tr. , 1987. I , II , and III John  Epistles of John  [trial]
+  title = {Ma vétake ritngunék  Look and read  [alphabet book] , 27 pp.  200  ISBN-9980016965 Langu
+  title = {Melodic perception and analysis: A manual on ethnic melody , x + 132 pp. ISBN-0726302392. 2nd edn. 1974. Reviewed by Anthony McCardell , 1973 , The Australian Journal of Music Education 13:5152 and by Marcia Herndon , 1974
+  title = {Menapanez tep mamogat [teacher's prewriting manual] , 16 pp.  40  ISBN-9980009780 Rauke , Hataia , Elaine GEARY and Lynn WOOD , trans. , 1993. Añ nap pim monis bar batah ñetio  The lost coin  [Bible story]
+  title = {More on the deep and surface grammar of interclausal relations , LDAPS No. 1 , 59 pp. ISBN-0883122014. Also LDMAP 1
+  title  = {Muramura no abevo  Village health manual , tr. from Training manual for home medicine and village health aides , by Public Health Department  , 32 pp.  100  ISBN-072630459X [LRF] Lila Koki and Beverley EVANS , 1981. Barabuo vua  Women's talk  [health book , BaraiIsama and English diglot]
+  title = {Music for the Eastern Highlands: A written theory for an oral tradition , 51 pp. ISBN-0726306975. 2nd edn. 1983
+  title  = {Mwata hi pwawa  They met a snake  [fluency reader] , 20 pp.  500  ISBN-9980005033   W. Alfred Sabbath and Sandra CALLISTER , 1983. Aeiou ana buki  ABC book  , 47 pp.  250  ISBN-0726308536 [NFELT]. Rev
+  title = {Na äpu mo  You learn to read  [prereader] , rep. 32 pp.  200  ISBN-9980000465   Girawa Prep Skul Teachers , 1997. Inon usus ous kourwon?  Who sank the boat?  [storybook]
+  title  = {Nagami  Genesis abridgement  , 123 pp.  200  ISBN-0909569398 [The Glenelg Church of Christ , S. Aust.]. Rev. 1989
+  title  = {Nama a elekaka buku  Phrases in Yaweyuha and Melanesian Pidgin  , 40 pp.  200  ISBN-0726302872 ,   Phillip Wanopa , tr. , 1974. Juda wewenasida mona wanipo  How the Jews lived , tr. from Pasin bilong ol Juda  [Yaweyuha and Pidgin diglot] , ed. by Ellis W. DEIBLER , Jr 
+  title  = {Nama gakoq gelekakaq puku  Phrases in Gahuku and Melanesian Pidgin  , 40 pp.  700 . Rep. 1972  500  ISBN-0909456526. 2nd edn
+  title  = {Nan oÔar wa'a mararaÔ  How houses began  [Atzera and Melanesian Pidgin diglot] , 10 pp.  2,000  E. Timmy Umpia' , Paul Oguts , and Ijab Arisuwan , trs. , 1972. Bidzian jo moni da irim moni ibianuÔ'  Tr. from How Bidzian gets money and spends money , by Larry Cates and Roy GwytherJones  , 36 pp.  300  ISBN-0726300039 Holzknecht , H. K. , Dorothy PRICE , and Ann Roke  CATES  , trs. , 1970. Kar da wilwil da balus da madzuÔ iwa' ibianuÔ'  Tr. from The story of transport , by Lorna Luff and Jean Goddard  , 52 pp.  300 . Rep. 1971  50  Ijab and Paul Oguts , trs. , 1973. Draiba kar ibianuÔ'  How to drive a car , adapted from Pasin bilong lukautim ka na draiv gut , by Walter and Ruth Sim  [Atzera and Melanesian Pidgin diglot] , ed. by Ann CATES
+  title = {Napa hapa'a 12  About numbers  [arithmetic book] , 81 , 59 pp.  700 . Rep. 1972  500  ISBN-0909456771
+  title  = {Napa ke afeo  Let's learn numbers  [arithmetic book] , 82 pp.  700  ISBN-0726308390 [NFELT]. Rep. 1985  1200  ISBN-9980000716 [NFELT] Keve Verefu , tr. , 1988. Lukautim kopi: Kopi kava ho: Book 2  Looking after coffee  [trial] , ed. by Joy McCARTHY , Coffee Development Agency , P.O. Box 958 , Goroka , PNG , 55 pp.  300  ISBN-998000472X [CIDA and the Coffee Development Agency] McCARTHY , Joy , and Nessy Mativa'ae , trs. , 1983. Yuta vaya'moki nehaya kavana afeo  How the Jews lived 
+  title  = {Napa kie haviho  Let's learn numbers  [arithmetic book] , 78 pp.  700 . 2nd edn. 1982 , 82 pp.  500  ISBN-0726308366 [NFELT] McCARTHY , Joy , Gwen GIBSON , and Toni Tofunama , trs. , 1970. Yui vaya'mo'ya nehaya kavana haviho  How the Jews lived  [Kanite and Melanesian Pidgin diglot] , 80 pp.  300  Tavamane Tofunama , 1974. Kanite vaya'mo'a nehaya kava'mo kaiye'ke  Kanite culture book  , ed. by Gwen GIBSON and Joy McCARTHY
+  title  = {Na xipang taxa paroxan nano  The 'bushman' is spying on you  , ed. by Perry SCHLIE and Ginny SCHLIE , 16 pp.  140  ISBN-9980005106 [PnG Enterprises , Kara Literacy Project] KARKARYURI Aepok Yokopea , Márákapeno Waruwa , Mankas Ouwinu , and Dorothy PRICE , comps. , 1985. We bilong rit long tok Karkar [transfer primer] , 20 pp. Mankas Ouwinu and Dorothy PRICE , eds. , 1986. Firaomp kar  Animal stories: 5th reader  , 26 pp.  260  ISBN-9980002859  . Rev
+  title  = {Nemo uline ekahi minoe  Riddles about fauna  , ed. by Ellis W. DEIBLER , Jr. , 32 pp.  200  ISBN-0726302856   ____ tr. , 1974. Ona molokaka buku  Maths book  , ed. by Ellis W. DEIBLER , Jr 
+  title = {NeoTagmemics: An integrated approach to linguistic analysis and description , ed. by Alan Healey and Doreen Marks , x + 278 pp. ISBN-0726300853. Reviewed by William A. Smalley , 1975 , TBT 26 1 :162 , and by Volker Heeschen , 1976
+  title = {Ngönën pepewer  New Testament  , 1096 pp. + 3 maps  850  ISBN-0868931403 [The Anglican Churches of St
+  title = {Nkotne niÔe [riddles] , 20 pp.  1,000  ISBN-072630882X [Qaferic Foicnu and Mick FOSTER] , trs. , 1988. Yura yengt agakmeme  How the Jews lived  , 175 pp.  600  ISBN-9980004797 [J. W. Laing Trust] TOK PISIN  MELANESIAN PIDGIN , NEOMELANESIAN , NEW GUINEA PIDGIN , PAPUA NEW GUINEA PIDGIN  Akera Tua and Ann CATES , 1973. Sampela lain pipel bilong Papua Nu Gini  Some people of Papua New Guinea 
+  title = {Non gagap pae 1,2,3  I'm going home , books 13  [readers] , ed. by Alan BROWN , 10 pp. 10 pp. 5 pp.  100 each  ISBN-9980021551 , ISBN-998002156X
+  title  = {Noorengo mandenani gumi 10  Our own stories , book 10  , 11 pp.  500  ISBN-9980007125   Standard class 6 of 1977 , 1978. Rawa oo neweroyi oowooyi  Names of food  [post primer book] , 40 pp.  200  ISBN-0726305529 Teri , Linda and Nanengge Kawo , 1991. Noorengo mandenani gumi 5  Our own stories , book 5 
+  title = {Noorengo mandenani gumi 1,8&12  Our own stories , books 1,8&12  , trans. by Luk Devi , 18 pp. 27 pp. 23 pp.  500 each  ISBNs ISBN-9980006935 , ISBN-998007109
+  title = {Noorengo mandenani gumi 4  Our own stories , book 4  , 11 pp.  500  ISBN-9980007052   Yunu
+  title  = {Noorengo Mandenani gumi 7  Our own stories , book 7  , 14 pp.  500  ISBN-9980007095  Komoka , Muri , Megu Nusisi , Sosore Pokoye and Yunu Siwi , 1991. Noorengo mandenani gumi 3  Our own stories , book 3 
+  title = {Nuwanuwatu eton  The three wishes , trans. from Our English series for Melanesia  , rep. 16 pp.  278  ISBN-9980582537 Napoleon , Kenasi , trans. , 1991. Bwasumu ona liwaniliya: Buki 1  Aesop's fables book 1  [post primer]
+  title  = {Oima ma pupula  Ant and crab  [prepschool story book] , 6 pp.  134  ISBN-9980006625 [Division of Education , Milne Bay Province] Kiebu , Ronah , 1991. Ginouli wakewakekena a uni  I caught something white  [prepschool story book]
+  title  = {Omdulubi  Bell shaped fruit  [prepschool story book] , 9 pp  134  ISBN-9980006358 [Division of Education , Milne Bay Province] Dileina , Jacob , 1991. Amau a luhogaleya  I love my father  [prepschool story book]
+  title  = {Ömie jö suri nio'ioho  Ömie language , book 2  , ed. by Jim ELIASON 84 pp.  265  ISBN-9980003383   , Selby Otire and John AUSTING , trs. , 1986. Jew rajehu diehi mu vaenövare jö hesi suri nio'i  How the Jews lived , vol. 2  , ed. by Randolph Upia and Jim ELIASON
+  title  = {Orokaiva ta ke etekari book  Orokaiva primer  , 56 pp.  25  ISBN-0726305103 [AID]. 2nd edn. 1977  850 . 3rd edn. 1980 Lenard Murray Gagari , 1976. Agenaembo ta hihi book  English fairy tales retold in Orokaiva  [Orokaiva and English diglot] , ed. by Bud LARSEN , 25 pp.  300  ISBN-0726306185 Lot Vernon Sareki and Lenard Murray Gagari , 1981. Di ta hihi book  Bird stories , tr. into English by James Jeva , Milton Ogove , and Drucilla Pamudi , ed. by Peter WILLISON  [Orokaiva and English diglot] , ed. by Bud LARSEN , 54 pp.  500  ISBN-0726307521 [LAT]. Rev. edn. [Lot Vernon Sareki , Lenard Murray Gagari , and Robert LARSEN] , trs. , 1974. Judea embomeni ta ari  How the Jews lived  [Orokaiva and English diglot]
+  title = {Panuwaa  At home , tr. from Our English series for Melanesia  32 pp.  200  ISBN-9980582553 [PNG: Department of Education] Ginisi Alek , 1989. Moti liwaniliya  Stories about fish  [extension reader] , 16 pp.  500  ISBN-9980004991   Kenasi Napoleon , tr. , 1985. Nita anan waiwaisana i pek natuna elana [health booklet by Mary Byfield] , 15 pp.  350 
+  title = {Pepi bólo 14  Writing books  , 36 , 40 , 36 , 36 pp.  100  ISBN-0726302228 ISBN-0726302236 ISBN-0726302244
+  title  = {Pierangela Diadori  2012 : Verso la consapevolezza traduttiva , Guerra , Perugia , ISBN-9788855704557 , 18,50 € 
+  title = {Pinokio: Buka ikaho sesamapuna: 'Enaka 'ivo vu 'a nimai pana  A Managalasi fairytale book , adapted from Pinocchio , by C. Collodi  , 35 pp.  250  [____] , 1976. Managalasi 17 [teacher's guide] , 10 , 10 , 9 , 8 , 7 , 10 , 10 pp.  35 ea.  ISBN-0726304727 ISBN-0726304735 ISBN-0726304743 ISBN-0726304751 ISBN-072630476? ISBN-0726304778
+  title = {Pinokio  Pinnochio  [storybook] , 31 pp.  500  ISBN-0726308064 Jovereka , Alfred and Michael George , 1983. I te esi te amita hihi book  Trees and vines book  [diglot in Orokaiva and English] , ed. by Bud LARSEN , 369 pp.  300  ISBN-0726308889   Oreta , Joel , 1990. Joel ta hihi book [legend book] , ed. by Bud LARSEN , Lenard Murray Gagari and Lot Vernon Sareki
+  title = {Pipaa tape buku 13  Workbook 13  , 52 , 40 , 28 pp.  200  ISBN-0726301574 ISBN-0726301590
+  title  = {Pisini ke afeo  Learn Pidgin  [InokePidgin phrase booklet] , 38 pp.  1000  ISBN-0726308757. Rep
+  title = {Pisini kie havio  Learn Pidgin  , [Kanite and Pidgin phrase book] , 36 pp.  500 . 2nd edn. 1972  500  ISBN-0726300454. Rep
+  title = {Pitaq goniguq iza makoq meina hizimoq  Tr. from Pita buys a tin of meat , by Roy GwytherJones  , 22 pp.  700 . Rep. 1972  500  ISBN-0909456534. Rep
+  title  = {PoliyaÔ Tesalonien am ekÔengat papia ÔeÔaÔ kuye , PoliyaÔ Pilimongat papia kumsaye  1 Thessalonians , Philemon  , 25 pp.  100  ISBN-0868930547. 2nd edn
+  title = {Rabu'a ruhaunu  The moving log  [reader] , 25 pp.  50  ISBN-9980014172 Obotu , Mareva , trans. , 1996. E aba vi'a reifone  If I were a mother pig  [prep reader]
+  title = {Rarega kikak kainaa repiridak buku  Phrases in Gimi , Melanesian Pidgin and English  , 67 pp.  200  ISBN-0726302384   White , John , Sam McBRIDE , and Nancy McBRIDE , trs. , 1973. Pita miti aepuhime meiba monog kaina  Tr. from Pita buys a tin of meat , by Roy GwytherJones 
+  title  = {Rek haokaz tepat 15  Primer 15  49 , 38 , 42 , 38 , 36 pp.  100 . Rev. 1971 [with Mary Jones and Tegei Rengko] , 50 , 38 , 42 , 38 , 38 pp.  200 . 3rd edn. 1975 with Ririgao Ravei  Primer 12  , 44 , 43 pp.  200  ISBN-0726303380 ISBN-0726303364  . Rev. 1975 with Ririgao Ravei ,  Primer 3  64 pp.  200  ISBN-0726304565  . 4th edn. 1977  Primer 34  64 , 66 pp.  100   300  ISBN-0726304980 ISBN-0726304999 [AID]. 3rd edn. 1977  Primer 5  60 pp
+  title = {Rekö haokaz tepat 4  Primer 4  , rep. 66 pp.  200  ISBN-0726304999
+  title = {Rekö haokaz tepat 5 Pprimer 5  , rep. 60 pp.  200  ISBN-0726305359. rep. 1994 Gariai , Balai and Hataia Rauke , trans. , 1993. Gilaipotiaipuz ñetio  Little caterpillar  [storybook]
+  title  = {Review of »Geoffrey Sampson: Voices from Early China: The Odes Demystified. 445 pp. Newcastle upon Tyne: Cambridge Scholars' Press , 2020. £67.99. ISBN-9781527552128.«
+  title  = {Review of Zikmundová , Veronika. 2013. Spoken Sibe. Morphology of the inflected parts of speech. Karolinum Press: Prague. 231 pp. ISBN-9788024621036
+  title  = {Rosenberger , S. and B. Sauer  eds.   2012 . Politics , Religion and Gender Framing and Regulating the Veil. London: Routledge.  ISBN-978–0415561488  hb  , pp. 264 , £85.00
+  title  = {Rut , Esta be Iona  Ruth , Esther , Jonah  , 47 pp.  250  ISBN-0868931640 [WHBL] [____] , tr. , 1985. Zenesis  Genesis  , 158 pp.  200  ISBN-0868931659 [WHBL] [____] , tr. , 1988. Metiu  Gospel of Matthew 
+  title = {Sa' indangikaya' 12  Try reading  [reader] , 29 , 27 pp.  300  ISBN-0726301906
+  title  = {Samiyak me Afrika ketike Isrel , tiwei mit nekinaam 5  Animals of Africa and Israel , tr. from Animals of Africa , and Animals of the Bible  , ed. by David SCORZA , 46 pp.  200  ISBN-0726307645 [LRF] [Moses Elaisa , Peter Yamane , and David SCORZA] , trs. , 1980. Menmen mit ne Isrel niriakem , tiwei 2  How the Jews lived , vol. 2 , tr. from Ol man bilong Baibel , tr. by Jim Parlier  [Au and Tok Pisin diglot,] 131 pp
+  title  = {Samon hanbou  Samo animals  , 24 pp.  100  ISBN-0726301302 [EZE]. 2nd edn
+  title  = {Sampela kantri klostu long yumi  Our neighbouring countries , tr. from New Guinea's neighbours , by Roy GwytherJones  , 35 pp.  3,000  ISBN-090945628 3. 2nd edn. 1973 with James PARKER
+  title = {Sank apulp Sakius  The story of Zaccheus  [Bible story] , ed. by Joan HENRY , 7 pp.  40  ISBN-9980008954 Carl , Jeffrey , 1997. Moule likekn ka nto nkaik kuretel , Jisas apul kil sepm  Jesus heals the paralytic  [Bible story] , ed. by Joan HENRY
+  title  = {Saric , Ljiljana , Andreas Musolff , Stefan Manz , and Ingrid Hudabiunigg  Eds.   2010 . Contesting Europe’s Eastern Rim Cultural Identities in Public Discourse. Bristol: Multilingual Matters.  ISBN-9781847693242  hb  , pp. 222 , £ 69.95
+  title = {Semantics of Ömie discourse , LDAPS 11 , 68 pp. ISBN-0883122111
+  title  = {Siklu pukaa [primer] , 126 pp.  100  ISBN-0726306118 [LRF] Tooti Nikiyamo , 1976. Fu ainemo  Pighunt  , ed. by Sören ÅRSJÖ and Britten ÅRSJÖ
+  title = {Sikulu viyawahinana au hinena  During school holidays  [prep school storybook] , comp. by Yasuko NAGAI , 7 pp.  134  ISBN-9980006307 [Division of Education , Milne Bay Province] Billy , Winnie , 1991. Aiyai ina haguu?  Who will help me?  [prep school storybook] , comp. by Yasuko NAGAI
+  title  = {Sikulu wiyagohinana ugolina  During school holidays  [prepschool story book] , 7 pp.  134  ISBN-9980006285 [Division of Education , Milne Bay Province] Billy , Winnie , 1991. Geka iyawoi tulahi?  Who's friend is he?  [prepschool story book]
+  title = {Simooye doongeye etuyeroweroyi nguro buks 46 [prereading visual discrimination books 46] , 18 pp. each  700 each  IISBN-9980006986 , ISBN-9980006994
+  title  = {Sipsip lar wanyihinda mashi  The parable of the lost sheep  [Bible story] , 8 pp.  30  Mi. Malasa , Jomax , trans. , 1997. Mashi Jonahi  Jonah  [Bible story] , ed. by TarjaIKÄHEIMONEN , 12 pp.  100  ISBN-9980018550 Nashikou , Martin , 1999. Nokopminyongo nendekop si lihinda mashi  The lonely woman  [storybook] , ed. by Hanna Marie HOEL , 8 pp.  50  ISBN-9980011599 Saisum , Peter , 1999. Mbashi nga fle nga  The rat and the pig  [storybook] , ed. by Hanna Marie HOEL , 18 pp.  50  ISBN-9980586745 Singamai , Rachael , 1993. Humbunda mashi [health book] , 16 pp.  45  ISBN-9980008733   Sio , Joachim and Paul Wan , trans. , 1993. Ka ni harka  Let's play  [storybook]
+  title  = {Síyáné ABC búku  Alphabet picture book  [prereader] , 32 pp.  400  ISBN-0726306479 [AID]. 2nd edn. 1981 rev
+  title  = {Sprachkontakte in Zentraleuropa. Ed. Andrzej Kątny. Sprach und Kulturkontakte in Europas Mitte. Studien zur Slawistik und Germanistik. 1. Frankfurt am Main: Peter Lang GmbH 2012. 186 pp. ISSN 21927170 , ISBN-9783631624098 
+  title  = {Sterkenburg , Piet van  Ed. . A Practical Guide to Lexicography. Amsterdam: John Benjamins. 2003. xii + 460 pages. ISBN-9027223300. 65.00 Euro  paperback 
+  title = {Stori bilong kaikai: Ol diwai na kaikai samting i kamap olsem wanem  Tr. from Plants and how they grow , by Roy GwytherJones  , 18 pp.  2,000  ISBN-0909456275. 2nd edn. 1973 , 23 pp.  700  [EZE] Sievert , John , and Raymond BROWN , trs. , 1970. Pasin bilong ol Juda , buk 1  Tr. from How the Jews lived , vol. 1
+  title  = {SZABÓMIHÁLY , Gizella – LANSTYÁK , István  eds. : MAGYAROK SZLOVÁKIÁBAN VII. KÖTET: NYELV. Somorja: Fórumkisebbségkutató Intézet 2011. 588 s. ISBN-9788089249541 
+  title  = {Tada sawa 'ena Dobu 1  Let's read Dobu 1  [primer] , 2nd edn. 1974 , 36 pp.  370  ISBN-0726302627  . 3rd edn. 1975 , 40 pp.  1,000  ISBN-0726303356. 4th edn. 1983 ,  1,200  [NFELT]. 5th edn 
+  title  = {Tafaomp séraro  Tafa's family: Fourth primer reader  , 30 pp.  260  ISBN-9980002875  . Rev
+  title = {Tägufa kea hämprio  Read three languages: Kamano  Kafe PidginEnglish , adapted from Tole ke havio , by Gwen Gibson and Joy McCarthy  [triglot] , 28 pp.  105 . Rep. 1971 including Ha'väheti kosina mäni'nea  Tr. from Flies are your enemy , by Camilla Wedgewood  , 59 pp.  500 . 2nd edn. 1973 , 67 pp.  800  ISBN-0726301140. 3rd edn. 1977 , ISBN-0726305022. 5th edn. 1984
+  title = {Tahi'a ato'a sau'a  The terrible twins  [reader] , 25 pp.  50  ISBN-998001153X Goþina , Raka , trans. , 1997. Mani ebu þaoþao  Wallaby and turtle  [reader]
+  title  = {Tairora 4  Primer 4  , 30 pp.  305 . Rep. 1973  300  ISBN-0726300896 [EZE]. 2nd edn. 1984
+  title  = {Tairora  OmwunraToqura  [supplementary primer , OburaTo'ukena dialect] , 76 pp.  250  ISBN-0726307203 [LRF]. Rep
+  title  = {Taita be taemaki  Let's see and do  , 14 pp.  200  ISBN-9980003413   Maburau , Tony , Venantius Irakau and Xavier Kumna , 1986. Nemla goleze 1  Read by yourself  [prereader]
+  title = {Takes viamegivoz kapot ev  Why should I pay tax?  , 15 pp.  100  ISBN-0726300942 [EZE] Hataia Rauke , Ririgao Ravei , and Elaine GEARY , trs. , 1975. Iudeaholoz tohat ñetiv , tepat 2  Customs of the Jews , book 2  , 92 pp.  100  ISBN-0726303321   Kahobo Trainees and Dori BJORKMAN , 1986. Maneaz tahñetio 2  The story of what Manea did: Easy reader 2  , 12 pp.  60   
+  title = {Talauvahili 'alina Auhelawa  We read Auhelawa  [primer] , rep. 63 pp.  30  ISBN-9980011076 AWAD BING Baran , Kunumang , 1994. Ruiy barnuw  The dugong story  [storybook]
+  title  = {Tarou ta Mak  Gospel of Mark  , 94 pp.  200  ISBN-08689139X [WHBL] [____] , tr. , 1987. Tarou ta Jenesis  Genesis 
+  title = {Tasis nga helenga Lote 18 [reading readiness books 18] , 13 pp. each  300 each  ISBNs ISBN-9980010371 , ISBN-9980010398 , ISBN-9980010339 , ISBN-998001038X , ISBN-9980010428 , ISBN-998001041X , ISBN-9980010401
+  title  = {Tasis nga helenga Lote 1 [primer 1] , 23 pp.  50  ISBN-9980008709   rev. edn. 1992 , ed. by Boni Mole and Ben Poke
+  title  = {Tau mughaya  Crocodile daydreams  [prep school storybook] , comp. by Yasuko NAGAI , 10 pp.  89  ISBN-9980007311 [BFDW] Dileina , Jacob , 1991. Amau a luhoghalei  I love my father  [prep school storybook] , comp. by Yasuko NAGAI
+  title  = {Ta vighohaghoha  Let's play  [prep school storybook] , comp. by Yasuko NAGAI , 8 pp.  89  ISBN-9980007648 [BFDW] Auboti , Jayne , 1991. HItapa tau kabebeu... If I were a butterfly...  [prep school storybook] , comp. by Yasuko NAGAI
+  title  = {Ta wigohagoha  Let's play  [prepschool story book] , 8 pp.  134  ISBN-9980006471 [Division of Education , Milne Bay Province] Auboti , Jayne , 1991. Itapa tau kapeuč If I were a butterflyč  [prepschool story book]
+  title  = {Teacher's guide for Manati pahakmaruare poku , 53 pp. Camelita Naki , tr. , 1975. Juda tiere fari  How the Jews lived , tr. from Pasin bilong ol Juda , tr. by John Sievert and Raymond Brown  [Boiken  Yangoru  and Melanesian Pidgin diglot] , ed. by Demon Hwasimani and Allen FREUDENBURG , 88 pp.  400  ISBN-0726303518   Demon Hwasimani , tr. , 1976. Kueliwalanka tiere huafu  Legends  [Boiken  Yangoru  , Melanesian Pidgin and English triglot] , ed. by Allen FREUDENBURG
+  title  = {Teaching and Researching Lexicography. R. R. K. Hartmann. Pearson Education 2001. 211 pages , 14.99 £. ISBN-0582369770 PPR 
+  title  = {TIBENSKÁ , Eva: Sémantická štruktúra slovenskej vety. Trnava : Univerzita sv. Cyrila a Metoda , Filozofická fakulta 2012. 295 s.  ISBN-9788081053436
+  title  = {Tibi  Tuberculosis  [health book] , 15 pp.  30  ISBN-9980019417 Sikama , Jodam , trans. , 1997. Aga la migan ang isik?  Whose friend is he?  [elementary science prep reader. Kuot / Tok Pisin diglot]
+  title = {Tifal weeng tiktiimin miit uta ko  Prereader 12  , 67 , 59 pp.  100 ea.  ISBN-0726306886
+  title  = {Timoti imi Fol tebe kamaki suuk kon dola kobesa uta ko  1 Timothy  , 27 pp.  150  ISBN-0727221744 [____  , ____ , ____ , Josie Bungsep , Ansep , and others] , trs. , 1988. God imi weng  New Testament 
+  title = {Tisana nyéga , wokbuk 3  Teacher's guide for prep school workbook 3  , 19 pp.  15  Mi. Jon Kélému , Kwagalin Kililan , Adéru Sapayé , Barry BAKER , and Helen BAKER , 1975. Yaknwu nyéga  Learn to read  [primer] , 108 pp.  300  ISBN-0726303763  . Rep. 1976  100  ISBN-0726306029 [LRF]. Rev. 1983
+  title  = {Tok Pisin:A Pidgin primer , 124 pp.  200  ISBN-0726306932 [LAT]. 2nd edn. 1984  150  ISBN-0726309079 [NFELT]. 3rd edn
+  title  = {Tok Pisin  Papua New Guinea Pidgin  [primer] , 124 pp.  200  ISBN-0726306932 [AID]. 4th edn. 1988 as Tok Pisin: A Pidgin primer
+  title  = {Tok save long ol kain liklik tok Kewa  Explaining Kewa dialects  , 53 pp.  500  ISBN-0726304220   Yapua Kirapeasi and Karl FRANKLIN , trs. , 1974. Niaana sunu regepeae ia su medaloma  Neighbouring countries , tr. from Sampela kantri klostu long yumi 
+  title  = {Tole kie havio [Kanite , Pidgin , and English triglot phrase book] , 33 pp.  150 . Rev. 1973  300  ISBN-0726300446. Rev. 1984
+  title  = {Tolotoloiyai hi begabega  They laughed till their sides ached  [prepschool story book] , 8 pp.  134  ISBN-9980006714 [Division of Education , Milne Bay Province] Belito , Fred , 1991. Magisubu oinana aoao  Eagle and crow  [prepschool story book]
+  title = {Toma 15 [primers] , 14 , 30 , 30 , 30 , 22 pp.  115  Marten Saun and Helen MARTEN , 1979. Mekim redi long rit na rait  Prereader and workbook , adapted from Getting ready to read , by Helen Marten , and Siyane ABC buku , by Denise Potts  , 111 pp.  250  ISBN-072630686X [LAT] Robert Merkwuse , tr. , 1974. Aprika nowselri por tob  Animals of Africa  , ed. by Christine Sela and Velma FOREMAN , 24 pp.  150  ISBN-0726302708   Merkwuse Nawok , tr. , 1974. Pita ri kitiy wuri tupam  Tr. from Pita buys a tin of meat , by Roy GwytherJones  [YessanMayoPidgin diglot] , ed. by Velma FOREMAN and Helen MARTEN , 24 pp.  150  ISBN-0726302694 Palus Geyma and John Weynakwo , 1975. Yen pes rip Ukraba yan lam  Two people visit Ukarumpa  [YessanMayo and English diglot] , ed. by Velma FOREMAN , 32 pp.  150  ISBN-0726303186   Saymon Amok , tr. , 1975. Kinakini toeakini  Kina and toea , tr. from Kina na toea , Liklik buk bilong ol pipel bilong Papua New Guinea , by The Currency Working Group  , ed
+  title = {[trial primer]. 1st edn. 1977 as Ubuugu kanagi nibe lipe ora tili bokumu  The book that shows how to read Kaugel  , 136 pp.  140  ISBN-0726304883 [AID]. 2nd edn. 1979 as Ubuugu kanagi nibe lipe ora tili boku 13  Primers 13  , 50 , 54 , 50 pp.  200  ISBN-0726306401 ISBN-0726306428
+  title  = {Trümpelmann , G. P. J./Erbe , E.: Wörterbuch/Woordeboek DeutschAfrikaans/AfrikaansDeutsch. Kapstadt: Pharos , 8. Auflage 2004 , 879 S. , Broschur  ISBN-1868900428 
+  title  = {Turočeková , Monika: Zmena intenčnej hodnoty prefixáciou  Na príklade pohybových slovies . Bratislava: Kasico , s r.o. 2012. 280 s. ISBN-9788070900382
+  title = {Tuwei kakikaap tuwei wikak [postprimer reader] , 27 pp.  100  ISBN-0726304239   ____. ____ , and ____ , 1975. Tiwei mit nekinaam [postprimer reader] , 27 pp.  200  ISBN-0726307092
+  title = {Tuwei me kat Mak kewiisem  Gospel of Mark  , 111 pp.  60  [Blackburn North Baptist Church , Vic. , Aust.] [____ Jackie SCORZA , and others] , trs. , 1982. Him yaaim me God  New Testament  , xiv + 1164 pp. + map  600  ISBN-0727222503 [WHBL & Carl and Ruth Looney , The Looney Foundation
+  title  = {Uëhoro jö hesi suroho  Fiction stories  [storybook] , 12 pp.  40  Mi.   Otire , Selby and John AUSTING , eds. , trans. , 1987. Ganie tögömade Dahore ahade  Guns fired! The mountain erupted!  [storybook] , 44 pp.  200  ISBN-9980005858 ___ and ___ , eds. , 1990. Jew rajehu diehi mu vaenövare jö hesi suri gemu  How the Jews lived  [Bible culture book]
+  title = {Ufiniuqá Ákara  Bird book  , 20 pp.  50  ISBN-99980016558 T'araarai , 1996. Dóodaani Ákara  Insect book 
+  title = {Ulik ulik  Genesis  , 148 pp.  250  ISBN-0868930725 [WHBL] TOK PISIN  MELANESIAN PIDGIN , NEOMELANESIAN , NEW GUINEA PIDGIN , PAPUA NEW GUINEA PIDGIN  [TE HENNEPE , Marten , and Gaipara Pala] , trs. , 1979. Rot i go antap  The Upward Road: Pidgin Bible studies , tr. from The Navigators' Bible studies  , 32 , 36 , 44 , 52 , 44 pp.  240  ISBN-0727222279 ISBN-0727222287 ISBN-0727222295 ISBN-0727222309
+  title = {uni zuhi'aþa  Bossy dog  [prep reader] , 15 pp.  50  ISBN-998001606X Goþina , Inara , 1995. Kimaikimai [elementary reader]
+  title  = {Valentina Crestani  2012 : Quaderno di lingua tedesca. Audiovisuelle Übersetzung aus dem Deutschen ins Italienische dargestellt am Beispiel von Spielfilmen. Torino: Celid.  ISBN-9788876619656. 16,00 Euro 
+  title  = {Viei rovoparai 1  Reading readiness  , iv + 36 pp.  200  ISBN-0726308455 [LRF] [____] , 1982. Viei rovoparai 2  Reading readiness  , iv + 52 pp.  200  ISBN-0726308463 [LRF] [____] , 1982. Viei rovoparai 3  Reading readiness  , iv + 60 pp
+  title  = {Visili  Fishing  [prep school storybook] , comp. by Yasuko NAGAI , 8 pp.  134  ISBN-9980006773 [Division of Education , Milne Bay Province] Dileina , Aiva , 1991. Amdulubi  Bellshaped fruit  [prep school storybook] , comp. by Yasuko NAGAI
+  title = {Vua nuvuone 15  Teacher's guide 15  , 51 , 39 , 37 , 33 , 37 pp.  40  ISBN-0726305669 ISBN-0726305677 ISBN-0726305685 ISBN-0726305693
+  title  = {Vua nuvuone 1a [supplementary primer] , 43 pp.  150  ISBN-0726307130 [LAT] George Sanamu and Beverley EVANS , 1983. Vua nuvuone zinume ije  Alphabet and number book 
+  title  = {Vua nuvuone 1  Primer 1  , 42 pp.  100  ISBN-0726303712  . Rev. 1978. 2nd edn. 1982 rev. by Peter EVANS
+  title  = {Vua nuvuone 2  Primer 2  , 46 pp.  100  ISBN-0726303720  . 2nd edn. 1978 rev. by Peter EVANS
+  title  = {Vua nuvuone 5  Reader  , 26 pp.  100  ISBN-0726303755  . 2nd edn. 1978 , 27 pp.  300  ISBN-0726305774 [AID] Robert Mara , 1983. Buki none na davo 1 , 2  Students story book  , ed. by Peter EVANS , 10 , 10 pp.  300 ea.  [NFELT] [____] , 1983. Vua nuvuone zinume ije  Teacher's guide  , ed. by Beverley EVANS , 46 pp.  30  Mi. [NFELT] Simon Savaiko and Beverley EVANS , 1984. Ire binobino ijafuo buki [science book]
+  title  = {Wang , Weiwei: Zweisprachige Fachlexikographie. Benutzungsforschung , Typologie und mikrostrukturelle Konzeption. Frankfurt am Main , Berlin , Bern , Bruxelles , New York , Oxford , Wien: Peter Lang 2001.  = Angewandte Sprachwissenschaft; Bd. 8 . Zugl. Darmstadt: Technische Universität , Diss. 2000. 334 Seiten , ISBN-363138033X
+  title  = {Wasa waiwaisana buki 1  Stories from Matthew: NRS 1  , 32 pp.  950  ISBN-998063023X [BSPNG]. Rep
+  title  = {Waskia diksenari [triglot dictionary] , DictPNG , vol. 7 , 395 pp.  300  ISBN-9980001496 [NFELT] Saleng Singel , tr. , 1980. Afrika sor te ko melmasak  Animals of Africa  , ed. by Fay BARKER and Janet LEE , 24 pp.  200  ISBN-0726307432 [LRF] [____] , tr. , 1980. Aninga aip awiri ya?  Tr. from Wanem nem bilong mi? , by Akera Tua  [riddle book] , ed. by Fay BARKER and Janet LEE
+  title = {Wauv ogoma buila wueser uwaw  Winim sik long ples  [health comic] , 13 pp.  150  ISBN-9980830239 [Kaukambaran Literacy and Translation Programme] [Nichlaus Babong] , tr. , 1988. Yuda muato mules ikaniki pukikmot nanar  How the Jews lived  , 176 pp.  100  ISBN-9980830131 [The J
+  title  = {Wei aiyavoi tulahi?  Whose friend is he?  [prep school storybook] , comp. by Yasuko NAGAI , 10 pp.  89  ISBN-9998000729X [BFDW] Dickson , Bona , 1991. Hinam mepa?  Where is your mother?  [prep school storybook] , comp. by Yasuko NAGAI
+  title  = {Werë ngun pepewer [transition primer] , 18 pp.  100 . Rev. 1969 , 19 pp.  700 . 3rd edn. 1975 as Weri ngön pepewer , 20 pp.  300  ISBN-0726303852  . 4th edn
+  title  = {Weri pepewer  Primers 15  , 169 pp.  350  ISBN-0726304417 [LRF]. Rep. 1979  350  [AID]. Primer 1 rev. 1983
+  title  = {Wisili  Fishing  [prepschool story book] , 8 pp.  134  ISBN-9980006331 [Division of Education , Milne Bay Province] Dileina , Aiva , 1991. Inapa a latagei naka  When I grow up  [prepschool story book]
+  title = {Womay gip gip rek  Things Womay does: Reader 5  , 16 pp.  500  ISBN-9980002042 [COMP] KAMANOKAFE  KAMANO  Albert Kirimpa , 1988. Hoga'mofo nänekene , Vevo nänekene me'nee  The story of a frog , The story of a boy called Vevo  , ed. by Audrey PAYNE
+  title  = {Yaatai yakeng<ro  Yaatai's doings  [Baruya and Melanesian Pidgin diglot] , ed. by [Richard LLOYD] , 86 pp.  300  ISBN-072630574X [AID] Biwarima' Aadavaakya , 1980. A'mwe naangere yagaalyasiro  A leader's talk  [Baruya and Melanesian Pidgin diglot] , ed. by Richard LLOYD
+  title  = {Yabuolo ma kalapu  Ant and crab  [prep school storybook] , comp. by Yasuko NAGAI , 6 pp.  134  ISBN-9980006668 [Division of Education , Milne Bay Province] Kiebu , Ronah , 1991. Hitapa tau iyana ghaeghaena... If I were a big fish...  [prep school storybook] , comp. by Yasuko NAGAI
+  title = {Yaubada bonana veyao ivaguna  New Testament  , WBT , Horsleys Green , High Wycombe , England , 1038 pp. + 3 maps  2050  ISBN-0727221639 [Brighton Road Baptist Church Horsham , Duke Street Baptist Church Richmond , Linlithgow Wycliffe Prayer Group
+  title  = {Yaubada yana vona'awaufaufa 'ivauna  New Testament  , 969 pp. + 3 maps  560  ISBN-0868931438 [WHBL]. 2nd edn. 1988
+  title  = {Yesasi kanale ke 2  Jesus' good talk   Scripture portions  , 121 pp.  400  ISBN-0868931349 [WHBL] [McCARTHY , Joy , Gwen GIBSON] , Nessy , and Avoti] , trs. , 1982. Yesasi kanale ke  Scripture portions  , 158 pp.  150  ISBN-0868931233. 2nd edn. 1983. 3rd edn. 1983 , 158 pp.  500  ISBN-0868931233 [WHBL] [Nessy Mativa , Keve Verefu , and Joy McCARTHY] , trs. , 1985. Lu'ku  Gospel of Luke  , 245 pp.  850  ISBN-0868931799 [WHBL]. 2nd edn. 1989
+  title = {Yesu kala kuwa dowa , lufuwa 3  NRS 3  , 32 pp.  500  ISBN-998063183X [BSPNG] Joseph Kaupa , 1988. Onesa wenina monate ka  Our peoples' ways today  , comp. and ed. by [Hanni GASSMANN] , 32 pp.  200  ISBN-9980004541 [Kingston Maima and Ketenge Umbano] , trs. , 1990. Yuda wenina monatina eteme abo ne  How the Jews lived  , ed
+  title = {Yetan ge natunau: Buki vavasili 11  Introductory reader 11  , rep. 20 pp.  250  ISBN-9980007141   ___,1991. Lina ge lagona: Buki vavasili 12  Introductory reader 12  , rep. 20 pp
+  title = {Y<'mayagaala s<kul<p<karya [primer] , 96 pp.  200  ISBN-072630025X [EZE]. Rev. 1978
+  title = {Yokwo kwi 4 [trial primer] , ed. by Pol Kwarin and Marilyn LASZLO , 92 pp.  60 . 1st edn. 1976 , 97 pp.  300  ISBN-072630400X Tom Mowikam and Zechariah Naii , trs. , 1985. Kwoin whwoimairni niwigin  The three wishes , tr. into Tok Pisin by Zechariah Naii and Ruben Meiyo  [reader]
+  title  = {Yokwo kwir 12 [trial primers] , 31 , 41 pp.  50  Michael Wantawi and others , trs. , 1985. Niiwi pai niiwipaini niiwigim  Many different stories by Aesop , tr. into Tok Pisin by Shirley KILLOSKY and others  [Sepik IwamTok PisinEnglish triglot] , 52 pp.  200  ISBN-9980001585 [LRF] Samson Amino , tr. , 1983. Hu yinsisim oumin  Three little pigs  [triglot with Pidgin and English] , ed. by Shirley KILLOSKY , 34 pp.  200  ISBN-0726308935 Samson Yaka , 1975. Yokwokwir 1 [trial primer] , ed. by Pol Kwarin and Marilyn LASZLO , 96 pp.  80 . 1st edn. 1976
+  title  = {Yokwo kw<s  Primer 2  , 168 pp.  200  ISBN-9980005963 Meiyo , Ruben , Zechariah Naii and Tom Mowikam , trans. , 1984. Litel ret reiding hud  Little Red Riding Hood  [triglot storybook] , 36 pp.  400  ISBN-9980000104 [LRF] Mowikam , Tom and Zechariah Naii , trans. , 1984. N<nomora <ni n<kiinaiiniya  The sky is falling  [triglot storybook]
+  title  = {Yon  Gospel and Epistles of John  , iv + 140 pp.  150  ISBN-0868931039 [WHBL] [Sakiba Sanameng , Charlotte MECKLENBURG , and Alkom Fainimal] , trs. , 1988. Matiyu  Gospel of Matthew 
+  title  = {Yoni  Gospel of John  , 166 pp.  451  ISBN-0868931934 [WHBL & ANZ WHBL]. 2nd edn. 1990
+  title  = {Yoni  Gospel of John  , WBT Aust. , 153 pp.  100  ISBN-072722221X [Rev. Gustav Söderberg , Köping , Sweden]. Rev. 1984 with Alfred Toginitu , Gibson Deilala , Isabel LECKIE , and David LITHGOW , 106 pp.  500  ISBN-072722167X [LRF] [Fred Toginitu , Sampson Tauwaliesa , Dipastine Roni , Sebastian Nayowega , Devin Aiki , Basimata Belebelele , Gibson Deilala , Isabel LECKIE , and David LITHGOW] , trs. , 1986. Loina hauhauna Maki Loma He'ita'ita  Mark , Romans , and Revelation 
+  title = {Yuda ousou diyen howotouli obusu  How the Jews lived , vol. 1  , 83 pp.  100  ISBN-0726301329 [EZE]. 2nd edn. 1981 , by Minlo and Waduwo with Daniel SHAW and Karen SHAW , trs. , rev. as Yuda oosoo diyen howotooli obusu
+  title = {Yuda wurinou qomon 1: Pasin bilong ol Juda  Tok Pisin tr. by John Sievert and Ray Brown from How the Jews lived  [diglot] , 87 pp.  50  ISBN-0726307602 Urand Qarig , tr. , 1982. Tugeri toar war qob eng  Piring got malaria , adapted from Piring em i kisim sik malaria  [Usan and Tok Pisin diglot],ed. by Piniau Manat and Ger REESINK
+  title = {Yudiya Wali Pagan  How the Jews lived  [Bible culture book] , 84 pp.  500  ISBN-99800014628 Sabbath , W. Alfred , 1991. aeiou ana buki  ABC book  , 3rd edn 
